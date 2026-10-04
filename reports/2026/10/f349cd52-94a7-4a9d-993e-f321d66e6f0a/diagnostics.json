@@ -1,0 +1,144 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-04T09:35:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 6 photos",
+      "time" : "2026-10-04T09:35:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: NEF, Nikon Z 6, 6064 × 4040, with an edit, in 1.8 s",
+      "time" : "2026-10-04T09:35:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 33%",
+      "time" : "2026-10-04T09:35:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 40%",
+      "time" : "2026-10-04T09:36:48Z"
+    }
+  ],
+  "area" : "masking.objects",
+  "captured" : "2026-10-04T09:36:50Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "masks" : [
+
+    ],
+    "pointCurve" : false,
+    "processVersion" : 11,
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Exposure -0.05"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened"
+  ],
+  "historyIndex" : 0,
+  "kind" : "bug",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo A",
+    "asShotWhiteBalance" : "3034 K, tint -4",
+    "camera" : "Nikon Z 6",
+    "exposure" : "ISO 100, 52 mm, ƒ/6.7, 1.0 s",
+    "fileName" : "Photo A",
+    "format" : "NEF (raw, Bayer RGGB)",
+    "lens" : "NIKKOR Z 24-70mm f/4 S",
+    "size" : "6064 × 4040 (24.5 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "F349CD52-94A7-4A9D-993E-F321D66E6F0A",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-04T09:36:50Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "processVersion" : 11,
+      "treatment" : "color",
+      "values" : {
+        "basic.exposure" : -0.050000000000000003,
+        "wb.temperature" : 3034.4403978395026,
+        "wb.tint" : -4.3511061477664281
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "folderPhotos" : 6,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "40%"
+  },
+  "system" : {
+    "appVersion" : "0.2.2-prealpha",
+    "build" : "1",
+    "chip" : "Apple M1 Ultra",
+    "configuration" : "Debug",
+    "cores" : "16 performance and 4 efficiency cores",
+    "displays" : [
+      "6144 × 2560 pt at 1x, DELL U5226KW Color Profile, D6500, Native, SDR",
+      "2560 × 1440 pt at 2x, HP Z27, SDR"
+    ],
+    "gpu" : "Apple M1 Ultra, 108 GB working set",
+    "locale" : "en_GB",
+    "lowPowerMode" : false,
+    "macOS" : "26.6.2 (25G83)",
+    "memory" : "128 GB",
+    "model" : "Mac13,2",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): ready",
+      "OWLv2 (base) (owlv2-base): ready",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): ready"
+    ],
+    "thermalState" : "nominal"
+  }
+}
