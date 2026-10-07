@@ -1,0 +1,34 @@
+{
+  "area" : "viewing.before-after",
+  "captured" : "2026-10-07T12:40:31Z",
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "kind" : "bug",
+  "report" : "1B7FC602-8D41-4241-BE4D-CB2612B3CDD6",
+  "system" : {
+    "appVersion" : "0.2.5-prealpha",
+    "build" : "813",
+    "chip" : "Apple M4",
+    "commit" : "600f66dcc1bf",
+    "configuration" : "Release",
+    "cores" : "4 performance and 6 efficiency cores",
+    "displays" : [
+      "1470 × 956 pt at 2x, Color LCD, HDR up to 2x"
+    ],
+    "gpu" : "Apple M4, 25 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.2.0 (26B5091g)",
+    "memory" : "32 GB",
+    "model" : "Mac16,12",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
