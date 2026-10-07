@@ -1,0 +1,2398 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-07T14:54:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 62 photos",
+      "time" : "2026-10-07T14:54:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: RW2, Panasonic DC-S5M2, 12008 × 8008, unedited, in 1.8 s",
+      "time" : "2026-10-07T14:54:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 15%",
+      "time" : "2026-10-07T14:54:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 22%",
+      "time" : "2026-10-07T14:55:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 15%",
+      "time" : "2026-10-07T14:55:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-07T14:55:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 15%",
+      "time" : "2026-10-07T14:55:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.6 s",
+      "time" : "2026-10-07T14:55:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-07T14:55:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-07T14:55:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-07T14:55:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-07T14:55:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-07T14:55:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo G: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-07T14:55:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo H: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-07T14:55:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-07T14:55:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-07T14:55:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-07T14:56:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-07T14:56:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 35%",
+      "time" : "2026-10-07T14:56:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-07T14:56:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-07T14:56:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-07T14:56:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Straighten: 0.00° → -0.16°",
+      "time" : "2026-10-07T14:56:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-07T14:56:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T14:56:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Heal",
+      "time" : "2026-10-07T14:56:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-10-07T14:56:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-10-07T14:56:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-07T14:56:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-07T14:56:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-07T14:56:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-07T14:56:35Z"
+    },
+    {
+      "count" : 3,
+      "kind" : "action",
+      "text" : "Decrease Rating",
+      "time" : "2026-10-07T14:56:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "message",
+      "text" : "Remove Dust said: No dust found.",
+      "time" : "2026-10-07T14:56:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Heal",
+      "time" : "2026-10-07T14:56:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove",
+      "time" : "2026-10-07T14:56:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-10-07T14:56:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove",
+      "time" : "2026-10-07T14:56:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Remove”",
+      "time" : "2026-10-07T14:57:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-07T14:57:01Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Remove",
+      "time" : "2026-10-07T14:57:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Remove”",
+      "time" : "2026-10-07T14:57:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-07T14:57:08Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Remove",
+      "time" : "2026-10-07T14:57:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-07T14:57:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T14:57:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-07T14:57:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T14:57:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T14:57:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Exposure: 0.00 → +0.66",
+      "time" : "2026-10-07T14:57:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Contrast: 0 → +7",
+      "time" : "2026-10-07T14:57:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Highlights: 0 → -67",
+      "time" : "2026-10-07T14:57:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: 0 → -20",
+      "time" : "2026-10-07T14:57:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Whites: 0 → -10",
+      "time" : "2026-10-07T14:57:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Blacks: 0 → +9",
+      "time" : "2026-10-07T14:57:50Z"
+    },
+    {
+      "count" : 6,
+      "kind" : "edit",
+      "text" : "Point Curve",
+      "time" : "2026-10-07T14:57:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T14:58:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Lens Corrections panel",
+      "time" : "2026-10-07T14:58:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Transform panel",
+      "time" : "2026-10-07T14:58:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Transform panel",
+      "time" : "2026-10-07T14:58:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Transform panel",
+      "time" : "2026-10-07T14:58:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Effects panel",
+      "time" : "2026-10-07T14:58:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Vignette Amount: 0 → -9",
+      "time" : "2026-10-07T14:58:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Vignette Midpoint: 50 → 61",
+      "time" : "2026-10-07T14:58:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:58:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T14:58:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:58:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T14:58:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:58:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T14:58:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:58:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T14:58:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:58:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T14:58:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:58:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T14:58:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Calibration panel",
+      "time" : "2026-10-07T14:58:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Red Primary Saturation: 0 → +17",
+      "time" : "2026-10-07T14:59:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Red Primary Hue: 0 → -1",
+      "time" : "2026-10-07T14:59:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Green Primary Hue: 0 → +1",
+      "time" : "2026-10-07T14:59:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Green Primary Saturation: 0 → -21",
+      "time" : "2026-10-07T14:59:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Blue Primary Hue: 0 → -12",
+      "time" : "2026-10-07T14:59:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Blue Primary Saturation: 0 → +19",
+      "time" : "2026-10-07T14:59:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:59:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T14:59:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T14:59:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T14:59:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-07T14:59:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-07T14:59:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-10-07T14:59:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-10-07T14:59:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-10-07T14:59:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T14:59:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-10-07T14:59:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-07T14:59:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-10-07T14:59:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-10-07T14:59:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-07T14:59:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-10-07T14:59:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-10-07T14:59:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Subject",
+      "time" : "2026-10-07T15:00:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now Background, add Subject",
+      "time" : "2026-10-07T15:00:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-10-07T15:00:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “New Background”",
+      "time" : "2026-10-07T15:00:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-07T15:00:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now Background",
+      "time" : "2026-10-07T15:00:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Objects",
+      "time" : "2026-10-07T15:00:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-07T15:00:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Objects",
+      "time" : "2026-10-07T15:00:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now Background, add Objects",
+      "time" : "2026-10-07T15:00:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-07T15:00:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “New Background”",
+      "time" : "2026-10-07T15:00:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-07T15:00:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now Background",
+      "time" : "2026-10-07T15:00:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Amount: 100 → 102",
+      "time" : "2026-10-07T15:00:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Amount: 102 → 100",
+      "time" : "2026-10-07T15:00:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → -1.25",
+      "time" : "2026-10-07T15:00:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Contrast: 0 → -47",
+      "time" : "2026-10-07T15:00:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Highlights: 0 → -6",
+      "time" : "2026-10-07T15:00:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Shadows: 0 → +42",
+      "time" : "2026-10-07T15:00:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Whites: 0 → +1",
+      "time" : "2026-10-07T15:00:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Blacks: 0 → +21",
+      "time" : "2026-10-07T15:00:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Objects",
+      "time" : "2026-10-07T15:01:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-07T15:01:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-07T15:01:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-07T15:01:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-07T15:01:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Highlights: 0 → -31",
+      "time" : "2026-10-07T15:01:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Shadows: 0 → -2",
+      "time" : "2026-10-07T15:01:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-07T15:01:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-07T15:01:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-07T15:01:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-07T15:01:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Exposure: 0.00 → -0.61",
+      "time" : "2026-10-07T15:01:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Contrast: 0 → +14",
+      "time" : "2026-10-07T15:01:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Highlights: 0 → -77",
+      "time" : "2026-10-07T15:01:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:01:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:01:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:02:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-07T15:02:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:02:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:02:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:02:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:02:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:02:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:02:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: -20 → -15",
+      "time" : "2026-10-07T15:02:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Exposure: +0.66 → +0.71",
+      "time" : "2026-10-07T15:02:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Exposure: +0.71 → +0.76",
+      "time" : "2026-10-07T15:02:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Contrast: +7 → +13",
+      "time" : "2026-10-07T15:02:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:02:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:02:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:02:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:02:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-07T15:02:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T15:04:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-07T15:04:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T15:04:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:04:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Vibrance: 0 → -2",
+      "time" : "2026-10-07T15:04:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-07T15:04:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Radial Gradient",
+      "time" : "2026-10-07T15:04:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-10-07T15:05:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Linear Gradient",
+      "time" : "2026-10-07T15:05:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:05:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-07T15:05:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Amount: 100 → 69",
+      "time" : "2026-10-07T15:05:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: -1.25 → -1.33",
+      "time" : "2026-10-07T15:05:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Highlights: -6 → +28",
+      "time" : "2026-10-07T15:05:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-07T15:05:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-07T15:05:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Radial Gradient",
+      "time" : "2026-10-07T15:05:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 3”: Radial Gradient",
+      "time" : "2026-10-07T15:05:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Edit Mask 3",
+      "time" : "2026-10-07T15:06:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Mask 3",
+      "time" : "2026-10-07T15:06:01Z"
+    },
+    {
+      "count" : 3,
+      "kind" : "edit",
+      "text" : "Edit Mask 3",
+      "time" : "2026-10-07T15:06:03Z"
+    },
+    {
+      "count" : 5,
+      "kind" : "edit",
+      "text" : "Rotate Mask 3",
+      "time" : "2026-10-07T15:06:08Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Edit Mask 3",
+      "time" : "2026-10-07T15:06:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Mask 3",
+      "time" : "2026-10-07T15:06:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Edit Mask 3",
+      "time" : "2026-10-07T15:06:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Highlights: 0 → +26",
+      "time" : "2026-10-07T15:06:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Feather: 50 → 88",
+      "time" : "2026-10-07T15:06:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Amount: 100 → 104",
+      "time" : "2026-10-07T15:06:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Exposure: 0.00 → +0.42",
+      "time" : "2026-10-07T15:06:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Edit Mask 3",
+      "time" : "2026-10-07T15:06:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Shadows: 0 → -25",
+      "time" : "2026-10-07T15:06:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Whites: 0 → +12",
+      "time" : "2026-10-07T15:06:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Blacks: 0 → -11",
+      "time" : "2026-10-07T15:06:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Texture: 0 → +15",
+      "time" : "2026-10-07T15:06:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Clarity: 0 → +6",
+      "time" : "2026-10-07T15:06:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Dehaze: 0 → +5",
+      "time" : "2026-10-07T15:06:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Edit Mask 3",
+      "time" : "2026-10-07T15:07:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-07T15:07:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-07T15:07:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-07T15:07:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-07T15:07:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-07T15:07:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-07T15:07:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Mask 3",
+      "time" : "2026-10-07T15:07:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Delete Selected Mask or Spot",
+      "time" : "2026-10-07T15:07:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-07T15:07:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Add Point Color Swatch”",
+      "time" : "2026-10-07T15:07:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-07T15:07:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-10-07T15:07:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 3”: Radial Gradient",
+      "time" : "2026-10-07T15:07:42Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Delete Point Color Swatch",
+      "time" : "2026-10-07T15:07:48Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-07T15:07:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Point Color Hue Shift: 0 → -100",
+      "time" : "2026-10-07T15:08:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Point Color Hue Shift: -100 → 0",
+      "time" : "2026-10-07T15:08:04Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Delete Point Color Swatch",
+      "time" : "2026-10-07T15:08:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-07T15:08:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Point Color Hue Shift: 0 → -43",
+      "time" : "2026-10-07T15:08:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Point Color Saturation Shift: 0 → +9",
+      "time" : "2026-10-07T15:08:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-07T15:08:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Mask 3 Point Color Saturation Shift: 0 → +9”",
+      "time" : "2026-10-07T15:08:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-07T15:08:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-07T15:09:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T15:13:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-07T15:13:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T15:13:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:13:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-07T15:13:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:15:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:15:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:15:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:15:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:15:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:15:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:15:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:15:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-07T15:15:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Exposure: 0.00 → -0.27",
+      "time" : "2026-10-07T15:16:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Contrast: 0 → -23",
+      "time" : "2026-10-07T15:16:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:16:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:16:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:16:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:16:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 3”: Radial Gradient",
+      "time" : "2026-10-07T15:16:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Highlights: +26 → +15",
+      "time" : "2026-10-07T15:16:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 3 Exposure: +0.42 → +0.23",
+      "time" : "2026-10-07T15:16:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:16:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:16:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-07T15:16:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:16:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:16:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:16:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Curve Darks: 0 → -11",
+      "time" : "2026-10-07T15:17:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Exposure: +0.76 → +0.85",
+      "time" : "2026-10-07T15:19:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:19:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:19:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:19:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:19:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:19:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:19:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:19:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:19:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:19:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-07T15:19:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-07T15:19:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-07T15:19:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Green Hue: 0 → +17",
+      "time" : "2026-10-07T15:19:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Green Hue: +17 → 0",
+      "time" : "2026-10-07T15:19:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Green Hue: 0 → -19",
+      "time" : "2026-10-07T15:19:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Green Saturation: 0 → -13",
+      "time" : "2026-10-07T15:19:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Green Luminance: 0 → -52",
+      "time" : "2026-10-07T15:19:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:19:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-07T15:19:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:20:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:20:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:20:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exporting Photo H…",
+      "time" : "2026-10-07T15:21:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exported Photo H-redlamp.jpg",
+      "time" : "2026-10-07T15:21:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 63 photos",
+      "time" : "2026-10-07T15:21:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exporting Photo H…",
+      "time" : "2026-10-07T15:21:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exported Photo H-redlamp.jpg",
+      "time" : "2026-10-07T15:21:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-07T15:23:08Z"
+    }
+  ],
+  "area" : "export.dialog",
+  "captured" : "2026-10-07T15:26:41Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "crop" : "100% × 83% of the photo",
+    "masks" : [
+      "“Background”: Background; Blacks +21, Contrast -47, Exposure -1.33, Highlights +28, Shadows +42, Whites +1; amount 69; apple.vision.foreground+closed-form r1 on Version 27.0.1 (Build 26A434)",
+      "“Mask 1”: Objects; Contrast -23, Exposure -0.27, Highlights -31, Shadows -2; amount 100; redlamp.sam2.1-tiny+closed-form r1",
+      "“Mask 2”: Objects; Contrast +14, Exposure -0.61, Highlights -77; amount 100; redlamp.sam2.1-tiny+closed-form r1",
+      "“Mask 3”: Radial Gradient; Blacks -11, Clarity +6, Dehaze +5, Exposure +0.23, Highlights +15, Shadows -25, Texture +15, Whites +12; amount 104"
+    ],
+    "pointCurve" : true,
+    "processVersion" : 13,
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Exposure +0.85",
+          "Contrast +13",
+          "Highlights -67",
+          "Shadows -15",
+          "Whites -10",
+          "Blacks +9",
+          "Vibrance -2"
+        ]
+      },
+      {
+        "panel" : "Tone Curve",
+        "values" : [
+          "Curve Darks -11"
+        ]
+      },
+      {
+        "panel" : "Color Mixer",
+        "values" : [
+          "Green Hue -19",
+          "Green Saturation -13",
+          "Green Luminance -52"
+        ]
+      },
+      {
+        "panel" : "Effects",
+        "values" : [
+          "Vignette Amount -9",
+          "Vignette Midpoint 61"
+        ]
+      },
+      {
+        "panel" : "Calibration",
+        "values" : [
+          "Red Primary Hue -1",
+          "Red Primary Saturation +17",
+          "Green Primary Hue +1",
+          "Green Primary Saturation -21",
+          "Blue Primary Hue -12",
+          "Blue Primary Saturation +19"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 4,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Import",
+    "Crop Aspect: 4 × 5 / 8 × 10",
+    "Straighten: 0.00° → -0.16°",
+    "Heal",
+    "Remove",
+    "Remove",
+    "Remove",
+    "Remove",
+    "Exposure: 0.00 → +0.66",
+    "Contrast: 0 → +7",
+    "Highlights: 0 → -67",
+    "Shadows: 0 → -20",
+    "Whites: 0 → -10",
+    "Blacks: 0 → +9",
+    "Point Curve",
+    "Point Curve",
+    "Point Curve",
+    "Point Curve",
+    "Point Curve",
+    "Point Curve",
+    "Vignette Amount: 0 → -9",
+    "Vignette Midpoint: 50 → 61",
+    "Red Primary Saturation: 0 → +17",
+    "Red Primary Hue: 0 → -1",
+    "Green Primary Hue: 0 → +1",
+    "Green Primary Saturation: 0 → -21",
+    "Blue Primary Hue: 0 → -12",
+    "Blue Primary Saturation: 0 → +19",
+    "New Background",
+    "Background Amount: 100 → 102",
+    "Background Amount: 102 → 100",
+    "Background Exposure: 0.00 → -1.25",
+    "Background Contrast: 0 → -47",
+    "Background Highlights: 0 → -6",
+    "Background Shadows: 0 → +42",
+    "Background Whites: 0 → +1",
+    "Background Blacks: 0 → +21",
+    "New Objects",
+    "Mask 1 Highlights: 0 → -31",
+    "Mask 1 Shadows: 0 → -2",
+    "New Objects",
+    "Mask 2 Exposure: 0.00 → -0.61",
+    "Mask 2 Contrast: 0 → +14",
+    "Mask 2 Highlights: 0 → -77",
+    "Shadows: -20 → -15",
+    "Exposure: +0.66 → +0.71",
+    "Exposure: +0.71 → +0.76",
+    "Contrast: +7 → +13",
+    "Vibrance: 0 → -2",
+    "Background Amount: 100 → 69",
+    "Background Exposure: -1.25 → -1.33",
+    "Background Highlights: -6 → +28",
+    "Edit Mask 3",
+    "Rotate Mask 3",
+    "Edit Mask 3",
+    "Edit Mask 3",
+    "Edit Mask 3",
+    "Rotate Mask 3",
+    "Rotate Mask 3",
+    "Rotate Mask 3",
+    "Rotate Mask 3",
+    "Rotate Mask 3",
+    "Edit Mask 3",
+    "Edit Mask 3",
+    "Rotate Mask 3",
+    "Edit Mask 3",
+    "Mask 3 Highlights: 0 → +26",
+    "Mask 3 Feather: 50 → 88",
+    "Mask 3 Amount: 100 → 104",
+    "Mask 3 Exposure: 0.00 → +0.42",
+    "Edit Mask 3",
+    "Mask 3 Shadows: 0 → -25",
+    "Mask 3 Whites: 0 → +12",
+    "Mask 3 Blacks: 0 → -11",
+    "Mask 3 Texture: 0 → +15",
+    "Mask 3 Clarity: 0 → +6",
+    "Mask 3 Dehaze: 0 → +5",
+    "Edit Mask 3",
+    "Add Point Color Swatch",
+    "Add Point Color Swatch",
+    "Delete Point Color Swatch",
+    "Delete Point Color Swatch",
+    "Add Point Color Swatch",
+    "Add Point Color Swatch",
+    "Mask 3 Point Color Hue Shift: 0 → -100",
+    "Mask 3 Point Color Hue Shift: -100 → 0",
+    "Delete Point Color Swatch",
+    "Delete Point Color Swatch",
+    "Add Point Color Swatch",
+    "Mask 3 Point Color Hue Shift: 0 → -43",
+    "Mask 3 Point Color Saturation Shift: 0 → +9",
+    "Add Point Color Swatch",
+    "Mask 1 Exposure: 0.00 → -0.27",
+    "Mask 1 Contrast: 0 → -23",
+    "Mask 3 Highlights: +26 → +15",
+    "Mask 3 Exposure: +0.42 → +0.23",
+    "Curve Darks: 0 → -11",
+    "Exposure: +0.76 → +0.85",
+    "Green Hue: 0 → +17",
+    "Reset Green Hue: +17 → 0",
+    "Green Hue: 0 → -19",
+    "Green Saturation: 0 → -13",
+    "Green Luminance: 0 → -52"
+  ],
+  "historyIndex" : 102,
+  "kind" : "bug",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo H",
+    "asShotWhiteBalance" : "5004 K, tint 4",
+    "camera" : "Panasonic DC-S5M2",
+    "exposure" : "ISO 200, 60 mm, ƒ/2.8, 1/250 s",
+    "fileName" : "Photo H",
+    "format" : "RW2 (raw, Bayer RGGB)",
+    "lens" : "LUMIX S 24-60/F2.8",
+    "size" : "4008 × 6008 (24.1 MP)",
+    "volume" : "exfat, internal"
+  },
+  "report" : "861E1511-056A-4B9E-AF0E-CE22CAFA8100",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-07T15:26:41Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "crop" : {
+        "bottom" : 0.91548359227185161,
+        "left" : 0.0017514127007416391,
+        "right" : 0.99824858729925836,
+        "top" : 0.084516407728148391
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.blacks" : 21,
+            "local.contrast" : -47,
+            "local.exposure" : -1.3300000000000001,
+            "local.highlights" : 28,
+            "local.shadows" : 42,
+            "local.whites" : 1
+          },
+          "amount" : 69,
+          "components" : [
+            {
+              "id" : "14A5E6AF-26F9-4A04-8D22-6B4DC929A04C",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "571350c1e00882e2fbbb08dcbc8b19b0",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "4d20d4654a4bcf1e35631290159083569aa24d5d2fa741f7bd537ac0c18692e1",
+                      "width" : 2732
+                    },
+                    "center" : {
+                      "x" : 0.4380879839372806,
+                      "y" : 0.3800342960812097
+                    },
+                    "createdAt" : "2026-10-07T14:59:55Z",
+                    "kind" : "background",
+                    "osBuild" : "Version 27.0.1 (Build 26A434)",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "apple.vision.foreground+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "2235BE85-71EC-4103-B27A-6A4E4A0DAEA4",
+          "isVisible" : true,
+          "name" : "Background"
+        },
+        {
+          "adjustments" : {
+            "local.contrast" : -23,
+            "local.exposure" : -0.27000000000000002,
+            "local.highlights" : -31,
+            "local.shadows" : -2
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "E535D868-1605-4F00-8B77-198671E91806",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "571350c1e00882e2fbbb08dcbc8b19b0",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "d95b7560de691a438afd8be57a2bedf055058220d78470a1febe5fffdabfe2bd",
+                      "width" : 2732
+                    },
+                    "box" : {
+                      "bottom" : 0.60185808213844494,
+                      "left" : 0.17878650044083388,
+                      "right" : 0.96170210934820899,
+                      "top" : 0.10685206512516171
+                    },
+                    "center" : {
+                      "x" : 0.65314327923725246,
+                      "y" : 0.37442725280457045
+                    },
+                    "createdAt" : "2026-10-07T15:01:29Z",
+                    "kind" : "objects",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "redlamp.sam2.1-tiny+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "E5D68A01-6CB6-403B-8BB8-FA5F7AAA8764",
+          "isVisible" : true,
+          "name" : "Mask 1"
+        },
+        {
+          "adjustments" : {
+            "local.contrast" : 14,
+            "local.exposure" : -0.60999999999999999,
+            "local.highlights" : -77
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "CE8DE67B-7500-4106-9AD2-E3F75AFB7461",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "571350c1e00882e2fbbb08dcbc8b19b0",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "df9717eebdbc43a40c6338d8b04dffd67555cfb6f3352ab59a01444cca569cf8",
+                      "width" : 2732
+                    },
+                    "center" : {
+                      "x" : 0.43646807812819299,
+                      "y" : 0.44278571313073711
+                    },
+                    "createdAt" : "2026-10-07T15:01:44Z",
+                    "kind" : "objects",
+                    "prompts" : [
+                      {
+                        "x" : 0.43646807812819299,
+                        "y" : 0.44278571313073711
+                      }
+                    ],
+                    "provider" : "redlamp.sam2.1-tiny+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "05096746-F754-4161-9000-45D9BEEADF62",
+          "isVisible" : true,
+          "name" : "Mask 2"
+        },
+        {
+          "adjustments" : {
+            "local.blacks" : -11,
+            "local.clarity" : 6,
+            "local.dehaze" : 5,
+            "local.exposure" : 0.23000000000000001,
+            "local.highlights" : 15,
+            "local.shadows" : -25,
+            "local.texture" : 15,
+            "local.whites" : 12
+          },
+          "amount" : 104,
+          "components" : [
+            {
+              "id" : "A341BB2C-3F99-4928-BF69-32834015AD14",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "radial" : {
+                  "_0" : {
+                    "center" : {
+                      "x" : 0.44623374838746344,
+                      "y" : 0.63923140128722322
+                    },
+                    "feather" : 88,
+                    "radiusX" : 0.10395480858224483,
+                    "radiusY" : 0.29334215729698127,
+                    "rotation" : -74.28978326818941
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "BC29A4C4-C525-4EB9-851B-DF9D657EA575",
+          "isVisible" : true,
+          "name" : "Mask 3",
+          "pointColor" : [
+            {
+              "color" : {
+                "chroma" : 0.032231649264664257,
+                "hue" : 99.056529410613862,
+                "lightness" : 0.37890625
+              },
+              "id" : "46B44638-720A-4D63-AC1C-2761A86620F0",
+              "picked" : {
+                "center" : {
+                  "x" : 0.52874389950042155,
+                  "y" : 0.66276908831753512
+                },
+                "radius" : 0
+              },
+              "values" : {
+                "pointColor.shift.hue" : -43,
+                "pointColor.shift.saturation" : 9
+              }
+            },
+            {
+              "color" : {
+                "chroma" : 0.089976875526550801,
+                "hue" : 12.895569885117135,
+                "lightness" : 0.313232421875
+              },
+              "id" : "0C6A1787-71EB-4A4F-8B1D-9C2764DED6AD",
+              "picked" : {
+                "center" : {
+                  "x" : 0.56140313587580137,
+                  "y" : 0.64657976128190486
+                },
+                "radius" : 0
+              },
+              "values" : {
+
+              }
+            }
+          ]
+        }
+      ],
+      "pointCurve" : [
+        {
+          "x" : 0,
+          "y" : 0.03218587239583337
+        },
+        {
+          "x" : 0.1724582248263889,
+          "y" : 0.14199490017361116
+        },
+        {
+          "x" : 0.5042724609375,
+          "y" : 0.4976806640625
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "processVersion" : 13,
+      "spots" : [
+        {
+          "center" : {
+            "x" : 0.59815421055371665,
+            "y" : 0.7175336578632644
+          },
+          "feather" : 50,
+          "id" : "C6E87FB7-5353-4883-BCDB-3BB08FEAAE2B",
+          "mode" : "remove",
+          "opacity" : 100,
+          "radius" : 0.006880000000000001,
+          "source" : {
+            "x" : 0.65703645199834704,
+            "y" : 0.72685457069610315
+          }
+        },
+        {
+          "center" : {
+            "x" : 0.10834241008254192,
+            "y" : 0.63198888848015411
+          },
+          "feather" : 50,
+          "id" : "70E6F2B4-925B-487E-A9C2-E44E98C76EEC",
+          "mode" : "remove",
+          "opacity" : 100,
+          "radius" : 0.006880000000000001,
+          "source" : {
+            "x" : 0.10834241008254192,
+            "y" : 0.63198888848015411
+          }
+        },
+        {
+          "center" : {
+            "x" : 0.83226806282873356,
+            "y" : 0.66826435420527097
+          },
+          "feather" : 50,
+          "id" : "656E4DA1-C5C3-4ECA-AE90-FE31B74AF542",
+          "mode" : "remove",
+          "opacity" : 100,
+          "radius" : 0.006880000000000001,
+          "source" : {
+            "x" : 0.83226806282873356,
+            "y" : 0.66826435420527097
+          }
+        },
+        {
+          "center" : {
+            "x" : 0.81270982638063527,
+            "y" : 0.66914313305060802
+          },
+          "feather" : 50,
+          "id" : "1DA1D0A0-F284-4B0F-9E1F-D82E4FF77A54",
+          "mode" : "remove",
+          "opacity" : 100,
+          "radius" : 0.006880000000000001,
+          "source" : {
+            "x" : 0.81270982638063527,
+            "y" : 0.66914313305060802
+          }
+        }
+      ],
+      "treatment" : "color",
+      "values" : {
+        "basic.blacks" : 9,
+        "basic.contrast" : 13,
+        "basic.exposure" : 0.84999999999999998,
+        "basic.highlights" : -67,
+        "basic.shadows" : -15,
+        "basic.vibrance" : -2,
+        "basic.whites" : -10,
+        "calibration.blue.hue" : -12,
+        "calibration.blue.saturation" : 19,
+        "calibration.green.hue" : 1,
+        "calibration.green.saturation" : -21,
+        "calibration.red.hue" : -1,
+        "calibration.red.saturation" : 17,
+        "crop.angle" : -0.1613961351203837,
+        "effects.vignette.amount" : -9,
+        "effects.vignette.midpoint" : 61,
+        "mixer.hue.green" : -19,
+        "mixer.luminance.green" : -52,
+        "mixer.saturation.green" : -13,
+        "toneCurve.darks" : -11,
+        "wb.temperature" : 5004.5710641798396,
+        "wb.tint" : 4.4288608583897284
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Green Luminance",
+    "folderPhotos" : 63,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer",
+      "Lens Corrections",
+      "Transform",
+      "Effects",
+      "Calibration"
+    ],
+    "selectedMask" : "“Mask 3”: Radial Gradient",
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "36%"
+  },
+  "system" : {
+    "appVersion" : "0.2.5-prealpha",
+    "build" : "813",
+    "chip" : "Apple M4 Pro",
+    "commit" : "600f66dcc1bf",
+    "configuration" : "Release",
+    "cores" : "8 performance and 4 efficiency cores",
+    "displays" : [
+      "1512 × 982 pt at 2x, Color LCD, HDR up to 16x",
+      "3440 × 1440 pt at 1x, AQW34H3, SDR"
+    ],
+    "gpu" : "Apple M4 Pro, 18 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "24 GB",
+    "model" : "Mac16,8",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): ready",
+      "OWLv2 (base) (owlv2-base): ready",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
