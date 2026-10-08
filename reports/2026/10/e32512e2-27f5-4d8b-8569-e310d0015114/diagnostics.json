@@ -1,0 +1,2541 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-08T10:11:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 178 photos",
+      "time" : "2026-10-08T10:11:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.6 s",
+      "time" : "2026-10-08T10:11:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:11:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.6 s",
+      "time" : "2026-10-08T10:11:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:11:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:11:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:11:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:11:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:11:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:11:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:11:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:11:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:11:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:11:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:11:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:11:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:11:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:11:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:11:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:11:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:11:45Z"
+    },
+    {
+      "count" : 5,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:11:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:11:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 37%",
+      "time" : "2026-10-08T10:11:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:11:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:11:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:11:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:12:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:12:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:12:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:12:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: JPG, Panasonic DC-S5M2, 6000 × 4000, with an edit, in 0.0 s",
+      "time" : "2026-10-08T10:12:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:12:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:12:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:12:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:12:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:12:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:12:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:12:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:12:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:12:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:12:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:12:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:12:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:12:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:12:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo G: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:12:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:12:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:12:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:12:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo H: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:12:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:12:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:12:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo I: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:12:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo H: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:12:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:12:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:12:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:12:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:12:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo I: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:14:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo J: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo K: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:14:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo J: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:14:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:14:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:14:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "5 Stars",
+      "time" : "2026-10-08T10:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-10-08T10:14:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:14:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo K: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:14:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo L: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo M: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:14:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo L: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:14:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:14:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:14:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:14:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-10-08T10:14:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:14:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo M: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:14:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo N: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:14:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo O: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:14:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo P: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:15:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Q: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo R: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:15:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Q: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:15:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo P: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:15:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:15:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:15:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:15:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:15:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 35%",
+      "time" : "2026-10-08T10:15:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-08T10:15:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-08T10:15:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-08T10:15:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-08T10:15:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-08T10:15:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 200%",
+      "time" : "2026-10-08T10:15:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-08T10:15:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-08T10:15:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-08T10:15:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-08T10:15:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-08T10:15:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 35%",
+      "time" : "2026-10-08T10:15:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:15:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:15:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:15:31Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:15:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:15:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 38%",
+      "time" : "2026-10-08T10:15:42Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "action",
+      "text" : "5 Stars",
+      "time" : "2026-10-08T10:15:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Q: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:15:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo R: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo S: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo T: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo U: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:15:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:15:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo X: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Y: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Z: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AA: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AB: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AC: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AD: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AE: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AF: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AG: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AH: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AI: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:16:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:16:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:16:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:16:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:16:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:16:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:16:12Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:16:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:16:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 39%",
+      "time" : "2026-10-08T10:16:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:16:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:16:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:16:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:16:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:16:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 39%",
+      "time" : "2026-10-08T10:16:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AJ: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:16:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AM: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AN: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:16:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AO: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AP: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AQ: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AR: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AS: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AT: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:16:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AU: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AV: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AW: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AX: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AY: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AZ: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BA: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BB: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BC: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BD: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BE: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:16:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BF: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:16:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:16:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:16:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:16:53Z"
+    },
+    {
+      "count" : 3,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:16:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:17:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 37%",
+      "time" : "2026-10-08T10:17:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "5 Stars",
+      "time" : "2026-10-08T10:17:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BG: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:17:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BH: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BI: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:17:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BH: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BI: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BJ: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BK: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BL: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BM: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BN: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BO: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BP: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BQ: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-08T10:17:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BP: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:17:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:17:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:17:20Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:17:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:17:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 38%",
+      "time" : "2026-10-08T10:17:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:17:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:17:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:17:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:17:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:17:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:17:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 38%",
+      "time" : "2026-10-08T10:17:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:17:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:17:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:17:32Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:17:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-08T10:17:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 37%",
+      "time" : "2026-10-08T10:17:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "5 Stars",
+      "time" : "2026-10-08T10:17:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BQ: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BR: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BS: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BT: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BU: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BV: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BW: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BX: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BY: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BZ: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CA: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CB: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:17:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CC: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CD: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CE: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CF: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CG: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CH: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CI: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CJ: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CK: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CL: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:17:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:17:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CM: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:17:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:18:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CN: RW2, Panasonic DC-S5M2, 6008 × 4008, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:18:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-08T10:18:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo CO: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-10-08T10:18:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-08T10:18:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-08T10:18:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:18:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:18:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:18:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:18:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:18:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:18:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:18:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:18:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-10-08T10:18:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rotate Left",
+      "time" : "2026-10-08T10:18:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-08T10:18:23Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:18:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-08T10:18:31Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-08T10:18:36Z"
+    }
+  ],
+  "area" : "crop.crop",
+  "captured" : "2026-10-08T10:26:11Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "crop" : "66% × 80% of the photo",
+    "masks" : [
+
+    ],
+    "pointCurve" : false,
+    "processVersion" : 14,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Import",
+    "Crop Aspect: 4 × 5 / 8 × 10",
+    "Crop",
+    "Rotate Left",
+    "Crop",
+    "Rotate Left",
+    "Rotate Left",
+    "Rotate Left",
+    "Crop",
+    "Crop",
+    "Crop Aspect: 4 × 5 / 8 × 10",
+    "Crop",
+    "Crop"
+  ],
+  "historyIndex" : 12,
+  "kind" : "idea",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo CO",
+    "camera" : "Panasonic DC-S5M2",
+    "exposure" : "ISO 100, 54 mm, ƒ/2.8, 1/125 s",
+    "fileName" : "Photo CO",
+    "format" : "JPG (JPG)",
+    "lens" : "LUMIX S 24-60/F2.8                                          ",
+    "size" : "6000 × 4000 (24.0 MP)",
+    "volume" : "exfat, internal"
+  },
+  "report" : "E32512E2-27F5-4D8B-8569-E310D0015114",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-08T10:26:11Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "crop" : {
+        "bottom" : 0.89888828633405637,
+        "left" : 0.23420609062966891,
+        "right" : 0.89901990118642972,
+        "top" : 0.10111171366594363
+      },
+      "processVersion" : 14,
+      "treatment" : "color",
+      "values" : {
+
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Angle",
+    "folderPhotos" : 178,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Crop & Straighten",
+    "zoom" : "31%"
+  },
+  "system" : {
+    "appVersion" : "0.2.6-prealpha",
+    "build" : "996",
+    "chip" : "Apple M4 Pro",
+    "commit" : "a7248e9d5725",
+    "configuration" : "Release",
+    "cores" : "8 performance and 4 efficiency cores",
+    "displays" : [
+      "1512 × 982 pt at 2x, Color LCD, HDR up to 16x",
+      "3440 × 1440 pt at 1x, AQW34H3, SDR"
+    ],
+    "gpu" : "Apple M4 Pro, 18 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "24 GB",
+    "model" : "Mac16,8",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): ready",
+      "OWLv2 (base) (owlv2-base): ready",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): ready"
+    ],
+    "thermalState" : "nominal"
+  }
+}
