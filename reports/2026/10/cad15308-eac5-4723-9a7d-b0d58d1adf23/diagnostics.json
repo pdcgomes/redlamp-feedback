@@ -1,0 +1,140 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-08T07:50:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 224 photos",
+      "time" : "2026-10-08T07:50:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: CR3, Canon EOS R6 Mark III, 4639 × 6959, unedited, in 1.0 s",
+      "time" : "2026-10-08T07:50:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 21%",
+      "time" : "2026-10-08T07:50:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: CR3, Canon EOS R6 Mark III, 4639 × 6959, unedited, in 1.1 s",
+      "time" : "2026-10-08T07:51:13Z"
+    }
+  ],
+  "area" : "viewing.navigator",
+  "captured" : "2026-10-08T07:51:22Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "masks" : [
+
+    ],
+    "pointCurve" : false,
+    "processVersion" : 14,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Import"
+  ],
+  "historyIndex" : 0,
+  "kind" : "bug",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo B",
+    "asShotWhiteBalance" : "4866 K, tint 38",
+    "camera" : "Canon EOS R6 Mark III",
+    "exposure" : "ISO 500, 42 mm, ƒ/4.0, 1/100 s",
+    "fileName" : "Photo B",
+    "format" : "CR3 (raw, Bayer RGGB)",
+    "lens" : "RF24-105mm F4 L IS USM",
+    "size" : "4639 × 6959 (32.3 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "CAD15308-EAC5-4723-9A7D-B0D58D1ADF23",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-08T07:51:22Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "processVersion" : 14,
+      "treatment" : "color",
+      "values" : {
+        "wb.temperature" : 4866.6028817408078,
+        "wb.tint" : 38.732858406154847
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "folderPhotos" : 224,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "21%"
+  },
+  "system" : {
+    "appVersion" : "0.2.6-prealpha",
+    "build" : "996",
+    "chip" : "Apple M1 Pro",
+    "commit" : "a7248e9d5725",
+    "configuration" : "Release",
+    "cores" : "6 performance and 2 efficiency cores",
+    "displays" : [
+      "1920 × 1080 pt at 2x, LG ULTRAFINE, SDR"
+    ],
+    "gpu" : "Apple M1 Pro, 12 GB working set",
+    "locale" : "en_GB",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "16 GB",
+    "model" : "MacBookPro18,3",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
