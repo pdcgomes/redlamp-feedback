@@ -1,0 +1,34 @@
+{
+  "area" : "library.other",
+  "captured" : "2026-10-08T08:32:41Z",
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "kind" : "idea",
+  "report" : "A248F88B-1A6B-4FCA-ADA4-60F70506B736",
+  "system" : {
+    "appVersion" : "0.2.5-prealpha",
+    "build" : "813",
+    "chip" : "Apple M1",
+    "commit" : "600f66dcc1bf",
+    "configuration" : "Release",
+    "cores" : "4 performance and 4 efficiency cores",
+    "displays" : [
+      "1440 × 900 pt at 2x, Color LCD, HDR up to 2x"
+    ],
+    "gpu" : "Apple M1, 12 GB working set",
+    "locale" : "en_DE",
+    "lowPowerMode" : false,
+    "macOS" : "26.6.2 (25G83)",
+    "memory" : "16 GB",
+    "model" : "MacBookAir10,1",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
