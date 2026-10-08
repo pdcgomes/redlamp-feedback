@@ -1,0 +1,480 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-08T10:58:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 196 photos",
+      "time" : "2026-10-08T10:58:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: RW2, Panasonic DC-S5M2, 4008 × 6008, with an edit, in 0.5 s",
+      "time" : "2026-10-08T10:58:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-10-08T10:58:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: RW2, Panasonic DC-S5M2, 6008 × 4008, with an edit, in 0.6 s",
+      "time" : "2026-10-08T11:00:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 32%",
+      "time" : "2026-10-08T11:00:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: RW2, Panasonic DC-S5M2, 4008 × 6008, with an edit, in 0.6 s",
+      "time" : "2026-10-08T11:00:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Whites: +8 → +34",
+      "time" : "2026-10-08T11:00:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Yellow Hue: 0 → -19",
+      "time" : "2026-10-08T11:00:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Yellow Saturation: 0 → +58",
+      "time" : "2026-10-08T11:00:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Grading panel",
+      "time" : "2026-10-08T11:00:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Midtones Grading",
+      "time" : "2026-10-08T11:00:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows Grading",
+      "time" : "2026-10-08T11:01:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows Luminance: 0 → -18",
+      "time" : "2026-10-08T11:01:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-08T11:01:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-10-08T11:01:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-10-08T11:01:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-08T11:01:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-10-08T11:01:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Amount: 100 → 108",
+      "time" : "2026-10-08T11:01:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Amount: 108 → 100",
+      "time" : "2026-10-08T11:01:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → -0.57",
+      "time" : "2026-10-08T11:01:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Objects",
+      "time" : "2026-10-08T11:01:41Z"
+    }
+  ],
+  "area" : "masking.background",
+  "captured" : "2026-10-08T11:01:54Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "crop" : "95% × 79% of the photo",
+    "masks" : [
+      "“Background”: Background; Exposure -0.57; amount 100; apple.vision.foreground+closed-form+vitmatte-strands r1 on Version 27.0.1 (Build 26A434)"
+    ],
+    "pointCurve" : true,
+    "processVersion" : 14,
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Exposure -0.33",
+          "Highlights -40",
+          "Shadows -16",
+          "Whites +34",
+          "Blacks -23",
+          "Dehaze +3"
+        ]
+      },
+      {
+        "panel" : "Color Mixer",
+        "values" : [
+          "Yellow Hue -19",
+          "Yellow Saturation +58",
+          "Green Hue +81",
+          "Green Saturation +54",
+          "Green Luminance -86",
+          "Aqua Hue -29",
+          "Aqua Saturation -4",
+          "Aqua Luminance -58"
+        ]
+      },
+      {
+        "panel" : "Color Grading",
+        "values" : [
+          "Shadows Hue 200",
+          "Shadows Saturation 15",
+          "Shadows Luminance -18",
+          "Midtones Hue 91",
+          "Midtones Saturation 11"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened",
+    "Whites: +8 → +34",
+    "Yellow Hue: 0 → -19",
+    "Yellow Saturation: 0 → +58",
+    "Midtones Grading",
+    "Shadows Grading",
+    "Shadows Luminance: 0 → -18",
+    "New Background",
+    "Background Amount: 100 → 108",
+    "Background Amount: 108 → 100",
+    "Background Exposure: 0.00 → -0.57"
+  ],
+  "historyIndex" : 10,
+  "kind" : "bug",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo C",
+    "asShotWhiteBalance" : "5074 K, tint 21",
+    "camera" : "Panasonic DC-S5M2",
+    "exposure" : "ISO 160, 60 mm, ƒ/4.5, 1/60 s",
+    "fileName" : "Photo C",
+    "format" : "RW2 (raw, Bayer RGGB)",
+    "lens" : "LUMIX S 24-60/F2.8",
+    "size" : "4008 × 6008 (24.1 MP)",
+    "volume" : "exfat, internal"
+  },
+  "report" : "25EED0F3-8D80-465C-BC0A-1E47DCB8FF4B",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "metadata" : {
+      "rating" : 5
+    },
+    "modified" : "2026-10-08T11:01:54Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "crop" : {
+        "bottom" : 0.84599005319491516,
+        "left" : 0.035240879321222648,
+        "right" : 0.98261140822966009,
+        "top" : 0.055988996298898031
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.exposure" : -0.56999999999999995
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "EE28A7A6-8CA7-415C-86D3-D13DA56C1DA4",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "8f01b3afcb3954099a120e99f99f5297",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "5fa3829683b40a739f65f69f4d9b3c998695f4fbd21d92b00808f8a822347d1c",
+                      "width" : 2732
+                    },
+                    "center" : {
+                      "x" : 0.4960946305836122,
+                      "y" : 0.50722714710699912
+                    },
+                    "createdAt" : "2026-10-08T11:01:24Z",
+                    "kind" : "background",
+                    "osBuild" : "Version 27.0.1 (Build 26A434)",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "apple.vision.foreground+closed-form+vitmatte-strands",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "0BBD2FF3-DC86-413C-9AD3-93F3DD4ED7C4",
+          "isVisible" : true,
+          "name" : "Background"
+        }
+      ],
+      "pointColor" : [
+        {
+          "color" : {
+            "chroma" : 0.024452377592511614,
+            "hue" : 107.77634067074969,
+            "lightness" : 0.498046875
+          },
+          "id" : "0B85B37C-3EFA-458E-9115-EAA9C89C3D20",
+          "picked" : {
+            "center" : {
+              "x" : 0.75867091406147258,
+              "y" : 0.74397321844035424
+            },
+            "radius" : 0
+          },
+          "values" : {
+
+          }
+        },
+        {
+          "color" : {
+            "chroma" : 0,
+            "hue" : 0,
+            "lightness" : 0
+          },
+          "id" : "58AA4F98-0AB2-41CB-A615-E4100D8A59CB",
+          "picked" : {
+            "center" : {
+              "x" : 0.82591251467796556,
+              "y" : 0.61053777865226544
+            },
+            "radius" : 0
+          },
+          "values" : {
+
+          }
+        },
+        {
+          "color" : {
+            "chroma" : 0.0031629758541048903,
+            "hue" : 301.56223241051993,
+            "lightness" : 0.06414794921875
+          },
+          "id" : "809D66F5-AD8F-4611-BB7B-9CD13ABFA7C4",
+          "picked" : {
+            "center" : {
+              "x" : 0.85129964960460081,
+              "y" : 0.60916451512099856
+            },
+            "radius" : 0
+          },
+          "values" : {
+
+          }
+        },
+        {
+          "color" : {
+            "chroma" : 0.030274683403711262,
+            "hue" : 126.35009132732181,
+            "lightness" : 0.328369140625
+          },
+          "id" : "CF3B6BDF-8020-4FAB-B46F-CB02BB8A00AB",
+          "picked" : {
+            "center" : {
+              "x" : 0.85644569046810781,
+              "y" : 0.64235171712661243
+            },
+            "radius" : 0
+          },
+          "values" : {
+
+          }
+        },
+        {
+          "color" : {
+            "chroma" : 0.024456887831645933,
+            "hue" : 115.22205256712654,
+            "lightness" : 0.254638671875
+          },
+          "id" : "585C1BE7-98F5-4626-9864-197322FD643E",
+          "picked" : {
+            "center" : {
+              "x" : 0.85061351082279979,
+              "y" : 0.6416650853609791
+            },
+            "radius" : 0
+          },
+          "values" : {
+
+          }
+        }
+      ],
+      "pointCurve" : [
+        {
+          "x" : 0,
+          "y" : 0.03797743055555558
+        },
+        {
+          "x" : 0.1294894748263889,
+          "y" : 0.15494791666666663
+        },
+        {
+          "x" : 0.25362141927083331,
+          "y" : 0.22894965277777779
+        },
+        {
+          "x" : 0.60692003038194442,
+          "y" : 0.54405381944444442
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "processVersion" : 14,
+      "treatment" : "color",
+      "values" : {
+        "basic.blacks" : -23,
+        "basic.dehaze" : 3,
+        "basic.exposure" : -0.33000000000000002,
+        "basic.highlights" : -40,
+        "basic.shadows" : -16,
+        "basic.whites" : 34,
+        "grading.midtones.hue" : 91,
+        "grading.midtones.saturation" : 11,
+        "grading.shadows.hue" : 200,
+        "grading.shadows.luminance" : -18,
+        "grading.shadows.saturation" : 15,
+        "mixer.hue.aqua" : -29,
+        "mixer.hue.green" : 81,
+        "mixer.hue.yellow" : -19,
+        "mixer.luminance.aqua" : -58,
+        "mixer.luminance.green" : -86,
+        "mixer.saturation.aqua" : -4,
+        "mixer.saturation.green" : 54,
+        "mixer.saturation.yellow" : 58,
+        "wb.temperature" : 5074.6851902575636,
+        "wb.tint" : 21.175697671150221
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Exposure",
+    "folderPhotos" : 196,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer",
+      "Color Grading"
+    ],
+    "selectedMask" : "“Background”: Background",
+    "selectedPhotos" : 1,
+    "tool" : "Masking",
+    "zoom" : "32%"
+  },
+  "system" : {
+    "appVersion" : "0.2.6-prealpha",
+    "build" : "996",
+    "chip" : "Apple M4 Pro",
+    "commit" : "a7248e9d5725",
+    "configuration" : "Release",
+    "cores" : "8 performance and 4 efficiency cores",
+    "displays" : [
+      "1512 × 982 pt at 2x, Color LCD, HDR up to 16x",
+      "3440 × 1440 pt at 1x, AQW34H3, SDR"
+    ],
+    "gpu" : "Apple M4 Pro, 18 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "24 GB",
+    "model" : "Mac16,8",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): ready",
+      "OWLv2 (base) (owlv2-base): ready",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): ready"
+    ],
+    "thermalState" : "nominal"
+  }
+}
