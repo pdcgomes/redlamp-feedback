@@ -1,0 +1,1720 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-09T09:23:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 203 photos",
+      "time" : "2026-10-09T09:24:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: RW2, Panasonic DC-S5M2, 4008 × 6008, with an edit, in 0.8 s",
+      "time" : "2026-10-09T09:24:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-10-09T09:24:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-09T09:24:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-10-09T09:24:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Subject",
+      "time" : "2026-10-09T09:24:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-10-09T09:24:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-10-09T09:24:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Radial Gradient",
+      "time" : "2026-10-09T09:24:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-10-09T09:24:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Mask 1",
+      "time" : "2026-10-09T09:24:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Objects",
+      "time" : "2026-10-09T09:24:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:24:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-09T09:24:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:24:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:24:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:25:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-09T09:25:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 3”: Objects",
+      "time" : "2026-10-09T09:25:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:25:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-09T09:25:41Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-09T09:25:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: RW2, Panasonic DC-S5M2, 4008 × 6008, with an edit, in 0.6 s",
+      "time" : "2026-10-09T09:26:06Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-09T09:26:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.7 s",
+      "time" : "2026-10-09T09:26:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.4 s",
+      "time" : "2026-10-09T09:26:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.7 s",
+      "time" : "2026-10-09T09:26:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.4 s",
+      "time" : "2026-10-09T09:26:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo G: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.6 s",
+      "time" : "2026-10-09T09:26:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo H: JPG, Panasonic DC-S5M2, 6000 × 4000, with an edit, in 0.3 s",
+      "time" : "2026-10-09T09:26:19Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-09T09:26:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo I: RW2, Panasonic DC-S5M2, 6008 × 4008, with an edit, in 0.6 s",
+      "time" : "2026-10-09T09:26:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo J: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.3 s",
+      "time" : "2026-10-09T09:26:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-09T09:26:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo K: RW2, Panasonic DC-S5M2, 6008 × 4008, with an edit, in 0.6 s",
+      "time" : "2026-10-09T09:26:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-10-09T09:26:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo L: JPG, Panasonic DC-S5M2, 6000 × 4000, unedited, in 0.3 s",
+      "time" : "2026-10-09T09:26:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-09T09:26:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo M: RW2, Panasonic DC-S5M2, 4008 × 6008, with an edit, in 0.0 s",
+      "time" : "2026-10-09T09:26:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 33%",
+      "time" : "2026-10-09T09:26:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo N: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-09T09:26:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-10-09T09:26:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo O: RW2, Panasonic DC-S5M2, 4008 × 6008, unedited, in 0.0 s",
+      "time" : "2026-10-09T09:26:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo N: JPG, Panasonic DC-S5M2, 4000 × 6000, unedited, in 0.0 s",
+      "time" : "2026-10-09T09:26:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-09T09:26:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 33%",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom In",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 200%",
+      "time" : "2026-10-09T09:26:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-09T09:26:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-09T09:26:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-09T09:26:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-09T09:26:49Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-09T09:26:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-09T09:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-09T09:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-09T09:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 33%",
+      "time" : "2026-10-09T09:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-09T09:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-10-09T09:27:05Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-09T09:27:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-09T09:27:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-09T09:27:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-09T09:27:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Point Color Swatch",
+      "time" : "2026-10-09T09:27:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Point Color Hue Shift: 0 → -3",
+      "time" : "2026-10-09T09:27:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-09T09:27:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-09T09:27:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-09T09:27:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Zoom Out",
+      "time" : "2026-10-09T09:27:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-09T09:27:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-09T09:27:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-09T09:27:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-10-09T09:27:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-09T09:27:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 4 × 5 / 8 × 10",
+      "time" : "2026-10-09T09:27:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-09T09:27:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-09T09:27:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-09T09:27:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-09T09:27:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-10-09T09:27:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-10-09T09:27:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:27:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-10-09T09:27:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Objects",
+      "time" : "2026-10-09T09:27:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:28:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-09T09:28:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:28:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:28:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Mask 1",
+      "time" : "2026-10-09T09:28:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Mask 1",
+      "time" : "2026-10-09T09:28:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Background",
+      "time" : "2026-10-09T09:28:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Background",
+      "time" : "2026-10-09T09:28:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:28:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:28:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:28:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:28:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:28:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-09T09:28:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:28:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:28:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:28:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:28:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:28:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:28:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:28:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:28:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:28:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:28:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:29:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:29:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Amount: 100 → 84",
+      "time" : "2026-10-09T09:29:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Exposure: 0.00 → +2.84",
+      "time" : "2026-10-09T09:29:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Exposure: +2.84 → +2.46",
+      "time" : "2026-10-09T09:29:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:29:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:29:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Exposure: +2.46 → 0.00",
+      "time" : "2026-10-09T09:29:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:29:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Amount: 100 → 106",
+      "time" : "2026-10-09T09:29:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Exposure: 0.00 → +4.00",
+      "time" : "2026-10-09T09:30:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Exposure: +4.00 → -4.00",
+      "time" : "2026-10-09T09:30:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:30:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 2 Exposure: 0.00 → +4.00",
+      "time" : "2026-10-09T09:30:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:30:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 2”: Objects",
+      "time" : "2026-10-09T09:30:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Mask 1 Exposure: +4.00 → -4.00”",
+      "time" : "2026-10-09T09:30:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-09T09:30:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Mask 1 Exposure: 0.00 → +4.00”",
+      "time" : "2026-10-09T09:30:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-09T09:30:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Mask 1 Amount: 100 → 106”",
+      "time" : "2026-10-09T09:30:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-09T09:30:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Mask 2 Exposure: +2.46 → 0.00”",
+      "time" : "2026-10-09T09:30:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-09T09:30:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Mask 2",
+      "time" : "2026-10-09T09:30:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:30:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Mask 1",
+      "time" : "2026-10-09T09:30:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:30:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Background",
+      "time" : "2026-10-09T09:30:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-10-09T09:30:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-10-09T09:30:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:30:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-10-09T09:30:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Objects",
+      "time" : "2026-10-09T09:31:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:31:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-09T09:31:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:31:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:31:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rename Mask: Mask 1 → cup",
+      "time" : "2026-10-09T09:31:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "cup Exposure: 0.00 → -4.00",
+      "time" : "2026-10-09T09:31:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:31:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “cup”: Objects",
+      "time" : "2026-10-09T09:31:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:31:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → +4.00",
+      "time" : "2026-10-09T09:32:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:32:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Add Objects",
+      "time" : "2026-10-09T09:32:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now Background, add Objects",
+      "time" : "2026-10-09T09:32:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:32:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Exposure: 0.00 → +4.00”",
+      "time" : "2026-10-09T09:32:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-09T09:32:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now Background",
+      "time" : "2026-10-09T09:32:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Objects mask",
+      "time" : "2026-10-09T09:32:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Objects",
+      "time" : "2026-10-09T09:32:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:32:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Objects mask",
+      "time" : "2026-10-09T09:32:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Blacks: 0 → +100",
+      "time" : "2026-10-09T09:32:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Whites: 0 → +100",
+      "time" : "2026-10-09T09:32:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Shadows: 0 → +100",
+      "time" : "2026-10-09T09:32:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “cup”: Objects",
+      "time" : "2026-10-09T09:32:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Objects",
+      "time" : "2026-10-09T09:32:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “cup”: Objects",
+      "time" : "2026-10-09T09:33:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rename Mask: Mask 1 → pen",
+      "time" : "2026-10-09T09:33:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "cup Temp: 0 → -8",
+      "time" : "2026-10-09T09:33:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "cup Temp: -8 → 0",
+      "time" : "2026-10-09T09:33:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “pen”: Objects",
+      "time" : "2026-10-09T09:33:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "pen Tint: 0 → -100",
+      "time" : "2026-10-09T09:33:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "pen Temp: 0 → +100",
+      "time" : "2026-10-09T09:33:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "pen Contrast: 0 → -100",
+      "time" : "2026-10-09T09:33:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-10-09T09:33:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “cup”: Objects",
+      "time" : "2026-10-09T09:34:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “pen”: Objects",
+      "time" : "2026-10-09T09:34:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Radial Gradient",
+      "time" : "2026-10-09T09:37:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Radial Gradient",
+      "time" : "2026-10-09T09:37:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Radial Gradient",
+      "time" : "2026-10-09T09:38:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Edit Mask 1",
+      "time" : "2026-10-09T09:38:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Exposure: 0.00 → -4.00",
+      "time" : "2026-10-09T09:38:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Rename Mask: Mask 1 → radial",
+      "time" : "2026-10-09T09:38:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Armed: Linear Gradient",
+      "time" : "2026-10-09T09:38:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Linear Gradient",
+      "time" : "2026-10-09T09:38:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Linear Gradient",
+      "time" : "2026-10-09T09:38:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Tint: 0 → +100",
+      "time" : "2026-10-09T09:38:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Temp: 0 → -100",
+      "time" : "2026-10-09T09:38:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Highlights: 0 → -100",
+      "time" : "2026-10-09T09:38:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Blacks: 0 → +100",
+      "time" : "2026-10-09T09:38:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Mask 1 Contrast: 0 → +43",
+      "time" : "2026-10-09T09:41:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-10-09T09:46:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Heal",
+      "time" : "2026-10-09T09:46:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-10-09T09:46:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-10-09T09:46:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-10-09T09:46:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove",
+      "time" : "2026-10-09T09:46:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Generative Fill",
+      "time" : "2026-10-09T09:46:50Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Generative Fill Variation",
+      "time" : "2026-10-09T09:47:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-10-09T09:47:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-09T09:47:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “cup”: Objects",
+      "time" : "2026-10-09T09:47:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete cup",
+      "time" : "2026-10-09T09:47:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Mask 1”: Linear Gradient",
+      "time" : "2026-10-09T09:47:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-10-09T09:47:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-10-09T09:47:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-10-09T09:47:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Move Spot",
+      "time" : "2026-10-09T09:47:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-10-09T09:47:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-10-09T09:47:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 436 ms at 31%",
+      "time" : "2026-10-09T09:47:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Move Spot”",
+      "time" : "2026-10-09T09:48:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-09T09:48:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Spot",
+      "time" : "2026-10-09T09:48:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Delete Selected Mask or Spot",
+      "time" : "2026-10-09T09:48:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-10-09T09:48:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 787 ms at 31%",
+      "time" : "2026-10-09T09:48:37Z"
+    }
+  ],
+  "area" : "healing.picks",
+  "captured" : "2026-10-09T09:48:51Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "crop" : "100% × 83% of the photo",
+    "masks" : [
+      "“Background”: Background; Exposure +4.00; amount 100; apple.vision.foreground+closed-form+vitmatte-strands r1 on Version 27.0.1 (Build 26A434)",
+      "“pen”: Objects; Blacks +100, Contrast -100, Shadows +100, Temp +100, Tint -100, Whites +100; amount 100; redlamp.sam2.1-tiny+closed-form r1",
+      "“radial”: Radial Gradient; Exposure -4.00; amount 100",
+      "“Mask 1”: Linear Gradient; Blacks +100, Contrast +43, Highlights -100, Temp -100, Tint +100; amount 100"
+    ],
+    "pointCurve" : false,
+    "processVersion" : 14,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 1,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Import",
+    "Add Point Color Swatch",
+    "Add Point Color Swatch",
+    "Add Point Color Swatch",
+    "Crop",
+    "Crop",
+    "Add Point Color Swatch",
+    "Point Color Hue Shift: 0 → -3",
+    "Reset",
+    "Crop Aspect: 4 × 5 / 8 × 10",
+    "Crop",
+    "New Background",
+    "New Objects",
+    "Hide Mask 1",
+    "Show Mask 1",
+    "Hide Background",
+    "Show Background",
+    "New Objects",
+    "Mask 2 Amount: 100 → 84",
+    "Mask 2 Exposure: 0.00 → +2.84",
+    "Mask 2 Exposure: +2.84 → +2.46",
+    "Mask 2 Exposure: +2.46 → 0.00",
+    "Delete Mask 2",
+    "Delete Mask 1",
+    "Delete Background",
+    "New Background",
+    "New Objects",
+    "Rename Mask: Mask 1 → cup",
+    "cup Exposure: 0.00 → -4.00",
+    "Background Exposure: 0.00 → +4.00",
+    "New Objects",
+    "Mask 1 Blacks: 0 → +100",
+    "Mask 1 Whites: 0 → +100",
+    "Mask 1 Shadows: 0 → +100",
+    "Rename Mask: Mask 1 → pen",
+    "cup Temp: 0 → -8",
+    "cup Temp: -8 → 0",
+    "pen Tint: 0 → -100",
+    "pen Temp: 0 → +100",
+    "pen Contrast: 0 → -100",
+    "New Radial Gradient",
+    "Edit Mask 1",
+    "Mask 1 Exposure: 0.00 → -4.00",
+    "Rename Mask: Mask 1 → radial",
+    "New Linear Gradient",
+    "Mask 1 Tint: 0 → +100",
+    "Mask 1 Temp: 0 → -100",
+    "Mask 1 Highlights: 0 → -100",
+    "Mask 1 Blacks: 0 → +100",
+    "Mask 1 Contrast: 0 → +43",
+    "Remove",
+    "Generative Fill",
+    "Generative Fill Variation",
+    "Generative Fill Variation",
+    "Delete cup",
+    "Move Spot",
+    "Delete Spot",
+    "Remove Object"
+  ],
+  "historyIndex" : 57,
+  "kind" : "idea",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo N",
+    "camera" : "Panasonic DC-S5M2",
+    "exposure" : "ISO 100, 59 mm, ƒ/5.0, 1/80 s",
+    "fileName" : "Photo N",
+    "format" : "JPG (JPG)",
+    "lens" : "LUMIX S 24-60/F2.8                                          ",
+    "size" : "4000 × 6000 (24.0 MP)",
+    "volume" : "exfat, internal"
+  },
+  "report" : "6DB62714-E44A-4961-878D-B29B57F645BD",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-09T09:48:51Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "crop" : {
+        "bottom" : 0.95946822308690005,
+        "left" : 0,
+        "right" : 1,
+        "top" : 0.12613488975356685
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.exposure" : 4
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "5770A968-8003-46DD-8AEE-B0F91E7D92D9",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "fd88b572ef3e0bbdb2780dde987b69f9",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "5588b7efc859a8d12de4bac81b9952a0432a2c7174caf4c66ffd29a92d22d2c7",
+                      "width" : 2731
+                    },
+                    "center" : {
+                      "x" : 0.5395562550513886,
+                      "y" : 0.2993977835500134
+                    },
+                    "createdAt" : "2026-10-09T09:30:55Z",
+                    "kind" : "background",
+                    "osBuild" : "Version 27.0.1 (Build 26A434)",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "apple.vision.foreground+closed-form+vitmatte-strands",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "2BBE7816-C982-443A-9749-6F67EFF60CB0",
+          "isVisible" : true,
+          "name" : "Background"
+        },
+        {
+          "adjustments" : {
+            "local.blacks" : 100,
+            "local.contrast" : -100,
+            "local.shadows" : 100,
+            "local.temperature" : 100,
+            "local.tint" : -100,
+            "local.whites" : 100
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "C0DDDA06-43F9-43E2-9716-74CD29AE782C",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "fd88b572ef3e0bbdb2780dde987b69f9",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "6f8bcb276f68c2971682813260928d1086f10f96dc8719cf0430c64d93046771",
+                      "width" : 2731
+                    },
+                    "center" : {
+                      "x" : 0.55103837345979245,
+                      "y" : 0.57176066661262437
+                    },
+                    "createdAt" : "2026-10-09T09:32:19Z",
+                    "kind" : "objects",
+                    "prompts" : [
+                      {
+                        "x" : 0.55103837345979245,
+                        "y" : 0.57176066661262437
+                      }
+                    ],
+                    "provider" : "redlamp.sam2.1-tiny+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "506C40A8-B095-4F00-A080-03216DA6981C",
+          "isVisible" : true,
+          "name" : "pen"
+        },
+        {
+          "adjustments" : {
+            "local.exposure" : -4
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "97580CCC-D269-4740-B8EC-357A7955A8A7",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "radial" : {
+                  "_0" : {
+                    "center" : {
+                      "x" : 0.85310144090466933,
+                      "y" : 0.380045361813662
+                    },
+                    "feather" : 50,
+                    "radiusX" : 0.26572632944228275,
+                    "radiusY" : 0.26230814958927806,
+                    "rotation" : 0
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "2479B7E1-0BF1-4508-BE98-F70B94D0B72F",
+          "isVisible" : true,
+          "name" : "radial"
+        },
+        {
+          "adjustments" : {
+            "local.blacks" : 100,
+            "local.contrast" : 43,
+            "local.highlights" : -100,
+            "local.temperature" : -100,
+            "local.tint" : 100
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "AA844832-6A45-49C1-96F0-6E070974A82C",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "linear" : {
+                  "_0" : {
+                    "end" : {
+                      "x" : 0.53654826321335924,
+                      "y" : 0.35106514132079547
+                    },
+                    "start" : {
+                      "x" : 0.037196771643968923,
+                      "y" : 0.89277233976437542
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "106B3F3B-DB34-455C-BABB-66A9DB7D465B",
+          "isVisible" : true,
+          "name" : "Mask 1"
+        }
+      ],
+      "processVersion" : 14,
+      "spots" : [
+        {
+          "center" : {
+            "x" : 0.26346541626134895,
+            "y" : 0.38673310500432345
+          },
+          "feather" : 50,
+          "id" : "0A9D264E-4DA6-4D5C-A9A8-FCEB227C10D8",
+          "mode" : "remove",
+          "opacity" : 100,
+          "radius" : 0.0050000000000000001,
+          "region" : {
+            "analysisHash" : "fd88b572ef3e0bbdb2780dde987b69f9",
+            "bitmap" : {
+              "height" : 4096,
+              "sha256" : "68a2790b0175d995fe57c9ac97ea62834d84780f94d21ee0eb000d58fe3fd7de",
+              "width" : 2731
+            },
+            "center" : {
+              "x" : 0.26346541626134895,
+              "y" : 0.38673310500432345
+            },
+            "createdAt" : "2026-10-09T09:48:36Z",
+            "kind" : "objects",
+            "prompts" : [
+              {
+                "x" : 0.26346541626134895,
+                "y" : 0.38673310500432345
+              }
+            ],
+            "provider" : "redlamp.sam2.1-tiny+closed-form",
+            "revision" : 1
+          },
+          "source" : {
+            "x" : 0.26346541626134895,
+            "y" : 0.38673310500432345
+          }
+        }
+      ],
+      "treatment" : "color",
+      "values" : {
+
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Contrast",
+    "folderPhotos" : 203,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedMask" : "“Mask 1”: Linear Gradient",
+    "selectedPhotos" : 1,
+    "tool" : "Healing",
+    "zoom" : "31%"
+  },
+  "system" : {
+    "appVersion" : "0.2.7-prealpha",
+    "build" : "1203",
+    "chip" : "Apple M4 Pro",
+    "commit" : "07d775a16fe1",
+    "configuration" : "Release",
+    "cores" : "8 performance and 4 efficiency cores",
+    "displays" : [
+      "1512 × 982 pt at 2x, Color LCD, HDR up to 16x",
+      "3440 × 1440 pt at 1x, AQW34H3, SDR"
+    ],
+    "gpu" : "Apple M4 Pro, 18 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "24 GB",
+    "model" : "Mac16,8",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): ready",
+      "OWLv2 (base) (owlv2-base): ready",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): ready"
+    ],
+    "thermalState" : "nominal"
+  }
+}
