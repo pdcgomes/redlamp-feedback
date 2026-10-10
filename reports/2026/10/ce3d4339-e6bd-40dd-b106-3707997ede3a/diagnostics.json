@@ -1,0 +1,222 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-10T15:09:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 13 photos",
+      "time" : "2026-10-10T15:09:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: NEF, Nikon D3300, 6016 × 4016, with an edit, in 0.6 s",
+      "time" : "2026-10-10T15:09:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 23%",
+      "time" : "2026-10-10T15:09:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-10T15:09:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Report a Bug or Send Feedback…",
+      "time" : "2026-10-10T15:10:06Z"
+    }
+  ],
+  "area" : "workspace.toolbar",
+  "captured" : "2026-10-10T15:13:28Z",
+  "edit" : {
+    "baseLook" : "Negative High (100)",
+    "masks" : [
+
+    ],
+    "pointCurve" : true,
+    "processVersion" : 14,
+    "recipe" : "Gold Standard (100)",
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Temp 3800",
+          "Tint +7",
+          "Exposure +0.37",
+          "Highlights -12",
+          "Shadows +12",
+          "Whites -5",
+          "Blacks +5",
+          "Saturation +4"
+        ]
+      },
+      {
+        "panel" : "Detail",
+        "values" : [
+          "Luminance Noise Reduction 12"
+        ]
+      },
+      {
+        "panel" : "Effects",
+        "values" : [
+          "Grain Amount 22",
+          "Grain Size 20",
+          "Dynamic Range 200",
+          "Color Chrome 45",
+          "Red Shift +44",
+          "Blue Shift -66"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "Custom"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened"
+  ],
+  "historyIndex" : 0,
+  "kind" : "idea",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo A",
+    "asShotWhiteBalance" : "3842 K, tint 8",
+    "camera" : "Nikon D3300",
+    "exposure" : "ISO 800, 40 mm, ƒ/6.3, 1/160 s",
+    "fileName" : "Photo A",
+    "format" : "NEF (raw, Bayer RGGB)",
+    "size" : "6016 × 4016 (24.2 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "CE3D4339-E6BD-40DD-B106-3707997EDE3A",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-10T15:13:28Z",
+    "recipe" : {
+      "appliedRecipe" : {
+        "amount" : 100,
+        "id" : "redlamp/camera/gold-standard",
+        "name" : "Gold Standard",
+        "version" : 1
+      },
+      "baseLook" : {
+        "amount" : 100,
+        "contentHash" : "194d2eb861d33ab31817fa3dc7ab76633cd0b86a6f01f1f1f3e970b3b73fb340",
+        "id" : "redlamp/film/negative-high",
+        "name" : "Negative High",
+        "version" : 1
+      },
+      "pointCurve" : [
+        {
+          "x" : 0,
+          "y" : 0
+        },
+        {
+          "x" : 0.27308485243055558,
+          "y" : 0.27738444010416663
+        },
+        {
+          "x" : 0.53323025173611116,
+          "y" : 0.53215874565972221
+        },
+        {
+          "x" : 0.59072536892361116,
+          "y" : 0.59256998697916674
+        },
+        {
+          "x" : 0.73735894097222221,
+          "y" : 0.73402235243055558
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "processVersion" : 14,
+      "treatment" : "color",
+      "values" : {
+        "basic.blacks" : 5,
+        "basic.dynamicRange" : 200,
+        "basic.exposure" : 0.37,
+        "basic.highlights" : -12,
+        "basic.saturation" : 4,
+        "basic.shadows" : 12,
+        "basic.whites" : -5,
+        "detail.noise.luminance" : 12,
+        "effects.colorChrome" : 45,
+        "effects.grain.amount" : 22,
+        "effects.grain.size" : 20,
+        "lens.removeChromaticAberration" : 1,
+        "wb.shift.blue" : -66,
+        "wb.shift.red" : 44,
+        "wb.temperature" : 3800,
+        "wb.tint" : 7
+      },
+      "version" : 3,
+      "whiteBalance" : "custom"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "folderPhotos" : 13,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "100%"
+  },
+  "system" : {
+    "appVersion" : "0.2.7-prealpha",
+    "build" : "1203",
+    "chip" : "Apple M4",
+    "commit" : "07d775a16fe1",
+    "configuration" : "Release",
+    "cores" : "4 performance and 6 efficiency cores",
+    "displays" : [
+      "1280 × 828 pt at 2x, Generic RGB, HDR up to 2x"
+    ],
+    "gpu" : "Apple M4, 12 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "26.6.2 (25G83)",
+    "memory" : "16 GB",
+    "model" : "Mac16,13",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
