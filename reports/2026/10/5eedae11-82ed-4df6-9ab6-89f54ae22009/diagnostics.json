@@ -1,0 +1,2139 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-17T16:12:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 454 photos",
+      "time" : "2026-10-17T16:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: ARW, Sony DSC-RX100M5A, 5496 × 3672, with an edit, in 3.6 s",
+      "time" : "2026-10-17T16:12:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-17T16:12:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-17T16:21:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: +5 → -97",
+      "time" : "2026-10-17T16:21:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-17T16:21:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Effects panel",
+      "time" : "2026-10-17T16:21:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Grain Amount: 38 → 66",
+      "time" : "2026-10-17T16:21:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-17T16:21:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Highlights: -5 → -40",
+      "time" : "2026-10-17T16:21:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Shadows: -97 → 0",
+      "time" : "2026-10-17T16:21:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: 0 → -10",
+      "time" : "2026-10-17T16:21:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Highlights: -40 → -84",
+      "time" : "2026-10-17T16:21:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-17T16:21:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-18T16:11:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T16:11:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-18T16:11:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Grading panel",
+      "time" : "2026-10-18T16:11:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Grading panel",
+      "time" : "2026-10-18T16:11:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Effects panel",
+      "time" : "2026-10-18T16:11:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.8 s",
+      "time" : "2026-10-18T16:15:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T16:15:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.0 s",
+      "time" : "2026-10-18T16:15:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-18T16:15:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T16:15:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.9 s",
+      "time" : "2026-10-18T16:15:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: ARW, Sony DSC-RX100M5A, 5496 × 3672, unedited, in 0.8 s",
+      "time" : "2026-10-18T16:16:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-18T16:16:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: ARW, Sony DSC-RX100M5A, 5496 × 3672, unedited, in 0.0 s",
+      "time" : "2026-10-18T16:16:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: ARW, Sony DSC-RX100M5A, 5496 × 3672, unedited, in 0.0 s",
+      "time" : "2026-10-18T16:16:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: Saturated Slide",
+      "time" : "2026-10-18T16:17:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T16:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T16:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T16:17:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo G: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.9 s",
+      "time" : "2026-10-18T16:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T16:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-18T16:24:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo H: ARW, Sony DSC-RX100M5A, 5496 × 3672, unedited, in 0.6 s",
+      "time" : "2026-10-18T16:28:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-18T16:28:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo I: ARW, Sony DSC-RX100M5A, 5496 × 3672, unedited, in 0.6 s",
+      "time" : "2026-10-18T16:29:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:34:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T18:34:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:34:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T18:34:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: Rich n' Neutral",
+      "time" : "2026-10-18T18:42:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-18T18:42:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:42:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T18:42:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:42:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T18:42:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:42:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T18:42:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:42:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T18:42:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Adobe Color",
+      "time" : "2026-10-18T18:42:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Recipe: Rich n' Neutral”",
+      "time" : "2026-10-18T18:42:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-18T18:42:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Base Look: Redlamp Color → Adobe Color”",
+      "time" : "2026-10-18T18:42:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-10-18T18:42:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo J: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.9 s",
+      "time" : "2026-10-18T18:43:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T18:43:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo K: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.8 s",
+      "time" : "2026-10-18T18:43:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: Rich n' Neutral",
+      "time" : "2026-10-18T18:43:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Exposure: 0.00 → -0.84",
+      "time" : "2026-10-18T18:43:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T18:43:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:43:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T18:43:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T18:43:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T18:43:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo L: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.7 s",
+      "time" : "2026-10-18T18:43:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo M: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.7 s",
+      "time" : "2026-10-18T18:43:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: Flat n' Neutral (ALL CAMS)",
+      "time" : "2026-10-18T18:43:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo N: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.6 s",
+      "time" : "2026-10-18T18:44:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo O: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.6 s",
+      "time" : "2026-10-18T18:44:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo P: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.6 s",
+      "time" : "2026-10-18T18:44:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: Rich n' Neutral",
+      "time" : "2026-10-18T18:44:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T18:45:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Q: ARW, Sony DSC-RX100M5A, 3672 × 5496, unedited, in 0.9 s",
+      "time" : "2026-10-18T18:45:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: Rich n' Neutral",
+      "time" : "2026-10-18T18:45:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T18:45:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 31%",
+      "time" : "2026-10-18T18:46:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 4761 photos",
+      "time" : "2026-10-18T18:46:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo R: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.9 s",
+      "time" : "2026-10-18T18:46:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo R: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:46:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T18:46:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Convert Again",
+      "time" : "2026-10-18T18:46:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo R: its Lightroom edit converted again",
+      "time" : "2026-10-18T18:46:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo S: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 1.1 s",
+      "time" : "2026-10-18T18:46:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo T: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.8 s",
+      "time" : "2026-10-18T18:46:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 49%",
+      "time" : "2026-10-18T18:46:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo U: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.6 s",
+      "time" : "2026-10-18T18:46:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-18T18:46:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-18T18:47:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-18T18:47:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.6 s",
+      "time" : "2026-10-18T18:47:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo V: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:47:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 44%",
+      "time" : "2026-10-18T18:47:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Tint: +7 → +10",
+      "time" : "2026-10-18T18:48:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Auto",
+      "time" : "2026-10-18T18:48:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Convert Again",
+      "time" : "2026-10-18T18:48:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo V: its Lightroom edit converted again",
+      "time" : "2026-10-18T18:48:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-18T18:48:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T18:48:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T18:48:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:48:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.5 s",
+      "time" : "2026-10-18T18:48:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo W: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:48:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 45%",
+      "time" : "2026-10-18T18:48:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T18:48:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:48:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T18:48:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T18:48:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo X: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.1 s",
+      "time" : "2026-10-18T18:48:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo X: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:48:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:48:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:48:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T18:48:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo X: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:48:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T18:48:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Y: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:48:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:48:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo X: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:48:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:48:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:48:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 45%",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Z: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo Z: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T18:48:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T18:48:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Auto",
+      "time" : "2026-10-18T18:49:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Auto → As Shot",
+      "time" : "2026-10-18T18:49:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +10 → -150",
+      "time" : "2026-10-18T18:49:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 5050 → 2300",
+      "time" : "2026-10-18T18:49:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Temp: 2300 → 5050",
+      "time" : "2026-10-18T18:49:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Daylight",
+      "time" : "2026-10-18T18:49:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Daylight → As Shot",
+      "time" : "2026-10-18T18:49:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Adobe Color",
+      "time" : "2026-10-18T18:49:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Temp: 5050",
+      "time" : "2026-10-18T18:49:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Auto",
+      "time" : "2026-10-18T18:49:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 2850 → 2000",
+      "time" : "2026-10-18T18:49:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: -150 → -5",
+      "time" : "2026-10-18T18:49:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 2000 → 3600",
+      "time" : "2026-10-18T18:49:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Temp: 3600 → 5050",
+      "time" : "2026-10-18T18:49:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +10",
+      "time" : "2026-10-18T18:49:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Tint: +10",
+      "time" : "2026-10-18T18:49:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Basic panel",
+      "time" : "2026-10-18T18:49:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Basic panel",
+      "time" : "2026-10-18T18:49:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AA: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.7 s",
+      "time" : "2026-10-18T18:49:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AA: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AB: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.7 s",
+      "time" : "2026-10-18T18:49:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AB: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AC: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AD: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AD: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AE: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AE: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AF: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AG: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AG: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AH: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AH: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 45%",
+      "time" : "2026-10-18T18:49:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T18:49:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AG: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:49:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T18:49:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T18:49:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AF: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AG: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:49:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AH: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T18:49:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 45%",
+      "time" : "2026-10-18T18:49:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AI: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AI: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T18:49:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 44%",
+      "time" : "2026-10-18T18:49:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T18:49:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AJ: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T18:49:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T18:49:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-18T18:51:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-18T19:02:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-18T19:02:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-18T19:02:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-18T19:02:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.7 s",
+      "time" : "2026-10-18T19:02:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AK: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:02:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T19:02:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-18T19:02:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 91%",
+      "time" : "2026-10-18T19:02:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-18T19:02:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T19:03:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.9 s",
+      "time" : "2026-10-18T19:04:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AL: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:04:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T19:04:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:09Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T19:04:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AM: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:04:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AM: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:04:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AL: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-18T19:04:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AM: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-18T19:04:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AK: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:04:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-18T19:05:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-10-18T19:05:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-10-18T19:05:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-10-18T19:05:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Heal",
+      "time" : "2026-10-18T19:05:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-18T19:05:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-18T19:05:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Grading panel",
+      "time" : "2026-10-18T19:06:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Grading panel",
+      "time" : "2026-10-18T19:06:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-18T19:06:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-10-18T19:06:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Heal",
+      "time" : "2026-10-18T19:06:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-10-18T19:06:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-10-18T19:06:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-18T19:06:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-18T19:06:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AN: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.7 s",
+      "time" : "2026-10-18T19:06:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AN: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:06:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 55%",
+      "time" : "2026-10-18T19:06:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AO: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.8 s",
+      "time" : "2026-10-18T19:06:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AO: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:06:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AP: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:06:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AP: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:06:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AQ: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:06:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AQ: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:06:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AR: ARW, Sony ILCE-7M4, 4624 × 3080, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:06:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AS: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.7 s",
+      "time" : "2026-10-18T19:07:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AS: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:07:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T19:07:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AT: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:07:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AT: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:07:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 44%",
+      "time" : "2026-10-18T19:07:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AU: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:07:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AU: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:07:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T19:07:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AT: ARW, Sony ILCE-7M4, 3080 × 4624, with an edit, in 0.0 s",
+      "time" : "2026-10-18T19:07:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 44%",
+      "time" : "2026-10-18T19:07:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T19:07:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T19:07:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T19:07:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T19:07:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T19:07:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T19:07:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T19:07:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T19:07:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T19:07:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-10-18T19:07:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-18T19:07:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Before / After",
+      "time" : "2026-10-18T19:07:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-10-18T19:07:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AV: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.6 s",
+      "time" : "2026-10-18T19:07:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 36%",
+      "time" : "2026-10-18T19:07:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AW: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.5 s",
+      "time" : "2026-10-18T19:07:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AW: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:07:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AX: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:07:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AY: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.9 s",
+      "time" : "2026-10-18T19:07:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Photo AY: its Lightroom edit converted on opening",
+      "time" : "2026-10-18T19:07:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T19:07:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Auto Settings",
+      "time" : "2026-10-18T19:08:18Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-18T19:08:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AZ: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.8 s",
+      "time" : "2026-10-18T19:08:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo BA: ARW, Sony ILCE-7M4, 3080 × 4624, unedited, in 0.0 s",
+      "time" : "2026-10-18T19:08:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-18T19:09:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 39%",
+      "time" : "2026-10-18T19:12:23Z"
+    }
+  ],
+  "area" : "develop.white-balance",
+  "captured" : "2026-10-18T19:12:37Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "masks" : [
+
+    ],
+    "pointCurve" : false,
+    "processVersion" : 17,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Import"
+  ],
+  "historyIndex" : 0,
+  "kind" : "bug",
+  "log" : [
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 IR Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 IR Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 IR Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2S Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2S Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2S Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-H2S Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-M5 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-M5 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-M5 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-M5 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-Pro3 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-Pro3 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S10 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S10 Camera ETERNA Bleach Bypass.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S10 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S20 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S20 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S20 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-S20 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T30 II Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T30 II Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T30 II Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T4 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T4 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T4 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T5 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T5 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T5 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T5 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T50 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T50 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T50 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X-T50 Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X100V Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X100V Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X100VI Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X100VI Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X100VI Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "18:12:16 notice camera-profiles: Fujifilm X100VI Camera Sepia.xmp: names a color table that isn't in the file",
+    "18:12:17 notice camera-profiles: Canon-PowerShot-A5-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:17 notice camera-profiles: Canon-PowerShot-A50-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:17 notice camera-profiles: Canon-PowerShot-G1-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:17 notice camera-profiles: Canon-PowerShot-Pro70-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:17 notice camera-profiles: Canon-PowerShot-Pro90-IS-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Nikon-Coolpix-5000-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Nikon-Coolpix-5700-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Sony-DSC-F828-RNI-4.0.0.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Canon-PowerShot-A5-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Canon-PowerShot-A50-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Canon-PowerShot-G1-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Canon-PowerShot-Pro70-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Canon-PowerShot-Pro90-IS-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Nikon-Coolpix-5000-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Nikon-Coolpix-5700-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read",
+    "18:12:18 notice camera-profiles: Sony-DSC-F828-RNI-4.0.3.dcp: isn't a camera profile Redlamp can read"
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo BA",
+    "asShotWhiteBalance" : "5065 K, tint 9",
+    "camera" : "Sony ILCE-7M4",
+    "exposure" : "ISO 640, 35 mm, ƒ/22.0, 1/250 s",
+    "fileName" : "Photo BA",
+    "format" : "ARW (raw, Linear DNG)",
+    "lens" : "SAMYANG AF 35mm F1.8",
+    "lensCorrection" : "Sony",
+    "size" : "3080 × 4624 (14.2 MP)",
+    "volume" : "exfat, external"
+  },
+  "report" : "5EEDAE11-82ED-4DF6-9AB6-89F54AE22009",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-18T19:12:37Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "processVersion" : 17,
+      "treatment" : "color",
+      "values" : {
+        "wb.temperature" : 5065.2179283030946,
+        "wb.tint" : 9.6170952253462438
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Tint",
+    "folderPhotos" : 4761,
+    "hidden" : [
+      "left panel"
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "39%"
+  },
+  "system" : {
+    "appVersion" : "0.3.3-alpha",
+    "build" : "2854",
+    "chip" : "Apple M1 Pro",
+    "commit" : "226481fff06d",
+    "configuration" : "Release",
+    "cores" : "8 performance and 2 efficiency cores",
+    "displays" : [
+      "1728 × 1117 pt at 2x, Color LCD, HDR up to 16x"
+    ],
+    "gpu" : "Apple M1 Pro, 12 GB working set",
+    "locale" : "en_NL",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "16 GB",
+    "model" : "MacBookPro18,1",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
