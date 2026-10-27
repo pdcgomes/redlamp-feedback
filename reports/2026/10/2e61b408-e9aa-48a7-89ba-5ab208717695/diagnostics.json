@@ -1,0 +1,2186 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-26T15:49:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 14 photos",
+      "time" : "2026-10-26T15:49:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 4.2 s",
+      "time" : "2026-10-26T15:49:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 57%",
+      "time" : "2026-10-26T15:49:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 716 ms at 57%",
+      "time" : "2026-10-26T15:49:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T15:49:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 54%",
+      "time" : "2026-10-26T15:49:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 514 ms at 54%",
+      "time" : "2026-10-26T15:49:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-26T15:49:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-26T15:49:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-26T15:49:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Swap Crop Orientation",
+      "time" : "2026-10-26T15:49:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-26T15:49:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-26T15:50:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-26T15:50:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-26T15:50:05Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-26T15:50:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-26T15:50:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-26T15:50:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-26T15:50:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Swap Crop Orientation",
+      "time" : "2026-10-26T15:50:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 1 × 1",
+      "time" : "2026-10-26T15:50:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-26T15:50:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T15:50:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 76%",
+      "time" : "2026-10-26T15:50:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-26T15:50:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-26T15:50:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-26T15:50:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Report a Bug or Send Feedback…",
+      "time" : "2026-10-26T15:50:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-26T15:51:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Report a Bug or Send Feedback…",
+      "time" : "2026-10-26T15:58:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 1.8 s",
+      "time" : "2026-10-26T16:00:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 801 ms at 50%",
+      "time" : "2026-10-26T16:00:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-26T16:00:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Crop & Straighten",
+      "time" : "2026-10-26T16:00:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-26T16:00:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 589 ms at 50%",
+      "time" : "2026-10-26T16:00:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Restored: 26 Oct 2026 at 16:49",
+      "time" : "2026-10-26T16:00:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-26T16:00:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 54%",
+      "time" : "2026-10-26T16:00:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 507 ms at 54%",
+      "time" : "2026-10-26T16:00:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T16:00:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 76%",
+      "time" : "2026-10-26T16:00:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-26T16:01:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 1.7 s",
+      "time" : "2026-10-26T16:02:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 54%",
+      "time" : "2026-10-26T16:02:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 602 ms at 54%",
+      "time" : "2026-10-26T16:02:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T16:02:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 76%",
+      "time" : "2026-10-26T16:02:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T16:02:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 54%",
+      "time" : "2026-10-26T16:02:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 429 ms at 54%",
+      "time" : "2026-10-26T16:02:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T16:02:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 76%",
+      "time" : "2026-10-26T16:02:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 0.0 s",
+      "time" : "2026-10-26T16:03:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 54%",
+      "time" : "2026-10-26T16:03:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 655 ms at 54%",
+      "time" : "2026-10-26T16:03:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-26T16:04:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-26T16:04:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-26T16:04:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-26T16:04:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-26T16:04:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-26T16:04:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-26T16:04:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-26T16:04:56Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-26T16:04:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-26T16:04:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-26T16:04:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-26T16:05:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-26T16:05:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 475 ms at 100%",
+      "time" : "2026-10-26T16:05:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Loupe",
+      "time" : "2026-10-26T16:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 54%",
+      "time" : "2026-10-26T16:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Compare",
+      "time" : "2026-10-26T16:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Selected 2 photos",
+      "time" : "2026-10-26T16:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 617 ms at 54%",
+      "time" : "2026-10-26T16:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-26T16:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Survey",
+      "time" : "2026-10-26T16:05:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-26T16:05:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Selected 2 photos",
+      "time" : "2026-10-26T16:05:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Compare",
+      "time" : "2026-10-26T16:05:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Loupe",
+      "time" : "2026-10-26T16:05:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-26T16:11:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: ARW, Sony ILCE-7CM2, 7028 × 4688, with an edit, in 1.6 s",
+      "time" : "2026-10-26T16:11:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 76%",
+      "time" : "2026-10-26T16:11:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +3 → +17",
+      "time" : "2026-10-26T16:11:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Tint: +17 → +3",
+      "time" : "2026-10-26T16:11:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Adobe Color",
+      "time" : "2026-10-26T16:11:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 84%",
+      "time" : "2026-10-26T16:11:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Tint: +3 → +17”",
+      "time" : "2026-10-26T16:14:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-10-26T16:14:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 4100 → 2000",
+      "time" : "2026-10-26T16:14:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-10-26T16:14:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Temp: 4100 → 2000”",
+      "time" : "2026-10-26T16:14:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-10-26T16:14:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-26T16:14:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Blacks: -59 → +29",
+      "time" : "2026-10-26T16:14:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-10-26T16:14:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-26T16:14:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-10-26T16:16:39Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-26T16:53:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 514 ms at 100%",
+      "time" : "2026-10-26T17:22:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Not responding for 6 s",
+      "time" : "2026-10-26T17:22:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-26T23:33:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-26T23:34:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-26T23:34:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-26T23:34:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-26T23:34:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-26T23:35:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-26T23:35:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-26T23:36:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-26T23:36:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-26T23:36:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-26T23:37:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-26T23:37:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:04:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:05:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:05:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:05:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:05:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:06:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:06:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:07:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:34:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:34:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:34:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:34:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:34:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:35:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:35:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:35:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:35:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:35:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:35:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:36:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:36:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:37:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T00:37:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T00:37:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T01:05:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T01:05:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T01:05:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T01:06:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T01:06:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T01:07:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T01:34:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T01:34:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T01:35:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T01:36:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T01:36:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T01:36:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T02:04:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T02:05:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T02:05:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T02:05:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T02:05:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T02:06:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T02:06:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T02:06:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:04:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:05:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:05:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:06:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:06:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:07:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:34:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:35:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:35:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:35:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:35:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:36:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T04:36:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T04:37:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:04:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:04:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:04:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:05:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:05:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:05:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:05:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:05:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:06:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:07:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:22:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:22:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:22:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:23:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:23:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:24:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:24:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:24:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:24:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:25:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:25:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:26:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:26:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:27:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:27:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: serious",
+      "time" : "2026-10-27T05:34:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:37:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:41:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:41:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:41:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:41:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:41:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:41:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:42:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:42:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:43:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:43:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:43:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:44:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:44:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:44:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:44:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: fair",
+      "time" : "2026-10-27T05:45:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Thermal state: nominal",
+      "time" : "2026-10-27T05:45:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 1100 ms at 100%",
+      "time" : "2026-10-27T06:21:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Not responding for 3 s",
+      "time" : "2026-10-27T06:21:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 1490 ms at 100%",
+      "time" : "2026-10-27T06:21:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Adobe Color",
+      "time" : "2026-10-27T06:24:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 4100 → 3750",
+      "time" : "2026-10-27T06:24:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +3 → +6",
+      "time" : "2026-10-27T06:24:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Basic panel",
+      "time" : "2026-10-27T06:26:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:26:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Tone Curve panel",
+      "time" : "2026-10-27T06:26:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:26:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Tone Curve panel",
+      "time" : "2026-10-27T06:26:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:26:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Tone Curve panel",
+      "time" : "2026-10-27T06:26:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Mixer Panel",
+      "time" : "2026-10-27T06:26:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Mixer panel",
+      "time" : "2026-10-27T06:26:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Basic panel",
+      "time" : "2026-10-27T06:26:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Basic panel",
+      "time" : "2026-10-27T06:26:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:26:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Tone Curve panel",
+      "time" : "2026-10-27T06:26:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:26:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Tone Curve panel",
+      "time" : "2026-10-27T06:26:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Mixer Panel",
+      "time" : "2026-10-27T06:26:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Mixer panel",
+      "time" : "2026-10-27T06:26:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Mixer Panel",
+      "time" : "2026-10-27T06:26:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Mixer panel",
+      "time" : "2026-10-27T06:26:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Basic panel",
+      "time" : "2026-10-27T06:26:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Basic panel",
+      "time" : "2026-10-27T06:26:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:26:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Tone Curve panel",
+      "time" : "2026-10-27T06:26:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Basic panel",
+      "time" : "2026-10-27T06:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Basic Panel",
+      "time" : "2026-10-27T06:26:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Basic panel",
+      "time" : "2026-10-27T06:26:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Tone Curve Panel",
+      "time" : "2026-10-27T06:27:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Tone Curve panel",
+      "time" : "2026-10-27T06:27:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Lens Corrections Panel",
+      "time" : "2026-10-27T06:27:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Lens Corrections panel",
+      "time" : "2026-10-27T06:27:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Lens Corrections Panel",
+      "time" : "2026-10-27T06:27:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Lens Corrections panel",
+      "time" : "2026-10-27T06:27:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Lens Corrections Panel",
+      "time" : "2026-10-27T06:27:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Lens Corrections panel",
+      "time" : "2026-10-27T06:27:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Lens Corrections Panel",
+      "time" : "2026-10-27T06:27:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Lens Corrections panel",
+      "time" : "2026-10-27T06:27:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Detail Panel",
+      "time" : "2026-10-27T06:27:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Detail panel",
+      "time" : "2026-10-27T06:27:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Detail Panel",
+      "time" : "2026-10-27T06:27:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Detail panel",
+      "time" : "2026-10-27T06:27:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Detail Panel",
+      "time" : "2026-10-27T06:27:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Detail panel",
+      "time" : "2026-10-27T06:27:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Detail Panel",
+      "time" : "2026-10-27T06:27:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Detail panel",
+      "time" : "2026-10-27T06:27:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Grading Panel",
+      "time" : "2026-10-27T06:27:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Grading panel",
+      "time" : "2026-10-27T06:27:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Grading Panel",
+      "time" : "2026-10-27T06:27:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Grading panel",
+      "time" : "2026-10-27T06:27:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Grading Panel",
+      "time" : "2026-10-27T06:27:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Grading panel",
+      "time" : "2026-10-27T06:27:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Grading Panel",
+      "time" : "2026-10-27T06:27:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Grading panel",
+      "time" : "2026-10-27T06:27:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Mixer Panel",
+      "time" : "2026-10-27T06:27:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Mixer panel",
+      "time" : "2026-10-27T06:27:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Color Mixer Panel",
+      "time" : "2026-10-27T06:27:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Mixer panel",
+      "time" : "2026-10-27T06:27:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Border panel",
+      "time" : "2026-10-27T06:28:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-10-27T06:28:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 56%",
+      "time" : "2026-10-27T06:28:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Paste from Previous",
+      "time" : "2026-10-27T06:28:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Reset”",
+      "time" : "2026-10-27T06:28:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-27T06:28:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Tint: +3 → +6”",
+      "time" : "2026-10-27T06:28:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-27T06:28:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 84%",
+      "time" : "2026-10-27T06:28:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: 35 mm Film",
+      "time" : "2026-10-27T06:28:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 59%",
+      "time" : "2026-10-27T06:28:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: Filed Carrier",
+      "time" : "2026-10-27T06:29:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 71%",
+      "time" : "2026-10-27T06:29:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: Slide Mount",
+      "time" : "2026-10-27T06:29:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-10-27T06:29:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: Instant Wide",
+      "time" : "2026-10-27T06:29:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 63%",
+      "time" : "2026-10-27T06:29:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: Plain",
+      "time" : "2026-10-27T06:29:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 77%",
+      "time" : "2026-10-27T06:29:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: None",
+      "time" : "2026-10-27T06:29:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 84%",
+      "time" : "2026-10-27T06:29:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Border panel",
+      "time" : "2026-10-27T06:29:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 86%",
+      "time" : "2026-10-27T06:30:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 84%",
+      "time" : "2026-10-27T06:30:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 84%",
+      "time" : "2026-10-27T06:30:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Basic panel",
+      "time" : "2026-10-27T06:31:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look Amount: 100 → 43",
+      "time" : "2026-10-27T06:31:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 3750 → 3450",
+      "time" : "2026-10-27T06:31:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Temp: 3450 → 3650",
+      "time" : "2026-10-27T06:31:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look Amount: 43 → 59",
+      "time" : "2026-10-27T06:31:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Border: None”",
+      "time" : "2026-10-27T06:31:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Tone Curve panel",
+      "time" : "2026-10-27T06:34:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Tone Curve panel",
+      "time" : "2026-10-27T06:34:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Color Mixer panel",
+      "time" : "2026-10-27T06:34:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Color Mixer panel",
+      "time" : "2026-10-27T06:34:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 84%",
+      "time" : "2026-10-27T06:34:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Transform panel",
+      "time" : "2026-10-27T06:35:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Transform panel",
+      "time" : "2026-10-27T06:35:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Effects panel",
+      "time" : "2026-10-27T06:35:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Effects panel",
+      "time" : "2026-10-27T06:35:20Z"
+    }
+  ],
+  "area" : "recipes.base-looks",
+  "captured" : "2026-10-27T06:38:09Z",
+  "edit" : {
+    "baseLook" : "Adobe Color (100)",
+    "crop" : "67% × 67% of the photo",
+    "masks" : [
+      "“Mask 1”: Radial Gradient; Exposure +0.04, Highlights -52, Shadows +37; amount 100",
+      "“Mask 1 Copy” (inverted): Radial Gradient; Exposure -0.19; amount 100"
+    ],
+    "pointCurve" : false,
+    "processVersion" : 17,
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Temp 3750",
+          "Tint +6",
+          "Exposure +0.27",
+          "Highlights -22",
+          "Whites -34",
+          "Blacks -59",
+          "Texture +22",
+          "Clarity -23",
+          "Dehaze +50",
+          "Vibrance +34"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "Custom"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened",
+    "Base Look: Redlamp Color → Adobe Color",
+    "Temp: 4100 → 3750",
+    "Tint: +3 → +6",
+    "Border: 35 mm Film",
+    "Border: Filed Carrier",
+    "Border: Slide Mount",
+    "Border: Instant Wide",
+    "Border: Plain",
+    "Border: None",
+    "Base Look Amount: 100 → 43",
+    "Temp: 3750 → 3450",
+    "Reset Temp: 3450 → 3650",
+    "Base Look Amount: 43 → 59"
+  ],
+  "historyIndex" : 9,
+  "kind" : "bug",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo C",
+    "asShotWhiteBalance" : "3671 K, tint 3",
+    "camera" : "Sony ILCE-7CM2",
+    "exposure" : "ISO 500, 85 mm, ƒ/2.0, 1/1000 s",
+    "fileName" : "Photo C",
+    "format" : "ARW (raw, Bayer RGGB)",
+    "lens" : "85mm F1.4 DG DN | Art 020",
+    "lensCorrection" : "Sony",
+    "size" : "7028 × 4688 (32.9 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "2E61B408-E9AA-48A7-89BA-5AB208717695",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-27T06:38:09Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "local/adobe/6c651819e7308966/be859ecf539944fa",
+        "name" : "Adobe Color",
+        "version" : 1
+      },
+      "crop" : {
+        "bottom" : 0.82632747331165668,
+        "left" : 0.19380425001330936,
+        "right" : 0.86144709708121825,
+        "top" : 0.1586846262437478
+      },
+      "exposureAnchor" : {
+        "camera" : "Sony ILCE-7CM2",
+        "source" : "estimated",
+        "stops" : 1.1400000000000001
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.exposure" : 0.040000000000000001,
+            "local.highlights" : -52,
+            "local.shadows" : 37
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "1C9087E1-8EFD-496F-BD7E-EB35190B376F",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "radial" : {
+                  "_0" : {
+                    "center" : {
+                      "x" : 0.60416868603007934,
+                      "y" : 0.47759236956244699
+                    },
+                    "feather" : 50,
+                    "radiusX" : 0.25008974870276052,
+                    "radiusY" : 0.3654223137313059,
+                    "rotation" : 0
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "5B955DDC-17F7-4632-A301-72DBE7251FE7",
+          "isVisible" : true,
+          "name" : "Mask 1"
+        },
+        {
+          "adjustments" : {
+            "local.exposure" : -0.19
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "725363FB-C28E-45F5-8FA3-18264BD9506E",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "radial" : {
+                  "_0" : {
+                    "center" : {
+                      "x" : 0.60416868603007934,
+                      "y" : 0.47759236956244699
+                    },
+                    "feather" : 50,
+                    "radiusX" : 0.25008974870276052,
+                    "radiusY" : 0.3654223137313059,
+                    "rotation" : 0
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "5BD906D9-6D71-4390-871D-68A2A48E38C1",
+          "inverted" : true,
+          "isVisible" : true,
+          "name" : "Mask 1 Copy"
+        }
+      ],
+      "processVersion" : 17,
+      "treatment" : "color",
+      "values" : {
+        "basic.blacks" : -59,
+        "basic.clarity" : -23,
+        "basic.dehaze" : 50,
+        "basic.exposure" : 0.27000000000000002,
+        "basic.highlights" : -22,
+        "basic.texture" : 22,
+        "basic.vibrance" : 34,
+        "basic.whites" : -34,
+        "wb.temperature" : 3750,
+        "wb.tint" : 6
+      },
+      "version" : 3,
+      "whiteBalance" : "custom"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Temp",
+    "folderPhotos" : 14,
+    "hidden" : [
+      "filmstrip"
+    ],
+    "panels" : [
+      "Basic"
+    ],
+    "selectedPhotos" : 2,
+    "tool" : "Edit",
+    "zoom" : "84%"
+  },
+  "system" : {
+    "appVersion" : "0.3.3-alpha",
+    "build" : "2854",
+    "chip" : "Apple M1 Pro",
+    "commit" : "226481fff06d",
+    "configuration" : "Release",
+    "cores" : "8 performance and 2 efficiency cores",
+    "displays" : [
+      "2560 × 1440 pt at 2x, DELL U2725QE, SDR",
+      "1512 × 982 pt at 2x, Color LCD, HDR up to 16x"
+    ],
+    "gpu" : "Apple M1 Pro, 25 GB working set",
+    "locale" : "en_US@rg=plzzzz",
+    "lowPowerMode" : false,
+    "macOS" : "27.2.0 (26B118)",
+    "memory" : "32 GB",
+    "model" : "MacBookPro18,3",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): ready",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
