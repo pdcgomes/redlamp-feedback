@@ -1,0 +1,206 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-28T04:39:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 19 photos",
+      "time" : "2026-10-28T04:39:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: JPEG, 4740 × 3160, with an edit, in 0.5 s",
+      "time" : "2026-10-28T04:39:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 43%",
+      "time" : "2026-10-28T04:39:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-28T04:39:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Report a Bug or Send Feedback…",
+      "time" : "2026-10-28T04:40:22Z"
+    }
+  ],
+  "area" : "other.general",
+  "captured" : "2026-10-28T04:42:11Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "masks" : [
+      "“Mask 1”: Linear Gradient; Exposure -4.00; amount 100",
+      "“Mask 2”: Radial Gradient; Exposure +1.18; amount 100"
+    ],
+    "pointCurve" : false,
+    "processVersion" : 19,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened"
+  ],
+  "historyIndex" : 0,
+  "kind" : "question",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo A",
+    "fileName" : "Photo A",
+    "format" : "JPEG (JPEG)",
+    "size" : "4740 × 3160 (15.0 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "C2AB50C6-B363-4391-ABAB-03F52A185255",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-28T04:42:11Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.exposure" : -4
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "E05F88BB-C430-4BEC-9826-FAB004E4BA65",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "linear" : {
+                  "_0" : {
+                    "end" : {
+                      "x" : 0.78950735493492408,
+                      "y" : 0.50962157673535791
+                    },
+                    "start" : {
+                      "x" : 1.0038130422993492,
+                      "y" : 1.0824930517895879
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "detail" : 10,
+          "id" : "5C314CD7-AA23-4FD2-9177-1B7EF7E9EB4F",
+          "isVisible" : true,
+          "name" : "Mask 1"
+        },
+        {
+          "adjustments" : {
+            "local.exposure" : 1.1799999999999999
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "D81146F7-FFA1-4A5A-B1E5-05B6864FE224",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "radial" : {
+                  "_0" : {
+                    "center" : {
+                      "x" : 0.14406944821041215,
+                      "y" : 0.1767874694956616
+                    },
+                    "feather" : 65,
+                    "radiusX" : 0.41822083446312369,
+                    "radiusY" : 0.34785749389913234,
+                    "rotation" : 0
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "76270632-D8BD-41CB-8D50-E929F794486F",
+          "isVisible" : true,
+          "name" : "Mask 2"
+        }
+      ],
+      "processVersion" : 19,
+      "treatment" : "color",
+      "values" : {
+
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "folderPhotos" : 19,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "43%"
+  },
+  "system" : {
+    "appVersion" : "0.3.4-alpha",
+    "build" : "3014",
+    "chip" : "Apple M5 Pro",
+    "commit" : "de64190a68bb",
+    "configuration" : "Release",
+    "cores" : "5 performance and 10 efficiency cores",
+    "displays" : [
+      "1512 × 982 pt at 2x, Color LCD, HDR up to 16x",
+      "2560 × 1440 pt at 2x, BenQ PD2700U, SDR"
+    ],
+    "gpu" : "Apple M5 Pro, 18 GB working set",
+    "locale" : "en_IN",
+    "lowPowerMode" : false,
+    "macOS" : "26.6.2 (25G83)",
+    "memory" : "24 GB",
+    "model" : "Mac17,9",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
