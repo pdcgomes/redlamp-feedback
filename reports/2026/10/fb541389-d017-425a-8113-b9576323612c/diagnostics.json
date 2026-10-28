@@ -1,0 +1,1748 @@
+{
+  "area" : "performance.crash",
+  "captured" : "2026-10-28T12:12:22Z",
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "incident" : {
+    "binaries" : [
+      {
+        "base" : 4302323712,
+        "inApp" : true,
+        "name" : "Redlamp",
+        "uuid" : "69C25445-4C83-3D1D-8620-BCA28C2D53F0"
+      },
+      {
+        "base" : 4302749696,
+        "inApp" : true,
+        "name" : "RedlampAutomation",
+        "uuid" : "B8EBBF57-A9F3-317E-BF80-0E078BFC792D"
+      },
+      {
+        "base" : 4303552512,
+        "inApp" : true,
+        "name" : "RedlampBench",
+        "uuid" : "217411C3-1524-3BA7-8BB8-99174B129C97"
+      },
+      {
+        "base" : 4303044608,
+        "inApp" : true,
+        "name" : "RedlampCanvas",
+        "uuid" : "2E9DCD65-3D50-39CF-9B73-E20780EE61D1"
+      },
+      {
+        "base" : 4305485824,
+        "inApp" : true,
+        "name" : "RedlampDesign",
+        "uuid" : "A8789ECF-C6F4-3D71-8C99-3DA1BB59EC89"
+      },
+      {
+        "base" : 4309352448,
+        "inApp" : true,
+        "name" : "RedlampDocument",
+        "uuid" : "7F70BA01-7BBF-3B39-876A-83626097A24A"
+      },
+      {
+        "base" : 4313350144,
+        "inApp" : true,
+        "name" : "RedlampEngine",
+        "uuid" : "E9788AB0-CE57-3DB4-BCD9-CA737E255553"
+      },
+      {
+        "base" : 4307238912,
+        "inApp" : true,
+        "name" : "RedlampEngineAPI",
+        "uuid" : "D50CC692-0AB9-3D2C-8BCC-838073CE885B"
+      },
+      {
+        "base" : 4305043456,
+        "inApp" : true,
+        "name" : "RedlampGenerative",
+        "uuid" : "727019E5-58EC-32F0-9740-74338E2D0D0C"
+      },
+      {
+        "base" : 4326686720,
+        "inApp" : true,
+        "name" : "RedlampLibrary",
+        "uuid" : "A1F31D99-097E-3D26-B1A5-42BFA0592483"
+      },
+      {
+        "base" : 4317560832,
+        "inApp" : true,
+        "name" : "RedlampRecipes",
+        "uuid" : "EACBDBF4-A803-320C-9808-E8E8A68F26B1"
+      },
+      {
+        "base" : 4320067584,
+        "inApp" : true,
+        "name" : "RedlampServices",
+        "uuid" : "4E1964FE-0488-34C4-8D66-7FEF91D838C9"
+      },
+      {
+        "base" : 4354883584,
+        "inApp" : true,
+        "name" : "RedlampUI",
+        "uuid" : "CE54C8E1-67A8-39F8-AFE2-29847AD351EA"
+      },
+      {
+        "base" : 4306403328,
+        "inApp" : true,
+        "name" : "Sparkle",
+        "uuid" : "8F0BCB17-939E-3264-BC61-6FCFE31C57A5"
+      },
+      {
+        "base" : 4315136000,
+        "inApp" : true,
+        "name" : "RedlampMasking",
+        "uuid" : "F77C75A4-93F4-37A5-A018-E44F0D95ECB8"
+      },
+      {
+        "base" : 4302913536,
+        "inApp" : true,
+        "name" : "RedlampColor",
+        "uuid" : "5D4776F3-95E0-3A84-9156-9AC14D294FA8"
+      },
+      {
+        "base" : 4304322560,
+        "inApp" : true,
+        "name" : "RedlampKernels",
+        "uuid" : "0547C8C8-D613-39A8-9990-4EAF4F9D6EBA"
+      },
+      {
+        "base" : 4321755136,
+        "inApp" : true,
+        "name" : "MLX",
+        "uuid" : "8F1B729D-40E2-3791-B99D-F3A17061B0E8"
+      },
+      {
+        "base" : 4371464192,
+        "inApp" : true,
+        "name" : "Cmlx",
+        "uuid" : "0F5D0723-1E6D-34C8-983A-F2D283D94930"
+      },
+      {
+        "base" : 4302815232,
+        "inApp" : true,
+        "name" : "cLogSupport",
+        "uuid" : "6E270222-6E8B-3B95-9F7B-AAFE5792F32D"
+      },
+      {
+        "base" : 4324360192,
+        "inApp" : false,
+        "name" : "libobjc-trampolines.dylib",
+        "uuid" : "C7D2186B-CEC3-36AF-B45B-666F3843B773"
+      },
+      {
+        "base" : 4743397376,
+        "inApp" : false,
+        "name" : "libMetalMetricsInterpose.dylib",
+        "uuid" : "E47D8BA0-A113-3D7C-8437-266C2F5986D3"
+      },
+      {
+        "base" : 4836278272,
+        "inApp" : false,
+        "name" : "AudioCodecs",
+        "uuid" : "61C44B37-3B5D-3376-90AC-8E1706FF3B20"
+      },
+      {
+        "base" : 4811112448,
+        "inApp" : false,
+        "name" : "AudioDSP",
+        "uuid" : "AE7E62B0-6933-38FF-8D59-F644906B3DDF"
+      },
+      {
+        "base" : 4783374336,
+        "inApp" : false,
+        "name" : "CoreAudio",
+        "uuid" : "600BE4D3-2A6B-3658-A696-C69B67D9CEE0"
+      },
+      {
+        "base" : 4787585024,
+        "inApp" : false,
+        "name" : "csparser",
+        "uuid" : "32F6783E-2225-3484-9CCC-91134F612DB1"
+      },
+      {
+        "base" : 6684995584,
+        "inApp" : false,
+        "name" : "libsystem_kernel.dylib",
+        "uuid" : "F2BCEB9A-0FEC-3C92-B6EA-8E37157050A8"
+      },
+      {
+        "base" : 6753714176,
+        "inApp" : false,
+        "name" : "CoreFoundation",
+        "uuid" : "0E72BE04-5C19-3F5D-9809-94553E6A31F0"
+      },
+      {
+        "base" : 6929338368,
+        "inApp" : false,
+        "name" : "HIToolbox",
+        "uuid" : "104D7526-4F30-390B-9C29-E1EDD3E77AA5"
+      },
+      {
+        "base" : 6851174400,
+        "inApp" : false,
+        "name" : "AppKit",
+        "uuid" : "77E3ADB8-E4E8-3912-8599-D43182877C10"
+      },
+      {
+        "base" : 7120326656,
+        "inApp" : false,
+        "name" : "SwiftUI",
+        "uuid" : "B5EE9A0C-44D7-356B-B122-12EA59CE8861"
+      },
+      {
+        "base" : 6684209152,
+        "inApp" : false,
+        "name" : "dyld",
+        "uuid" : "D8104ED6-185E-3A2F-AD71-B91EDDBE2598"
+      },
+      {
+        "base" : 0,
+        "inApp" : false,
+        "name" : "???",
+        "uuid" : "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "base" : 6685253632,
+        "inApp" : false,
+        "name" : "libsystem_pthread.dylib",
+        "uuid" : "D5E656B3-84B5-368D-A6E7-CCC1A736FB75"
+      },
+      {
+        "base" : 7017684992,
+        "inApp" : false,
+        "name" : "CoreMedia",
+        "uuid" : "16BDEA63-5AAA-37B7-9669-63C61C70B14A"
+      },
+      {
+        "base" : 7195529216,
+        "inApp" : false,
+        "name" : "MediaToolbox",
+        "uuid" : "AB768E04-7D78-3991-81C5-E0F2260E4B80"
+      },
+      {
+        "base" : 6691790848,
+        "inApp" : false,
+        "name" : "Foundation",
+        "uuid" : "3F6D1ACE-7756-3B52-A297-8E7ADA36194F"
+      },
+      {
+        "base" : 6875049984,
+        "inApp" : false,
+        "name" : "CFNetwork",
+        "uuid" : "D01FA3A7-8925-3D70-A21C-EF2176DFC5AD"
+      },
+      {
+        "base" : 6768635904,
+        "inApp" : false,
+        "name" : "libdispatch.dylib",
+        "uuid" : "6F5E8225-AD67-3644-AFEF-25A4A43BF604"
+      },
+      {
+        "base" : 6906081280,
+        "inApp" : false,
+        "name" : "ImageIO",
+        "uuid" : "B388581A-27D1-3631-8220-ADC787B1EC04"
+      },
+      {
+        "base" : 6711812096,
+        "inApp" : false,
+        "name" : "CoreGraphics",
+        "uuid" : "72E77A2C-C0E6-3871-B1EF-EC3D728C74DE"
+      },
+      {
+        "base" : 6768926720,
+        "inApp" : false,
+        "name" : "libsystem_platform.dylib",
+        "uuid" : "FDF30FD1-5E97-3348-BEE7-BA386574A75F"
+      },
+      {
+        "base" : 6711414784,
+        "inApp" : false,
+        "name" : "libsystem_malloc.dylib",
+        "uuid" : "22C6E10E-C6CC-3475-BDE0-270D72950E6A"
+      },
+      {
+        "base" : 7049506816,
+        "inApp" : false,
+        "name" : "FileProvider",
+        "uuid" : "859E4227-72A8-397D-8977-C1DB9E16ED25"
+      },
+      {
+        "base" : 6775709696,
+        "inApp" : false,
+        "name" : "CoreServicesInternal",
+        "uuid" : "17073A93-E403-38FA-99D2-0EBFDDD7AF89"
+      }
+    ],
+    "endedSession" : false,
+    "exception" : "EXC_BAD_ACCESS (SIGBUS)",
+    "id" : "E36A7FC7-27ED-4BBF-AE08-5E595A0DD95A",
+    "kind" : "crash",
+    "pid" : 16458,
+    "reasons" : [
+      "KERN_MEMORY_ERROR at 0x0000000149254000",
+      "SIGNAL: Bus error: 10",
+      "0x149254000 is in 0x149254000-0x14a9f0000;  bytes after start: 0  bytes before end: 24756223"
+    ],
+    "sources" : [
+      "crashReport"
+    ],
+    "threads" : [
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 3104,
+            "symbol" : "mach_msg2_trap"
+          },
+          {
+            "binary" : 26,
+            "offset" : 80096,
+            "symbol" : "mach_msg2_internal"
+          },
+          {
+            "binary" : 26,
+            "offset" : 39464,
+            "symbol" : "mach_msg_overwrite"
+          },
+          {
+            "binary" : 26,
+            "offset" : 4012,
+            "symbol" : "mach_msg"
+          },
+          {
+            "binary" : 27,
+            "offset" : 531144,
+            "symbol" : "__CFRunLoopServiceMachPort"
+          },
+          {
+            "binary" : 27,
+            "offset" : 525072,
+            "symbol" : "__CFRunLoopRun"
+          },
+          {
+            "binary" : 27,
+            "offset" : 1420304,
+            "symbol" : "_CFRunLoopRunSpecificWithOptions"
+          },
+          {
+            "binary" : 28,
+            "offset" : 767456,
+            "symbol" : "RunCurrentEventLoopInMode"
+          },
+          {
+            "binary" : 28,
+            "offset" : 780652,
+            "symbol" : "ReceiveNextEventCommon"
+          },
+          {
+            "binary" : 28,
+            "offset" : 2379192,
+            "symbol" : "_BlockUntilNextEventMatchingListInMode"
+          },
+          {
+            "binary" : 29,
+            "offset" : 3647680,
+            "symbol" : "_DPSBlockUntilNextEventMatchingListInMode"
+          },
+          {
+            "binary" : 29,
+            "offset" : 234908,
+            "symbol" : "_DPSNextEvent"
+          },
+          {
+            "binary" : 29,
+            "offset" : 8193528,
+            "symbol" : "-[NSApplication(NSEventRouting) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]"
+          },
+          {
+            "binary" : 29,
+            "offset" : 8192232,
+            "symbol" : "-[NSApplication(NSEventRouting) nextEventMatchingMask:untilDate:inMode:dequeue:]"
+          },
+          {
+            "binary" : 29,
+            "offset" : 182560,
+            "symbol" : "-[NSApplication run]"
+          },
+          {
+            "binary" : 29,
+            "offset" : 19692,
+            "symbol" : "NSApplicationMain"
+          },
+          {
+            "binary" : 30,
+            "offset" : 1291268,
+            "symbol" : "specialized runApp(_:)"
+          },
+          {
+            "binary" : 30,
+            "offset" : 5645520,
+            "symbol" : "runApp<A>(_:)"
+          },
+          {
+            "binary" : 30,
+            "offset" : 8625236,
+            "symbol" : "static App.main()"
+          },
+          {
+            "binary" : 0,
+            "offset" : 176808,
+            "symbol" : "main"
+          },
+          {
+            "binary" : 31,
+            "offset" : 204156,
+            "symbol" : "start"
+          }
+        ],
+        "queue" : "com.apple.main-thread"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 3104,
+            "symbol" : "mach_msg2_trap"
+          },
+          {
+            "binary" : 26,
+            "offset" : 80096,
+            "symbol" : "mach_msg2_internal"
+          },
+          {
+            "binary" : 26,
+            "offset" : 39464,
+            "symbol" : "mach_msg_overwrite"
+          },
+          {
+            "binary" : 26,
+            "offset" : 4012,
+            "symbol" : "mach_msg"
+          },
+          {
+            "binary" : 27,
+            "offset" : 531144,
+            "symbol" : "__CFRunLoopServiceMachPort"
+          },
+          {
+            "binary" : 27,
+            "offset" : 525072,
+            "symbol" : "__CFRunLoopRun"
+          },
+          {
+            "binary" : 27,
+            "offset" : 1420304,
+            "symbol" : "_CFRunLoopRunSpecificWithOptions"
+          },
+          {
+            "binary" : 29,
+            "offset" : 1430868,
+            "symbol" : "_NSEventThread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 27876,
+            "symbol" : "_pthread_start"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7376,
+            "symbol" : "thread_start"
+          }
+        ],
+        "name" : "com.apple.NSEventThread"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 17676,
+            "symbol" : "__psynch_cvwait"
+          },
+          {
+            "binary" : 33,
+            "offset" : 29108,
+            "symbol" : "_pthread_cond_wait"
+          },
+          {
+            "binary" : 34,
+            "offset" : 134732,
+            "symbol" : "WaitOnCondition"
+          },
+          {
+            "binary" : 34,
+            "offset" : 44504,
+            "symbol" : "FigSemaphoreWaitRelative"
+          },
+          {
+            "binary" : 35,
+            "offset" : 4050124
+          },
+          {
+            "binary" : 34,
+            "offset" : 128616,
+            "symbol" : "figThreadMain"
+          },
+          {
+            "binary" : 33,
+            "offset" : 27876,
+            "symbol" : "_pthread_start"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7376,
+            "symbol" : "thread_start"
+          }
+        ],
+        "name" : "com.apple.coremedia.imagequeue.coreanimation.common"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 3104,
+            "symbol" : "mach_msg2_trap"
+          },
+          {
+            "binary" : 26,
+            "offset" : 80096,
+            "symbol" : "mach_msg2_internal"
+          },
+          {
+            "binary" : 26,
+            "offset" : 39464,
+            "symbol" : "mach_msg_overwrite"
+          },
+          {
+            "binary" : 26,
+            "offset" : 4012,
+            "symbol" : "mach_msg"
+          },
+          {
+            "binary" : 27,
+            "offset" : 531144,
+            "symbol" : "__CFRunLoopServiceMachPort"
+          },
+          {
+            "binary" : 27,
+            "offset" : 525072,
+            "symbol" : "__CFRunLoopRun"
+          },
+          {
+            "binary" : 27,
+            "offset" : 1420304,
+            "symbol" : "_CFRunLoopRunSpecificWithOptions"
+          },
+          {
+            "binary" : 36,
+            "offset" : 367980,
+            "symbol" : "-[NSRunLoop(NSRunLoop) runMode:beforeDate:]"
+          },
+          {
+            "binary" : 3,
+            "offset" : 82248
+          },
+          {
+            "binary" : 3,
+            "offset" : 85048
+          },
+          {
+            "binary" : 36,
+            "offset" : 343192,
+            "symbol" : "__NSThread__start__"
+          },
+          {
+            "binary" : 33,
+            "offset" : 27876,
+            "symbol" : "_pthread_start"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7376,
+            "symbol" : "thread_start"
+          }
+        ],
+        "name" : "Redlamp canvas"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 3104,
+            "symbol" : "mach_msg2_trap"
+          },
+          {
+            "binary" : 26,
+            "offset" : 80096,
+            "symbol" : "mach_msg2_internal"
+          },
+          {
+            "binary" : 26,
+            "offset" : 39464,
+            "symbol" : "mach_msg_overwrite"
+          },
+          {
+            "binary" : 26,
+            "offset" : 4012,
+            "symbol" : "mach_msg"
+          },
+          {
+            "binary" : 27,
+            "offset" : 531144,
+            "symbol" : "__CFRunLoopServiceMachPort"
+          },
+          {
+            "binary" : 27,
+            "offset" : 525072,
+            "symbol" : "__CFRunLoopRun"
+          },
+          {
+            "binary" : 27,
+            "offset" : 1420304,
+            "symbol" : "_CFRunLoopRunSpecificWithOptions"
+          },
+          {
+            "binary" : 36,
+            "offset" : 367980,
+            "symbol" : "-[NSRunLoop(NSRunLoop) runMode:beforeDate:]"
+          },
+          {
+            "binary" : 3,
+            "offset" : 82248
+          },
+          {
+            "binary" : 3,
+            "offset" : 85048
+          },
+          {
+            "binary" : 36,
+            "offset" : 343192,
+            "symbol" : "__NSThread__start__"
+          },
+          {
+            "binary" : 33,
+            "offset" : 27876,
+            "symbol" : "_pthread_start"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7376,
+            "symbol" : "thread_start"
+          }
+        ],
+        "name" : "Redlamp canvas"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 3104,
+            "symbol" : "mach_msg2_trap"
+          },
+          {
+            "binary" : 26,
+            "offset" : 80096,
+            "symbol" : "mach_msg2_internal"
+          },
+          {
+            "binary" : 26,
+            "offset" : 39464,
+            "symbol" : "mach_msg_overwrite"
+          },
+          {
+            "binary" : 26,
+            "offset" : 4012,
+            "symbol" : "mach_msg"
+          },
+          {
+            "binary" : 27,
+            "offset" : 531144,
+            "symbol" : "__CFRunLoopServiceMachPort"
+          },
+          {
+            "binary" : 27,
+            "offset" : 525072,
+            "symbol" : "__CFRunLoopRun"
+          },
+          {
+            "binary" : 27,
+            "offset" : 1420304,
+            "symbol" : "_CFRunLoopRunSpecificWithOptions"
+          },
+          {
+            "binary" : 37,
+            "offset" : 2356428,
+            "symbol" : "+[__CFN_CoreSchedulingSetRunnable _run:]"
+          },
+          {
+            "binary" : 36,
+            "offset" : 343192,
+            "symbol" : "__NSThread__start__"
+          },
+          {
+            "binary" : 33,
+            "offset" : 27876,
+            "symbol" : "_pthread_start"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7376,
+            "symbol" : "thread_start"
+          }
+        ],
+        "name" : "com.apple.NSURLConnectionLoader"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 6672,
+            "symbol" : "__mmap"
+          },
+          {
+            "binary" : 26,
+            "offset" : 6576,
+            "symbol" : "mmap"
+          },
+          {
+            "binary" : 36,
+            "offset" : 9074448,
+            "symbol" : "specialized readBytesFromFile<A>(path:reportProgress:maxLength:options:attributesToRead:attributes:)"
+          },
+          {
+            "binary" : 36,
+            "offset" : 5635008,
+            "symbol" : "specialized static NSData._readBytes(fromPath:maxLength:bytes:length:didMap:options:reportProgress:)"
+          },
+          {
+            "binary" : 36,
+            "offset" : 5629340,
+            "symbol" : "@objc static NSData._readBytes(fromPath:maxLength:bytes:length:didMap:options:reportProgress:)"
+          },
+          {
+            "binary" : 36,
+            "offset" : 147192,
+            "symbol" : "-[NSData(NSData) initWithContentsOfFile:options:maxLength:error:]"
+          },
+          {
+            "binary" : 11,
+            "offset" : 708288
+          },
+          {
+            "binary" : 11,
+            "offset" : 718548
+          },
+          {
+            "binary" : 11,
+            "offset" : 707568
+          },
+          {
+            "binary" : 6,
+            "offset" : 1049732
+          },
+          {
+            "binary" : 0,
+            "offset" : 179388
+          },
+          {
+            "binary" : 12,
+            "offset" : 8674876
+          },
+          {
+            "binary" : 9,
+            "offset" : 9071500
+          },
+          {
+            "binary" : 9,
+            "offset" : 9070240
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601932
+          },
+          {
+            "binary" : 9,
+            "offset" : 5611608
+          },
+          {
+            "binary" : 7,
+            "offset" : 208844
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601684
+          },
+          {
+            "binary" : 9,
+            "offset" : 5606776
+          },
+          {
+            "binary" : 5,
+            "offset" : 1041060
+          },
+          {
+            "binary" : 5,
+            "offset" : 1019196
+          },
+          {
+            "binary" : 5,
+            "offset" : 1027704
+          },
+          {
+            "binary" : 5,
+            "offset" : 1031732
+          },
+          {
+            "binary" : 5,
+            "offset" : 315508
+          },
+          {
+            "binary" : 38,
+            "offset" : 6708,
+            "symbol" : "_dispatch_call_block_and_release"
+          },
+          {
+            "binary" : 38,
+            "offset" : 112032,
+            "symbol" : "_dispatch_client_callout"
+          },
+          {
+            "binary" : 38,
+            "offset" : 234312,
+            "symbol" : "<deduplicated_symbol>"
+          },
+          {
+            "binary" : 38,
+            "offset" : 80904,
+            "symbol" : "_dispatch_root_queue_drain"
+          },
+          {
+            "binary" : 38,
+            "offset" : 82504,
+            "symbol" : "_dispatch_worker_thread2"
+          },
+          {
+            "binary" : 33,
+            "offset" : 12100,
+            "symbol" : "_pthread_wqthread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7364,
+            "symbol" : "start_wqthread"
+          }
+        ],
+        "queue" : "com.apple.root.utility-qos"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 51452,
+            "symbol" : "stat"
+          },
+          {
+            "binary" : 39,
+            "offset" : 3984668,
+            "symbol" : "IIOImageRead::validateFileSize()"
+          },
+          {
+            "binary" : 39,
+            "offset" : 113296,
+            "symbol" : "IIOImageRead::mapData()"
+          },
+          {
+            "binary" : 39,
+            "offset" : 804020,
+            "symbol" : "TIFFReadPlugin::decodeImageImp(IIODecodeParameter*, IIOImageType, __IOSurface**, __CVBuffer**, CGImageBlockSet**)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 871752,
+            "symbol" : "IIOReadPlugin::callDecodeImage(IIODecodeParameter*, IIOImageType, __IOSurface**, __CVBuffer**, CGImageBlockSet**)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 107160,
+            "symbol" : "IIO_Reader::CopyImageBlockSetProc(void*, CGImageProvider*, CGRect, CGSize, __CFDictionary const*)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 209316,
+            "symbol" : "IIOImageProviderInfo::copyImageBlockSetWithOptions(CGImageProvider*, CGRect, CGSize, __CFDictionary const*)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 105980,
+            "symbol" : "IIOImageProviderInfo::CopyImageBlockSetWithOptions(void*, CGImageProvider*, CGRect, CGSize, __CFDictionary const*)"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257820,
+            "symbol" : "imageProvider_retain_data"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257584,
+            "symbol" : "CGDataProviderRetainData"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257656,
+            "symbol" : "provider_for_destination_retain_data"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257584,
+            "symbol" : "CGDataProviderRetainData"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257216,
+            "symbol" : "CGAccessSessionCreate"
+          },
+          {
+            "binary" : 40,
+            "offset" : 262960,
+            "symbol" : "get_access_session"
+          },
+          {
+            "binary" : 40,
+            "offset" : 402948,
+            "symbol" : "img_decode_read"
+          },
+          {
+            "binary" : 40,
+            "offset" : 556328,
+            "symbol" : "img_interpolate_read"
+          },
+          {
+            "binary" : 40,
+            "offset" : 256492,
+            "symbol" : "img_data_lock"
+          },
+          {
+            "binary" : 40,
+            "offset" : 229428,
+            "symbol" : "CGSImageDataLock"
+          },
+          {
+            "binary" : 40,
+            "offset" : 227256,
+            "symbol" : "ripc_AcquireRIPImageData"
+          },
+          {
+            "binary" : 40,
+            "offset" : 220800,
+            "symbol" : "ripc_DrawImage"
+          },
+          {
+            "binary" : 40,
+            "offset" : 219620,
+            "symbol" : "CGContextDrawImageWithOptions"
+          },
+          {
+            "binary" : 40,
+            "offset" : 218376,
+            "symbol" : "CGContextDrawImage"
+          },
+          {
+            "binary" : 39,
+            "offset" : 759464,
+            "symbol" : "CGImageCreateCopyWithParametersNew(CGImage*, CGColor*, CGAffineTransform, unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, CGColorSpace*, unsigned int, bool, CGColorRenderingIntent, CGInterpolationQuality, bool)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 604616,
+            "symbol" : "IIOImageSource::createThumbnailAtIndex(unsigned long, IIODictionary*, int*, unsigned int*)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 620152,
+            "symbol" : "CGImageSourceCreateThumbnailAtIndexEx"
+          },
+          {
+            "binary" : 9,
+            "offset" : 9073568
+          },
+          {
+            "binary" : 9,
+            "offset" : 9071500
+          },
+          {
+            "binary" : 9,
+            "offset" : 9070240
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601932
+          },
+          {
+            "binary" : 9,
+            "offset" : 5611608
+          },
+          {
+            "binary" : 7,
+            "offset" : 208844
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601684
+          },
+          {
+            "binary" : 9,
+            "offset" : 5606776
+          },
+          {
+            "binary" : 5,
+            "offset" : 1041060
+          },
+          {
+            "binary" : 5,
+            "offset" : 1019196
+          },
+          {
+            "binary" : 5,
+            "offset" : 1027704
+          },
+          {
+            "binary" : 5,
+            "offset" : 1031732
+          },
+          {
+            "binary" : 5,
+            "offset" : 315508
+          },
+          {
+            "binary" : 38,
+            "offset" : 6708,
+            "symbol" : "_dispatch_call_block_and_release"
+          },
+          {
+            "binary" : 38,
+            "offset" : 112032,
+            "symbol" : "_dispatch_client_callout"
+          },
+          {
+            "binary" : 38,
+            "offset" : 234312,
+            "symbol" : "<deduplicated_symbol>"
+          },
+          {
+            "binary" : 38,
+            "offset" : 80904,
+            "symbol" : "_dispatch_root_queue_drain"
+          },
+          {
+            "binary" : 38,
+            "offset" : 82504,
+            "symbol" : "_dispatch_worker_thread2"
+          },
+          {
+            "binary" : 33,
+            "offset" : 12100,
+            "symbol" : "_pthread_wqthread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7364,
+            "symbol" : "start_wqthread"
+          }
+        ],
+        "queue" : "com.apple.root.utility-qos"
+      },
+      {
+        "crashed" : true,
+        "frames" : [
+          {
+            "binary" : 41,
+            "offset" : 16156,
+            "symbol" : "_platform_memmove"
+          },
+          {
+            "binary" : 11,
+            "offset" : 1011560
+          },
+          {
+            "binary" : 11,
+            "offset" : 1163540
+          },
+          {
+            "binary" : 11,
+            "offset" : 963488
+          },
+          {
+            "binary" : 11,
+            "offset" : 1133052
+          },
+          {
+            "binary" : 11,
+            "offset" : 1131664
+          },
+          {
+            "binary" : 11,
+            "offset" : 717144
+          },
+          {
+            "binary" : 11,
+            "offset" : 718620
+          },
+          {
+            "binary" : 11,
+            "offset" : 707568
+          },
+          {
+            "binary" : 6,
+            "offset" : 1049732
+          },
+          {
+            "binary" : 0,
+            "offset" : 179388
+          },
+          {
+            "binary" : 12,
+            "offset" : 8674876
+          },
+          {
+            "binary" : 9,
+            "offset" : 9071500
+          },
+          {
+            "binary" : 9,
+            "offset" : 9070240
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601932
+          },
+          {
+            "binary" : 9,
+            "offset" : 5611608
+          },
+          {
+            "binary" : 7,
+            "offset" : 208844
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601684
+          },
+          {
+            "binary" : 9,
+            "offset" : 5606776
+          },
+          {
+            "binary" : 5,
+            "offset" : 1041060
+          },
+          {
+            "binary" : 5,
+            "offset" : 1019196
+          },
+          {
+            "binary" : 5,
+            "offset" : 1027704
+          },
+          {
+            "binary" : 5,
+            "offset" : 1031732
+          },
+          {
+            "binary" : 5,
+            "offset" : 315508
+          },
+          {
+            "binary" : 38,
+            "offset" : 6708,
+            "symbol" : "_dispatch_call_block_and_release"
+          },
+          {
+            "binary" : 38,
+            "offset" : 112032,
+            "symbol" : "_dispatch_client_callout"
+          },
+          {
+            "binary" : 38,
+            "offset" : 234312,
+            "symbol" : "<deduplicated_symbol>"
+          },
+          {
+            "binary" : 38,
+            "offset" : 80904,
+            "symbol" : "_dispatch_root_queue_drain"
+          },
+          {
+            "binary" : 38,
+            "offset" : 82504,
+            "symbol" : "_dispatch_worker_thread2"
+          },
+          {
+            "binary" : 33,
+            "offset" : 12100,
+            "symbol" : "_pthread_wqthread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7364,
+            "symbol" : "start_wqthread"
+          }
+        ],
+        "queue" : "com.apple.root.utility-qos"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 39,
+            "offset" : 638128,
+            "symbol" : "std::__1::map<unsigned long, unsigned long, std::__1::less<unsigned long>, std::__1::allocator<std::__1::pair<unsigned long const, unsigned long>>>::operator[](unsigned long const&)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 114136,
+            "symbol" : "_ImageIO_Malloc"
+          },
+          {
+            "binary" : 39,
+            "offset" : 804280,
+            "symbol" : "TIFFReadPlugin::decodeImageImp(IIODecodeParameter*, IIOImageType, __IOSurface**, __CVBuffer**, CGImageBlockSet**)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 871752,
+            "symbol" : "IIOReadPlugin::callDecodeImage(IIODecodeParameter*, IIOImageType, __IOSurface**, __CVBuffer**, CGImageBlockSet**)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 107160,
+            "symbol" : "IIO_Reader::CopyImageBlockSetProc(void*, CGImageProvider*, CGRect, CGSize, __CFDictionary const*)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 209316,
+            "symbol" : "IIOImageProviderInfo::copyImageBlockSetWithOptions(CGImageProvider*, CGRect, CGSize, __CFDictionary const*)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 105980,
+            "symbol" : "IIOImageProviderInfo::CopyImageBlockSetWithOptions(void*, CGImageProvider*, CGRect, CGSize, __CFDictionary const*)"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257820,
+            "symbol" : "imageProvider_retain_data"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257584,
+            "symbol" : "CGDataProviderRetainData"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257656,
+            "symbol" : "provider_for_destination_retain_data"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257584,
+            "symbol" : "CGDataProviderRetainData"
+          },
+          {
+            "binary" : 40,
+            "offset" : 257216,
+            "symbol" : "CGAccessSessionCreate"
+          },
+          {
+            "binary" : 40,
+            "offset" : 262960,
+            "symbol" : "get_access_session"
+          },
+          {
+            "binary" : 40,
+            "offset" : 402948,
+            "symbol" : "img_decode_read"
+          },
+          {
+            "binary" : 40,
+            "offset" : 556328,
+            "symbol" : "img_interpolate_read"
+          },
+          {
+            "binary" : 40,
+            "offset" : 256492,
+            "symbol" : "img_data_lock"
+          },
+          {
+            "binary" : 40,
+            "offset" : 229428,
+            "symbol" : "CGSImageDataLock"
+          },
+          {
+            "binary" : 40,
+            "offset" : 227256,
+            "symbol" : "ripc_AcquireRIPImageData"
+          },
+          {
+            "binary" : 40,
+            "offset" : 220800,
+            "symbol" : "ripc_DrawImage"
+          },
+          {
+            "binary" : 40,
+            "offset" : 219620,
+            "symbol" : "CGContextDrawImageWithOptions"
+          },
+          {
+            "binary" : 40,
+            "offset" : 218376,
+            "symbol" : "CGContextDrawImage"
+          },
+          {
+            "binary" : 39,
+            "offset" : 759464,
+            "symbol" : "CGImageCreateCopyWithParametersNew(CGImage*, CGColor*, CGAffineTransform, unsigned long, unsigned long, unsigned long, unsigned long, unsigned long, CGColorSpace*, unsigned int, bool, CGColorRenderingIntent, CGInterpolationQuality, bool)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 604616,
+            "symbol" : "IIOImageSource::createThumbnailAtIndex(unsigned long, IIODictionary*, int*, unsigned int*)"
+          },
+          {
+            "binary" : 39,
+            "offset" : 620152,
+            "symbol" : "CGImageSourceCreateThumbnailAtIndexEx"
+          },
+          {
+            "binary" : 9,
+            "offset" : 9073568
+          },
+          {
+            "binary" : 9,
+            "offset" : 9071500
+          },
+          {
+            "binary" : 9,
+            "offset" : 9070240
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601932
+          },
+          {
+            "binary" : 9,
+            "offset" : 5611608
+          },
+          {
+            "binary" : 7,
+            "offset" : 208844
+          },
+          {
+            "binary" : 9,
+            "offset" : 5601684
+          },
+          {
+            "binary" : 9,
+            "offset" : 5606776
+          },
+          {
+            "binary" : 5,
+            "offset" : 1041060
+          },
+          {
+            "binary" : 5,
+            "offset" : 1019196
+          },
+          {
+            "binary" : 5,
+            "offset" : 1027704
+          },
+          {
+            "binary" : 5,
+            "offset" : 1031732
+          },
+          {
+            "binary" : 5,
+            "offset" : 315508
+          },
+          {
+            "binary" : 38,
+            "offset" : 6708,
+            "symbol" : "_dispatch_call_block_and_release"
+          },
+          {
+            "binary" : 38,
+            "offset" : 112032,
+            "symbol" : "_dispatch_client_callout"
+          },
+          {
+            "binary" : 38,
+            "offset" : 234312,
+            "symbol" : "<deduplicated_symbol>"
+          },
+          {
+            "binary" : 38,
+            "offset" : 80904,
+            "symbol" : "_dispatch_root_queue_drain"
+          },
+          {
+            "binary" : 38,
+            "offset" : 82504,
+            "symbol" : "_dispatch_worker_thread2"
+          },
+          {
+            "binary" : 33,
+            "offset" : 12100,
+            "symbol" : "_pthread_wqthread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7364,
+            "symbol" : "start_wqthread"
+          }
+        ],
+        "queue" : "com.apple.root.utility-qos"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 26,
+            "offset" : 14768,
+            "symbol" : "madvise"
+          },
+          {
+            "binary" : 42,
+            "offset" : 79728,
+            "symbol" : "_xzm_segment_group_clear_chunk"
+          },
+          {
+            "binary" : 42,
+            "offset" : 81232,
+            "symbol" : "xzm_segment_group_alloc_chunk"
+          },
+          {
+            "binary" : 42,
+            "offset" : 211008,
+            "symbol" : "_xzm_malloc_large_huge"
+          },
+          {
+            "binary" : 36,
+            "offset" : 5516688,
+            "symbol" : "__DataStorage.init(length:)"
+          },
+          {
+            "binary" : 9,
+            "offset" : 9013640
+          },
+          {
+            "binary" : 9,
+            "offset" : 2147364
+          },
+          {
+            "binary" : 9,
+            "offset" : 2140880
+          },
+          {
+            "binary" : 9,
+            "offset" : 5604908
+          },
+          {
+            "binary" : 9,
+            "offset" : 5611584
+          },
+          {
+            "binary" : 7,
+            "offset" : 208844
+          },
+          {
+            "binary" : 9,
+            "offset" : 5604768
+          },
+          {
+            "binary" : 9,
+            "offset" : 5611360
+          },
+          {
+            "binary" : 9,
+            "offset" : 5681240
+          },
+          {
+            "binary" : 9,
+            "offset" : 5722576
+          },
+          {
+            "binary" : 9,
+            "offset" : 5721928
+          },
+          {
+            "binary" : 9,
+            "offset" : 2175932
+          },
+          {
+            "binary" : 38,
+            "offset" : 6708,
+            "symbol" : "_dispatch_call_block_and_release"
+          },
+          {
+            "binary" : 38,
+            "offset" : 112032,
+            "symbol" : "_dispatch_client_callout"
+          },
+          {
+            "binary" : 38,
+            "offset" : 234312,
+            "symbol" : "<deduplicated_symbol>"
+          },
+          {
+            "binary" : 38,
+            "offset" : 80904,
+            "symbol" : "_dispatch_root_queue_drain"
+          },
+          {
+            "binary" : 38,
+            "offset" : 82504,
+            "symbol" : "_dispatch_worker_thread2"
+          },
+          {
+            "binary" : 33,
+            "offset" : 12100,
+            "symbol" : "_pthread_wqthread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7364,
+            "symbol" : "start_wqthread"
+          }
+        ],
+        "queue" : "com.apple.root.utility-qos"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+          {
+            "binary" : 43,
+            "offset" : 235852,
+            "symbol" : "-[FPFrameworkOverridesIterator initWithOverrides:url:noSuitableModuleFoundHandler:]"
+          },
+          {
+            "binary" : 43,
+            "offset" : 235444,
+            "symbol" : "+[FPFrameworkOverridesIterator newIteratorForURL:withNotFoundHandler:]"
+          },
+          {
+            "binary" : 43,
+            "offset" : 424340,
+            "symbol" : "FPCFCopyAttributeValuesForItem"
+          },
+          {
+            "binary" : 44,
+            "offset" : 98140,
+            "symbol" : "CopyFromFileProvider(__CFURL const*, void const*, void const**, __CFError**)"
+          },
+          {
+            "binary" : 44,
+            "offset" : 97892,
+            "symbol" : "ExternalProviderPrepareValues(__CFURL const*, __FileCache*, __CFString const* const*, void const**, long, void const*, __CFError**)"
+          },
+          {
+            "binary" : 44,
+            "offset" : 10252,
+            "symbol" : "prepareValuesForBitmap(__CFURL const*, __FileCache*, _FilePropertyBitmap*, __CFError**)"
+          },
+          {
+            "binary" : 44,
+            "offset" : 45092,
+            "symbol" : "_FSURLCopyResourcePropertiesForKeysInternal(__CFURL const*, __CFArray const*, void*, __CFError**, unsigned char)"
+          },
+          {
+            "binary" : 27,
+            "offset" : 541576,
+            "symbol" : "CFURLCopyResourcePropertiesForKeys"
+          },
+          {
+            "binary" : 27,
+            "offset" : 541368,
+            "symbol" : "-[NSURL resourceValuesForKeys:error:]"
+          },
+          {
+            "binary" : 36,
+            "offset" : 9399460,
+            "symbol" : "URL.resourceValues(forKeys:)"
+          },
+          {
+            "binary" : 5,
+            "offset" : 266652
+          },
+          {
+            "binary" : 12,
+            "offset" : 11094528
+          },
+          {
+            "binary" : 5,
+            "offset" : 1031732
+          },
+          {
+            "binary" : 5,
+            "offset" : 315508
+          },
+          {
+            "binary" : 38,
+            "offset" : 6708,
+            "symbol" : "_dispatch_call_block_and_release"
+          },
+          {
+            "binary" : 38,
+            "offset" : 112032,
+            "symbol" : "_dispatch_client_callout"
+          },
+          {
+            "binary" : 38,
+            "offset" : 234312,
+            "symbol" : "<deduplicated_symbol>"
+          },
+          {
+            "binary" : 38,
+            "offset" : 80904,
+            "symbol" : "_dispatch_root_queue_drain"
+          },
+          {
+            "binary" : 38,
+            "offset" : 82504,
+            "symbol" : "_dispatch_worker_thread2"
+          },
+          {
+            "binary" : 33,
+            "offset" : 12100,
+            "symbol" : "_pthread_wqthread"
+          },
+          {
+            "binary" : 33,
+            "offset" : 7364,
+            "symbol" : "start_wqthread"
+          }
+        ],
+        "queue" : "com.apple.root.utility-qos"
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      },
+      {
+        "crashed" : false,
+        "frames" : [
+
+        ]
+      }
+    ],
+    "time" : "2026-10-28T10:35:27Z",
+    "version" : "0.3.4-alpha (3014)"
+  },
+  "kind" : "bug",
+  "report" : "FB541389-D017-425A-8113-B9576323612C",
+  "system" : {
+    "appVersion" : "0.3.4-alpha",
+    "build" : "3014",
+    "chip" : "Apple M4",
+    "commit" : "de64190a68bb",
+    "configuration" : "Release",
+    "cores" : "4 performance and 6 efficiency cores",
+    "displays" : [
+      "1710 × 1112 pt at 2x, Color LCD, HDR up to 2x"
+    ],
+    "gpu" : "Apple M4, 12 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.2.0 (26B123)",
+    "memory" : "16 GB",
+    "model" : "Mac16,12",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
