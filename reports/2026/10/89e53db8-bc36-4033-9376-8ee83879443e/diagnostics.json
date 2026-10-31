@@ -1,0 +1,749 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-10-31T09:50:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Selected 4 photos",
+      "time" : "2026-10-31T09:50:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 294 photos",
+      "time" : "2026-10-31T09:50:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-31T09:50:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: RAF, Fujifilm X-T5, 7752 × 5178, with an edit, in 4.4 s",
+      "time" : "2026-10-31T09:50:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T09:50:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 528 ms at 50%",
+      "time" : "2026-10-31T09:50:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export of 4 photos",
+      "time" : "2026-10-31T09:51:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Exported 4 photos",
+      "time" : "2026-10-31T09:51:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-10-31T09:52:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 409 ms at 18%",
+      "time" : "2026-10-31T09:52:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-31T09:52:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-31T09:54:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T09:54:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 585 ms at 50%",
+      "time" : "2026-10-31T09:54:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-31T09:54:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-31T09:54:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: RAF, Fujifilm X-T5, 7752 × 5178, unedited, in 2.5 s",
+      "time" : "2026-10-31T09:54:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 421 ms at 50%",
+      "time" : "2026-10-31T09:54:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Angle: 0.00 → +1.27",
+      "time" : "2026-10-31T09:55:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-31T09:55:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: F - Assemini",
+      "time" : "2026-10-31T09:55:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Highlights: -24 → -68",
+      "time" : "2026-10-31T09:56:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-31T09:56:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Angle: +1.27 → +1.89",
+      "time" : "2026-10-31T09:56:10Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-31T09:56:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-31T09:56:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 61%",
+      "time" : "2026-10-31T09:56:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-10-31T09:56:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-31T09:56:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: RAF, Fujifilm X-T5, 7752 × 5178, with an edit, in 0.0 s",
+      "time" : "2026-10-31T09:56:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-10-31T09:56:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: RAF, Fujifilm X-T5, 7752 × 5178, unedited, in 2.3 s",
+      "time" : "2026-10-31T09:56:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T09:56:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 404 ms at 50%",
+      "time" : "2026-10-31T09:56:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Recipe: F - Assemini",
+      "time" : "2026-10-31T09:56:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-31T09:56:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-10-31T09:56:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-31T09:56:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T09:56:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Recipe: F - Assemini”",
+      "time" : "2026-10-31T09:56:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-31T09:56:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-10-31T09:56:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-31T09:56:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T09:56:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Recipe: F - Assemini”",
+      "time" : "2026-10-31T09:56:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-10-31T09:56:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-10-31T09:56:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-31T09:57:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 57%",
+      "time" : "2026-10-31T09:57:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-31T09:58:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-31T09:58:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-31T09:58:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-31T09:58:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-31T09:59:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-10-31T09:59:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Subject",
+      "time" : "2026-10-31T09:59:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-10-31T09:59:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-10-31T09:59:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Amount: 100 → 200",
+      "time" : "2026-10-31T09:59:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Amount: 200 → 0",
+      "time" : "2026-10-31T09:59:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-10-31T10:00:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T10:00:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-10-31T10:01:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-31T10:01:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Selected 6 photos",
+      "time" : "2026-10-31T10:01:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-31T10:01:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: JPG, FUJIFILM X-T5, 7728 × 5152, unedited, in 1.0 s",
+      "time" : "2026-10-31T10:01:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 51%",
+      "time" : "2026-10-31T10:01:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 570 ms at 51%",
+      "time" : "2026-10-31T10:01:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-31T10:06:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-10-31T10:06:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-10-31T10:06:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 658 ms at 51%",
+      "time" : "2026-10-31T10:06:53Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-10-31T10:16:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Grid",
+      "time" : "2026-10-31T10:29:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-10-31T10:29:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: RAF, Fujifilm X-T5, 7752 × 5178, with an edit, in 2.4 s",
+      "time" : "2026-10-31T10:29:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 50%",
+      "time" : "2026-10-31T10:29:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 513 ms at 50%",
+      "time" : "2026-10-31T10:29:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-10-31T10:29:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-10-31T10:29:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Subject",
+      "time" : "2026-10-31T10:29:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-10-31T10:29:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-10-31T10:29:41Z"
+    }
+  ],
+  "area" : "masking.subject",
+  "captured" : "2026-10-31T10:29:46Z",
+  "edit" : {
+    "baseLook" : "Adaptive Color (100)",
+    "masks" : [
+      "“Subject”: Subject; amount 100; apple.vision.foreground+closed-form r1 on Version 27.0.1 (Build 26A434)"
+    ],
+    "pointCurve" : true,
+    "processVersion" : 19,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened",
+    "New Subject"
+  ],
+  "historyIndex" : 1,
+  "kind" : "bug",
+  "log" : [
+    "10:50:45 notice camera-profiles: Fujifilm GFX 100S Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm GFX 100S Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm GFX 50R Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm GFX 50S Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E4 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E4 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E4 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E5 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E5 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E5 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-E5 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 IR Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 IR Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 IR Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 IR Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2S Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2S Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2S Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-H2S Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-M5 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-M5 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-M5 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-M5 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-Pro3 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-Pro3 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S10 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S10 Camera ETERNA Bleach Bypass.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S10 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S20 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S20 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S20 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-S20 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 II Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 II Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 II Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 III Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 III Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 III Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T30 III Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T4 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T4 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T4 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T5 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T5 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T5 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T5 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T50 Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T50 Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T50 Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X-T50 Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X100V Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X100V Camera Sepia.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X100VI Camera BLEACH BYPASS.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X100VI Camera CLASSIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X100VI Camera NOSTALGIC Neg.xmp: names a color table that isn't in the file",
+    "10:50:45 notice camera-profiles: Fujifilm X100VI Camera Sepia.xmp: names a color table that isn't in the file"
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo E",
+    "asShotWhiteBalance" : "5255 K, tint 2",
+    "camera" : "Fujifilm X-T5",
+    "exposure" : "ISO 125, 18 mm, ƒ/8.0, 1/200 s",
+    "fileName" : "Photo E",
+    "format" : "RAF (raw, X-Trans)",
+    "lens" : "XF18mmF2 R",
+    "lensCorrection" : "Fujifilm",
+    "size" : "7752 × 5178 (40.1 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "89E53DB8-BC36-4033-9376-8EE83879443E",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-10-31T10:29:46Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "local/adobe/1f7288594d25f251/72fbedc5f95cfce6",
+        "name" : "Adaptive Color",
+        "version" : 1
+      },
+      "exposureAnchor" : {
+        "camera" : "Fujifilm X-T5",
+        "source" : "estimated",
+        "stops" : 0.90000000000000002
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "BC5070D2-D5C6-46C6-A4E4-15E00FA4640C",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "9a9508471899fa481c21326be7756d85",
+                    "bitmap" : {
+                      "height" : 2736,
+                      "sha256" : "5ffe8688c5660c17413ea148e8b32c722757c1669ba88d333905fc66b9935dbd",
+                      "width" : 4096
+                    },
+                    "center" : {
+                      "x" : 0.48380680137670745,
+                      "y" : 0.5086725391764233
+                    },
+                    "createdAt" : "2026-10-31T10:29:41Z",
+                    "kind" : "subject",
+                    "osBuild" : "Version 27.0.1 (Build 26A434)",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "apple.vision.foreground+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "06A2F38A-EE69-46AA-AC74-867959434DBC",
+          "isVisible" : true,
+          "name" : "Subject"
+        }
+      ],
+      "pointCurve" : [
+        {
+          "x" : 0,
+          "y" : 0
+        },
+        {
+          "x" : 0.23921595982142857,
+          "y" : 0.25940290178571423
+        },
+        {
+          "x" : 0.75972377232142863,
+          "y" : 0.73317522321428563
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "processVersion" : 19,
+      "treatment" : "color",
+      "values" : {
+        "wb.temperature" : 5255.5262694262483,
+        "wb.tint" : 2.0288918259508457
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Amount",
+    "folderPhotos" : 294,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedMask" : "“Subject”: Subject",
+    "selectedPhotos" : 1,
+    "tool" : "Masking",
+    "zoom" : "50%"
+  },
+  "system" : {
+    "appVersion" : "0.3.4-alpha",
+    "build" : "3014",
+    "chip" : "Apple M1 Pro",
+    "commit" : "de64190a68bb",
+    "configuration" : "Release",
+    "cores" : "8 performance and 2 efficiency cores",
+    "displays" : [
+      "2560 × 1440 pt at 2x, LG HDR 4K, SDR",
+      "1496 × 967 pt at 2x, Color LCD, HDR up to 5x"
+    ],
+    "gpu" : "Apple M1 Pro, 12 GB working set",
+    "locale" : "en_IT",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "16 GB",
+    "model" : "MacBookPro18,1",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
