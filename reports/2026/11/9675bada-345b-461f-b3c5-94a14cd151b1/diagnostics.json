@@ -1,0 +1,59 @@
+{
+  "activity" : [
+
+  ],
+  "area" : "performance.freeze",
+  "captured" : "2026-11-01T14:51:47Z",
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "incident" : {
+    "binaries" : [
+
+    ],
+    "duration" : 11.432118833000001,
+    "endedSession" : false,
+    "id" : "E5124478-2B19-4350-95F3-AF8533C50D10",
+    "kind" : "hang",
+    "pid" : 92721,
+    "reasons" : [
+
+    ],
+    "sources" : [
+      "watchdog"
+    ],
+    "threads" : [
+
+    ],
+    "time" : "2026-10-29T05:48:12Z",
+    "version" : "0.3.4-alpha (3014)"
+  },
+  "kind" : "bug",
+  "report" : "9675BADA-345B-461F-B3C5-94A14CD151B1",
+  "system" : {
+    "appVersion" : "0.3.4-alpha",
+    "build" : "3014",
+    "chip" : "Apple M2",
+    "commit" : "de64190a68bb",
+    "configuration" : "Release",
+    "cores" : "4 performance and 4 efficiency cores",
+    "displays" : [
+      "1710 × 1107 pt at 2x, Color LCD, HDR up to 2x"
+    ],
+    "gpu" : "Apple M2, 18 GB working set",
+    "locale" : "en_US",
+    "lowPowerMode" : false,
+    "macOS" : "27.2.0 (26B123)",
+    "memory" : "24 GB",
+    "model" : "Mac14,15",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
