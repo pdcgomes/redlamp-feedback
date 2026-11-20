@@ -1,0 +1,422 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-11-20T02:26:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 170 photos",
+      "time" : "2026-11-20T02:26:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Selected 2 photos",
+      "time" : "2026-11-20T02:26:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: RAF, Fujifilm X100VI, 7752 × 5178, with an edit, in 3.1 s",
+      "time" : "2026-11-20T02:26:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 22%",
+      "time" : "2026-11-20T02:26:23Z"
+    }
+  ],
+  "area" : "masking.other",
+  "captured" : "2026-11-20T02:26:27Z",
+  "edit" : {
+    "baseLook" : "Chrome (100)",
+    "masks" : [
+      "“Mask 1”: Luminance Range; Clarity -7, Texture -56; amount 114",
+      "“Mountains”: Landscape; Clarity -1, Hue +34.0, Saturation +35, Sharpness -9, Texture -36; amount 100; redlamp.sam3+closed-form r1"
+    ],
+    "pointCurve" : true,
+    "processVersion" : 21,
+    "recipe" : "test 5 (100)",
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Temp 5400",
+          "Tint +2",
+          "Exposure +0.78",
+          "Contrast -17",
+          "Highlights -95",
+          "Shadows +63",
+          "Whites -62",
+          "Blacks +74",
+          "Texture +5",
+          "Clarity -20",
+          "Dehaze -2",
+          "Vibrance +22",
+          "Saturation -30"
+        ]
+      },
+      {
+        "panel" : "Color Mixer",
+        "values" : [
+          "Red Hue +4",
+          "Red Saturation +13",
+          "Orange Hue -7",
+          "Orange Saturation +13",
+          "Yellow Saturation -14",
+          "Green Hue +100",
+          "Green Saturation -46",
+          "Green Luminance -5",
+          "Blue Hue -30",
+          "Blue Luminance +11",
+          "Purple Hue -3",
+          "Magenta Hue +7"
+        ]
+      },
+      {
+        "panel" : "Color Grading",
+        "values" : [
+          "Shadows Hue 194",
+          "Shadows Saturation 45",
+          "Midtones Hue 44",
+          "Midtones Saturation 20",
+          "Highlights Hue 46",
+          "Highlights Saturation 21",
+          "Balance -45"
+        ]
+      },
+      {
+        "panel" : "Detail",
+        "values" : [
+          "Sharpening Amount 0"
+        ]
+      },
+      {
+        "panel" : "Effects",
+        "values" : [
+          "Grain Amount 79",
+          "Grain Size 76",
+          "Grain Roughness 7",
+          "Grain Color 43",
+          "Halation Amount 3",
+          "Halation Size 0",
+          "Bloom Size 68"
+        ]
+      },
+      {
+        "panel" : "Border",
+        "values" : [
+          "Style 1",
+          "Border Size 2.0",
+          "Keyline Width 0.30"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "Custom"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened"
+  ],
+  "historyIndex" : 0,
+  "kind" : "idea",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo A",
+    "asShotWhiteBalance" : "5359 K, tint -14",
+    "camera" : "Fujifilm X100VI",
+    "exposure" : "ISO 500, 23 mm, ƒ/4.0, 1/420 s",
+    "fileName" : "Photo A",
+    "format" : "RAF (raw, X-Trans)",
+    "lensCorrection" : "Fujifilm",
+    "size" : "7752 × 5178 (40.1 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "559D2AFC-023A-478F-866B-78440959308C",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-11-20T02:26:27Z",
+    "recipe" : {
+      "appliedRecipe" : {
+        "amount" : 100,
+        "id" : "local/1f276209-476f-4237-b507-4f2f634575d8",
+        "name" : "test 5",
+        "version" : 1
+      },
+      "baseLook" : {
+        "amount" : 100,
+        "contentHash" : "aa2ff45bea2e41379ec6fd603531baf6496b689d19a01794ad425165ce09e515",
+        "id" : "redlamp/film/chrome",
+        "name" : "Chrome",
+        "version" : 4
+      },
+      "exposureAnchor" : {
+        "camera" : "Fujifilm X100VI",
+        "source" : "estimated",
+        "stops" : 0.90000000000000002
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.clarity" : -7,
+            "local.texture" : -56
+          },
+          "amount" : 114,
+          "components" : [
+            {
+              "id" : "4DA6CA1F-E1E8-421E-8C64-1A46338823BD",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "luminanceRange" : {
+                  "_0" : {
+                    "lower" : 8.27392578125,
+                    "lowerFeather" : 8.27392578125,
+                    "samplePoint" : {
+                      "x" : 0.49100024737115677,
+                      "y" : 0.33994292369805995
+                    },
+                    "upper" : 28.27392578125,
+                    "upperFeather" : 15
+                  }
+                }
+              }
+            }
+          ],
+          "detail" : 15,
+          "id" : "DA1B49BC-1DE7-4683-971B-23DD5A132E89",
+          "isVisible" : true,
+          "name" : "Mask 1"
+        },
+        {
+          "adjustments" : {
+            "local.clarity" : -1,
+            "local.hue" : 34,
+            "local.saturation" : 35,
+            "local.sharpness" : -9,
+            "local.texture" : -36
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "1089B847-CF00-4DB5-840E-7397B6C9C23A",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "611634d7e87ebde93bed4c84bf6da246",
+                    "bitmap" : {
+                      "height" : 2736,
+                      "sha256" : "1cdcbc11900480f8fcba3443b11d791a10752490ecd0fb897e43cbbab4ee03cf",
+                      "width" : 4096
+                    },
+                    "center" : {
+                      "x" : 0.62560703059189171,
+                      "y" : 0.16027239144339223
+                    },
+                    "createdAt" : "2026-11-20T01:41:40Z",
+                    "kind" : "landscape",
+                    "part" : "mountains",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "redlamp.sam3+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "detail" : -52,
+          "id" : "38DCB2ED-D2CB-460F-BBEC-EC161CE874B3",
+          "isVisible" : true,
+          "name" : "Mountains"
+        }
+      ],
+      "pointCurve" : [
+        {
+          "x" : 0,
+          "y" : 0.035532924107142816
+        },
+        {
+          "x" : 0.15106026785714285,
+          "y" : 0.08683035714285714
+        },
+        {
+          "x" : 0.74062499999999998,
+          "y" : 0.77490234375
+        },
+        {
+          "x" : 1,
+          "y" : 0.84902343749999998
+        }
+      ],
+      "pointCurveBlue" : [
+        {
+          "x" : 0,
+          "y" : 0
+        },
+        {
+          "x" : 0.24880022321428572,
+          "y" : 0.13875558035714286
+        },
+        {
+          "x" : 0.49867466517857145,
+          "y" : 0.52664620535714279
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "pointCurveGreen" : [
+        {
+          "x" : 0,
+          "y" : 0
+        },
+        {
+          "x" : 0.24015066964285714,
+          "y" : 0.1590401785714286
+        },
+        {
+          "x" : 0.49061104910714287,
+          "y" : 0.5103934151785714
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "pointCurveRed" : [
+        {
+          "x" : 0,
+          "y" : 0
+        },
+        {
+          "x" : 0.25424107142857144,
+          "y" : 0.16792689732142863
+        },
+        {
+          "x" : 0.47477678571428572,
+          "y" : 0.47979910714285712
+        },
+        {
+          "x" : 0.69979073660714286,
+          "y" : 0.72149832589285712
+        },
+        {
+          "x" : 1,
+          "y" : 1
+        }
+      ],
+      "processVersion" : 21,
+      "treatment" : "color",
+      "values" : {
+        "basic.blacks" : 74,
+        "basic.clarity" : -20,
+        "basic.contrast" : -17,
+        "basic.dehaze" : -2,
+        "basic.exposure" : 0.78000000000000003,
+        "basic.highlights" : -95,
+        "basic.saturation" : -30,
+        "basic.shadows" : 63,
+        "basic.texture" : 5,
+        "basic.vibrance" : 22,
+        "basic.whites" : -62,
+        "border.keylineWidth" : 0.29999999999999999,
+        "border.size" : 2,
+        "border.style" : 1,
+        "detail.sharpen.amount" : 0,
+        "effects.bloom.size" : 68,
+        "effects.grain.amount" : 79,
+        "effects.grain.color" : 43,
+        "effects.grain.roughness" : 7,
+        "effects.grain.size" : 76,
+        "effects.halation.amount" : 3,
+        "effects.halation.size" : 0,
+        "grading.balance" : -45,
+        "grading.highlights.hue" : 46,
+        "grading.highlights.saturation" : 21,
+        "grading.midtones.hue" : 44,
+        "grading.midtones.saturation" : 20,
+        "grading.shadows.hue" : 194,
+        "grading.shadows.saturation" : 45,
+        "mixer.hue.blue" : -30,
+        "mixer.hue.green" : 100,
+        "mixer.hue.magenta" : 7,
+        "mixer.hue.orange" : -7,
+        "mixer.hue.purple" : -3,
+        "mixer.hue.red" : 4,
+        "mixer.luminance.blue" : 11,
+        "mixer.luminance.green" : -5,
+        "mixer.saturation.green" : -46,
+        "mixer.saturation.orange" : 13,
+        "mixer.saturation.red" : 13,
+        "mixer.saturation.yellow" : -14,
+        "wb.temperature" : 5400,
+        "wb.tint" : 2
+      },
+      "version" : 3,
+      "whiteBalance" : "custom"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "folderPhotos" : 170,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 2,
+    "tool" : "Edit",
+    "zoom" : "22%"
+  },
+  "system" : {
+    "appVersion" : "0.3.5-alpha",
+    "build" : "3148",
+    "chip" : "Apple M2",
+    "commit" : "c1fed204c34e",
+    "configuration" : "Release",
+    "cores" : "4 performance and 4 efficiency cores",
+    "displays" : [
+      "1470 × 956 pt at 2x, Color LCD, HDR up to 2x"
+    ],
+    "gpu" : "Apple M2, 5.3 GB working set",
+    "locale" : "en_JP",
+    "lowPowerMode" : false,
+    "macOS" : "27.3.0 (26C5035r)",
+    "memory" : "8.0 GB",
+    "model" : "Mac14,2",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): ready",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
