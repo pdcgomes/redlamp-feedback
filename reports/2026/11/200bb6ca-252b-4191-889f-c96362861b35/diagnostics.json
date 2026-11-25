@@ -1,0 +1,1833 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-11-25T22:15:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 41 photos",
+      "time" : "2026-11-25T22:15:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: TIFF, 9520 × 6336, with an edit, in 1.4 s",
+      "time" : "2026-11-25T22:15:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 21%",
+      "time" : "2026-11-25T22:15:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-11-25T22:15:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-11-25T22:16:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Subject",
+      "time" : "2026-11-25T22:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-11-25T22:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-11-25T22:16:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Exposure: 0.00 → +0.57",
+      "time" : "2026-11-25T22:16:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Exposure: +0.57 → 0.00",
+      "time" : "2026-11-25T22:16:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Subject",
+      "time" : "2026-11-25T22:16:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "model",
+      "text" : "Asked to download SAM 3 for People",
+      "time" : "2026-11-25T22:17:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a People mask",
+      "time" : "2026-11-25T22:17:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New People",
+      "time" : "2026-11-25T22:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "error",
+      "text" : "Masking said: Not found: Teeth.",
+      "time" : "2026-11-25T22:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Person 2”: People, add People, add People, add People, add People",
+      "time" : "2026-11-25T22:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the People mask",
+      "time" : "2026-11-25T22:17:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Person 2",
+      "time" : "2026-11-25T22:18:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Exposure: 0.00 → +1.11",
+      "time" : "2026-11-25T22:18:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Person 2",
+      "time" : "2026-11-25T22:18:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Exposure: +1.11 → 0.00",
+      "time" : "2026-11-25T22:18:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Shadows: 0 → +49",
+      "time" : "2026-11-25T22:18:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 68%",
+      "time" : "2026-11-25T22:18:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Shadows: +49 → 0",
+      "time" : "2026-11-25T22:18:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Shadows: 0 → +50",
+      "time" : "2026-11-25T22:19:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Exposure: 0.00 → +0.16",
+      "time" : "2026-11-25T22:19:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Shadows: +50 → +33",
+      "time" : "2026-11-25T22:19:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Person 2 Blacks: 0 → +17",
+      "time" : "2026-11-25T22:19:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 21%",
+      "time" : "2026-11-25T22:20:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Person 2",
+      "time" : "2026-11-25T22:20:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Person 2",
+      "time" : "2026-11-25T22:20:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Person 2",
+      "time" : "2026-11-25T22:20:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 125%",
+      "time" : "2026-11-25T22:20:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Person 2",
+      "time" : "2026-11-25T22:20:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Person 2",
+      "time" : "2026-11-25T22:20:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Person 2",
+      "time" : "2026-11-25T22:20:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Depth Range mask",
+      "time" : "2026-11-25T22:20:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 21%",
+      "time" : "2026-11-25T22:21:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Depth Range",
+      "time" : "2026-11-25T22:21:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Depth Range”: Depth Range",
+      "time" : "2026-11-25T22:21:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Depth Range mask",
+      "time" : "2026-11-25T22:21:13Z"
+    },
+    {
+      "count" : 8,
+      "kind" : "edit",
+      "text" : "Depth Range",
+      "time" : "2026-11-25T22:21:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Depth Range",
+      "time" : "2026-11-25T22:22:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-11-25T22:22:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-11-25T22:22:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-11-25T22:22:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-11-25T22:22:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Invert Component",
+      "time" : "2026-11-25T22:22:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Background” is now inverted Background",
+      "time" : "2026-11-25T22:22:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Shadows: 0 → +50",
+      "time" : "2026-11-25T22:22:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Background",
+      "time" : "2026-11-25T22:22:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Background",
+      "time" : "2026-11-25T22:22:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 24%",
+      "time" : "2026-11-25T22:22:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Blacks: 0 → +15",
+      "time" : "2026-11-25T22:23:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Blacks: +15 → +17",
+      "time" : "2026-11-25T22:23:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Hide Background",
+      "time" : "2026-11-25T22:23:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Show Background",
+      "time" : "2026-11-25T22:23:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 20%",
+      "time" : "2026-11-25T22:23:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: TIFF, 9520 × 6336, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:23:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 24%",
+      "time" : "2026-11-25T22:23:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Tri-X 400 · Pushed to 1600",
+      "time" : "2026-11-25T22:23:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 117%",
+      "time" : "2026-11-25T22:23:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 13%",
+      "time" : "2026-11-25T22:24:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 24%",
+      "time" : "2026-11-25T22:24:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:24:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:24:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 96%",
+      "time" : "2026-11-25T22:24:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:24:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:24:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 40 photos",
+      "time" : "2026-11-25T22:24:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:24:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:24:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:24:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 39 photos",
+      "time" : "2026-11-25T22:24:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:24:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:24:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 95%",
+      "time" : "2026-11-25T22:24:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:24:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:24:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 78%",
+      "time" : "2026-11-25T22:24:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:24:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:24:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:25:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Tri-X 400 · Pushed to 1600",
+      "time" : "2026-11-25T22:25:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-25T22:25:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-25T22:25:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: 0 → +62",
+      "time" : "2026-11-25T22:25:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:25:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:25:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Tri-X 400 · Pushed to 1600",
+      "time" : "2026-11-25T22:25:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: 0 → +67",
+      "time" : "2026-11-25T22:25:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: TIFF, 6336 × 9520, with an edit, in 0.0 s",
+      "time" : "2026-11-25T22:25:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:26:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: TIFF, 6336 × 9520, with an edit, in 0.0 s",
+      "time" : "2026-11-25T22:26:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:26:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: +67 → +81",
+      "time" : "2026-11-25T22:26:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:26:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:26:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo G: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:26:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:26:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:26:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 38 photos",
+      "time" : "2026-11-25T22:26:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo H: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:26:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:26:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:26:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 37 photos",
+      "time" : "2026-11-25T22:26:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo I: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:26:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:26:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:26:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 36 photos",
+      "time" : "2026-11-25T22:26:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo J: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:26:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:26:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 35 photos",
+      "time" : "2026-11-25T22:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo K: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:26:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 34 photos",
+      "time" : "2026-11-25T22:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo L: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:27:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 33 photos",
+      "time" : "2026-11-25T22:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo M: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:27:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:27:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 32 photos",
+      "time" : "2026-11-25T22:27:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo N: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:27:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:27:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:27:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:27:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:27:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:27:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 31 photos",
+      "time" : "2026-11-25T22:27:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo O: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:27:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:27:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:28:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 30 photos",
+      "time" : "2026-11-25T22:28:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo P: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:28:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:28:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:28:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 29 photos",
+      "time" : "2026-11-25T22:28:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Q: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:28:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:28:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:28:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 28 photos",
+      "time" : "2026-11-25T22:28:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo R: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:28:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:28:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:28:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:28:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:28:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 27 photos",
+      "time" : "2026-11-25T22:28:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo S: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:28:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:28:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:28:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 26 photos",
+      "time" : "2026-11-25T22:28:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo T: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:28:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:28:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:28:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 25 photos",
+      "time" : "2026-11-25T22:28:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo U: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:28:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:28:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:29:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 24 photos",
+      "time" : "2026-11-25T22:29:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:29:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:29:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Tri-X 400 · Pushed to 1600",
+      "time" : "2026-11-25T22:29:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-11-25T22:29:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-11-25T22:29:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-11-25T22:29:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-11-25T22:29:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-11-25T22:29:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-11-25T22:29:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → -0.85",
+      "time" : "2026-11-25T22:29:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: -0.85 → 0.00",
+      "time" : "2026-11-25T22:29:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Shadows: 0 → -100",
+      "time" : "2026-11-25T22:29:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Blacks: 0 → -100",
+      "time" : "2026-11-25T22:29:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Amount: 100 → 200",
+      "time" : "2026-11-25T22:29:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → +0.51",
+      "time" : "2026-11-25T22:30:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: +0.51 → 0.00",
+      "time" : "2026-11-25T22:30:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Background",
+      "time" : "2026-11-25T22:30:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → -1.09",
+      "time" : "2026-11-25T22:30:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Background",
+      "time" : "2026-11-25T22:30:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Background",
+      "time" : "2026-11-25T22:30:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Depth Range mask",
+      "time" : "2026-11-25T22:30:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Depth Range",
+      "time" : "2026-11-25T22:30:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Depth Range”: Depth Range",
+      "time" : "2026-11-25T22:30:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Depth Range mask",
+      "time" : "2026-11-25T22:30:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Depth Range",
+      "time" : "2026-11-25T22:30:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Invert Component",
+      "time" : "2026-11-25T22:30:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Mask “Depth Range” is now inverted Depth Range",
+      "time" : "2026-11-25T22:30:57Z"
+    },
+    {
+      "count" : 4,
+      "kind" : "edit",
+      "text" : "Depth Range",
+      "time" : "2026-11-25T22:31:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Depth Range Exposure: 0.00 → -1.64",
+      "time" : "2026-11-25T22:31:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Depth Range Shadows: 0 → -100",
+      "time" : "2026-11-25T22:31:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-11-25T22:32:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:32:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo V: TIFF, 6336 × 9520, with an edit, in 0.0 s",
+      "time" : "2026-11-25T22:32:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:32:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 23 photos",
+      "time" : "2026-11-25T22:32:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:32:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:32:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Tri-X 400 · Pushed to 1600",
+      "time" : "2026-11-25T22:33:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 28%",
+      "time" : "2026-11-25T22:33:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 13%",
+      "time" : "2026-11-25T22:33:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-25T22:33:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 3 × 4",
+      "time" : "2026-11-25T22:33:37Z"
+    },
+    {
+      "count" : 3,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-25T22:33:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-25T22:34:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 25%",
+      "time" : "2026-11-25T22:34:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Shadows: 0 → -64",
+      "time" : "2026-11-25T22:34:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Shadows: -64 → 0",
+      "time" : "2026-11-25T22:34:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:34:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 25%",
+      "time" : "2026-11-25T22:34:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 25%",
+      "time" : "2026-11-25T22:34:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: TIFF, 6336 × 9520, with an edit, in 0.0 s",
+      "time" : "2026-11-25T22:34:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:34:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: TIFF, 6336 × 9520, with an edit, in 0.0 s",
+      "time" : "2026-11-25T22:34:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 25%",
+      "time" : "2026-11-25T22:34:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo X: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:34:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:34:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:34:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:34:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:34:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo W: TIFF, 6336 × 9520, with an edit, in 0.0 s",
+      "time" : "2026-11-25T22:35:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 25%",
+      "time" : "2026-11-25T22:35:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Copy Settings…",
+      "time" : "2026-11-25T22:35:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo X: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:35:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:35:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Paste Settings",
+      "time" : "2026-11-25T22:35:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Paste Settings",
+      "time" : "2026-11-25T22:35:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:35:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Slow render: 621 ms at 100%",
+      "time" : "2026-11-25T22:35:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:35:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:35:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-25T22:35:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 3 × 4",
+      "time" : "2026-11-25T22:35:41Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-25T22:35:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-25T22:35:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 23%",
+      "time" : "2026-11-25T22:35:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 100%",
+      "time" : "2026-11-25T22:36:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 23%",
+      "time" : "2026-11-25T22:36:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Y: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:36:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:36:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Z: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:36:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:36:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 22 photos",
+      "time" : "2026-11-25T22:36:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AA: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:36:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:36:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:36:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 21 photos",
+      "time" : "2026-11-25T22:36:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AB: TIFF, 9520 × 6336, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:36:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:36:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 24%",
+      "time" : "2026-11-25T22:36:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:36:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 20 photos",
+      "time" : "2026-11-25T22:36:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AC: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:36:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:36:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:36:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:36:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-11-25T22:37:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:37:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 19 photos",
+      "time" : "2026-11-25T22:37:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AD: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:37:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:37:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:37:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:37:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 18 photos",
+      "time" : "2026-11-25T22:37:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AE: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:37:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:37:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 18%",
+      "time" : "2026-11-25T22:37:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:37:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 17 photos",
+      "time" : "2026-11-25T22:37:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo AF: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:37:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:37:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move to Trash",
+      "time" : "2026-11-25T22:37:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 16 photos",
+      "time" : "2026-11-25T22:37:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo Y: TIFF, 6336 × 9520, unedited, in 0.0 s",
+      "time" : "2026-11-25T22:37:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Move 1 Photo to the Trash",
+      "time" : "2026-11-25T22:37:58Z"
+    }
+  ],
+  "area" : "performance.memory",
+  "captured" : "2026-11-25T22:39:15Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "masks" : [
+
+    ],
+    "pointCurve" : false,
+    "processVersion" : 21,
+    "settings" : [
+
+    ],
+    "snapshots" : 0,
+    "spots" : 0,
+    "treatment" : "Color",
+    "whiteBalance" : "As Shot"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Import"
+  ],
+  "historyIndex" : 0,
+  "kind" : "bug",
+  "log" : [
+    "23:15:48 notice lens-profiles: SONY (Venus Optics 60mm f2.8 2X Ultra-Macro Lens) - RAW.lcp: Adobe (Laowa 60mm f2.8 2X Ultra-Macro Lens, SONY): no focal length",
+    "23:15:48 notice lens-profiles: SONY (Venus Optics Laowa 10mm F4 Cookie) - RAW.lcp: Adobe (Laowa 10mm F4 Cookie, SONY): no focal length",
+    "23:15:48 notice lens-profiles: SONY (Venus Optics Laowa 15mm F2 Zero-D) - RAW.lcp: Adobe (Laowa 15mm F2 Zero-D, SONY): no focal length",
+    "23:15:48 notice lens-profiles: SONY (Venus Optics Laowa Argus 33mm f0.95 CF APO) - RAW.lcp: Adobe (Laowa Argus 33mm f0.95 CF APO, SONY): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 28mm f1.9 Ultron Aspherical) - RAW.lcp: Adobe (Voigtlander LTM 28mm f/1.9 Ultron Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 28mm f3.5 Color Skopar) - RAW.lcp: Adobe (Voigtlander LTM 28mm f/3.5 Color Skopar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 35mm f1.7 Ultron Aspherical) - RAW.lcp: Adobe (Voigtlander LTM 35mm f/1.7 Ultron Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 50mm f2 Heliar) - RAW.lcp: Adobe (Voigtlander LTM 50mm f/2 Heliar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 50mm f2.5 Color Skopar) - RAW.lcp: Adobe (Voigtlander LTM 50mm f/2.5 Color Skopar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 50mm f3.5 Heliar) - RAW.lcp: Adobe (Voigtlander LTM 50mm f/3.5 Heliar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 75mm f2.5 Color Heliar) - RAW.lcp: Adobe (Voigtlander LTM 75mm f/2.5 Color Heliar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander LTM 90mm f3.5 APO Lanthar) - RAW.lcp: Adobe (Voigtlander LTM 90mm f/3.5 APO Lanthar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 12mm f5.6 Ultra Wide Heliar Aspherical) - RAW.lcp: Adobe (Voigtlander VM 12mm f/5.6 Ultra Wide Heliar Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 15mm f4.5 Super Wide Heliar II Aspherical) - RAW.lcp: Adobe (Voigtlander VM 15mm f/4.5 Super Wide Heliar II Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 15mm f4.5 Super Wide Heliar III Aspherical) - RAW.lcp: Adobe (Voigtlander VM 15mm f/4.5 Super Wide Heliar III Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 21mm f1.4 Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander VM 21mm f/1.4 Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 21mm f1.8 Ultron Aspherical) - RAW.lcp: Adobe (Voigtlander VM 21mm f/1.8 Ultron Aspherical) at 21 mm: no aperture",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 21mm f3.5 Color Skopar Aspherical) - RAW.lcp: Adobe (Voigtlander VM 21mm f/3.5 Color Skopar Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 21mm f4 Color Skopar) - RAW.lcp: Adobe (Voigtlander VM 21mm f/4 Color Skopar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 25mm f4 Color Skopar) - RAW.lcp: Adobe (Voigtlander VM 25mm f/4 Color Skopar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 28mm f2 Ultron) - RAW.lcp: Adobe (Voigtlander VM 28mm f/2 Ultron): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 35mm f1.2 Nokton II Aspherical) - RAW.lcp: Adobe (Voigtlander VM 35mm f/1.2 Nokton II Aspherical) at 35 mm: no aperture",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 35mm f1.4 Nokton Classic) - RAW.lcp: Adobe (Voigtlander VM 35mm f/1.4 Nokton Classic) at 35 mm: no aperture",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 35mm f1.7 Ultron) - RAW.lcp: Adobe (Voigtlander VM 35mm f/1.7 Ultron): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 35mm f2 Ultron Aspherical) - RAW.lcp: Adobe (Voigtlander VM 35mm f/2 Ultron Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 35mm f2.5 Color Skopar) - RAW.lcp: Adobe (Voigtlander VM 35mm f/2.5 Color Skopar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 40mm f1.2 Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander VM 40mm f/1.2 Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 40mm f1.4 Nokton Classic) - RAW.lcp: Adobe (Voigtlander VM 40mm f/1.4 Nokton Classic): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 40mm f2.8 Heliar) - RAW.lcp: Adobe (Voigtlander VM 40mm f/2.8 Heliar): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 50mm f1.1 Nokton) - RAW.lcp: Adobe (Voigtlander VM 50mm f/1.1 Nokton) at 50 mm: no aperture",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 50mm f1.2 Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander VM 50mm f/1.2 Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 50mm f1.5 Nokton Aspherical II MC) - RAW.lcp: Adobe (Voigtlander VM 50mm f/1.5 Nokton Aspherical II MC): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 50mm f1.5 Nokton Aspherical II SC) - RAW.lcp: Adobe (Voigtlander VM 50mm f/1.5 Nokton Aspherical II SC): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 50mm f1.5 Nokton) - RAW.lcp: Adobe (Voigtlander VM 50mm f/1.5 Nokton) at 50 mm: no aperture",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 75mm f1.5 Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander VM 75mm f/1.5 Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM 75mm f1.8 Heliar) - RAW.lcp: Adobe (Voigtlander VM 75mm f/1.8 Heliar) at 75 mm: no aperture",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM APO-LANTHAR 35mm F2 Aspherical) - RAW.lcp: Adobe (Voigtlander VM APO-LANTHAR 35mm F2 Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Voigtlander VM APO-LANTHAR 50mm F2 Aspherical) - RAW.lcp: Adobe (Voigtlander VM APO-LANTHAR 50mm F2 Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: MFT (Voigtlander MFT 10.5mm f0.95 Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander MFT 10.5mm f/0.95 Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: MFT (Voigtlander MFT 17.5mm f0.95 Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander MFT 17.5mm f/0.95 Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: MFT (Voigtlander MFT 25mm f0.95 Nokton) - RAW.lcp: Adobe (Voigtlander MFT 25mm f/0.95 Nokton): no focal length",
+    "23:15:48 notice lens-profiles: MFT (Voigtlander MFT 29mm f0.8 Super Nokton Aspherical) - RAW.lcp: Adobe (Voigtlander MFT 29mm f/0.8 Super Nokton Aspherical): no focal length",
+    "23:15:48 notice lens-profiles: MFT (Voigtlander MFT 42.5mm f0.95 Nokton) - RAW.lcp: Adobe (Voigtlander MFT 42.5mm f/0.95 Nokton): no focal length",
+    "23:15:48 notice lens-profiles: MFT (Voigtlander MFT 60mm f0.95 Nokton) - RAW.lcp: Adobe (Voigtlander MFT 60mm f/0.95 Nokton): no focal length",
+    "23:15:48 notice lens-profiles: Fujifilm (ZY Optics Mitakon Speedmaster 35mm f0.95 Mark II) - RAW.lcp: Adobe (ZY Optics Mitakon Speedmaster 35mm f/0.95 Mark II, Fujifilm) at 35 mm: no aperture",
+    "23:15:48 notice lens-profiles: SONY (Mitakon SpeedMaster 85mm f1.2) - RAW.lcp: Adobe (ZY Optics Mitakon SpeedMaster 85mm f/1.2): no focal length",
+    "23:15:48 notice lens-profiles: SONY (ZY Optics Mitakon 35mm f_0.95) - RAW.lcp: Adobe (ZY Optics Mitakon 35mm f/0.95, SONY): no focal length",
+    "23:15:48 notice lens-profiles: ZY Optics Mitakon Speedmaster 50mm f0.95 Pro - RAW.lcp: Adobe (ZY Optics Mitakon Speedmaster 50mm f/0.95 Pro, SONY): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Biogon 2.8_21 ZM) - RAW.lcp: Adobe (Zeiss Biogon T* 2,8/21 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Biogon T 2.8_25 ZM) - RAW.lcp: Adobe (Zeiss Biogon T* 2,8/25 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Biogon T 2.8_28 ZM) - RAW.lcp: Adobe (Zeiss Biogon T* 2,8/28 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Biogon T 2_35 ZM) - RAW.lcp: Adobe (Zeiss Biogon T* 2/35 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss C Biogon T 2.8_35 ZM) - RAW.lcp: Adobe (Zeiss C Biogon T* 2,8/35 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss C Biogon T 4.5_21 ZM) - RAW.lcp: Adobe (Zeiss C Biogon T* 4,5/21 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss C Sonnar T 1.5_50 ZM) - RAW.lcp: Adobe (Zeiss C Sonnar T* 1,5/50 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Distagon T 1.4_35 ZM) - RAW.lcp: Adobe (Zeiss Distagon T* 1,4/35 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Distagon T 2.8_15 ZM) - RAW.lcp: Adobe (Zeiss Distagon T* 2,8/15 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Distagon T 4_18 ZM) - RAW.lcp: Adobe (Zeiss Distagon T* 4/18 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Planar T 2_50 ZM) - RAW.lcp: Adobe (Zeiss Planar T* 2/50 ZM): no focal length",
+    "23:15:48 notice lens-profiles: Leica Camera AG (Zeiss Tele-Tessar T 4_85 ZM) - RAW.lcp: Adobe (Zeiss Tele-Tessar T* 4/85 ZM): no focal length"
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo Y",
+    "fileName" : "Photo Y",
+    "format" : "TIFF (TIFF)",
+    "size" : "6336 × 9520 (60.3 MP)",
+    "volume" : "apfs, internal"
+  },
+  "report" : "200BB6CA-252B-4191-889F-C96362861B35",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-11-25T22:39:15Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "processVersion" : 21,
+      "treatment" : "color",
+      "values" : {
+
+      },
+      "version" : 3,
+      "whiteBalance" : "asShot"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Shadows",
+    "folderPhotos" : 16,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer"
+    ],
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "18%"
+  },
+  "system" : {
+    "appVersion" : "0.3.5-alpha",
+    "build" : "3148",
+    "chip" : "Apple M1 Pro",
+    "commit" : "c1fed204c34e",
+    "configuration" : "Release",
+    "cores" : "8 performance and 2 efficiency cores",
+    "displays" : [
+      "1728 × 1117 pt at 2x, Color LCD, HDR up to 16x"
+    ],
+    "gpu" : "Apple M1 Pro, 25 GB working set",
+    "locale" : "en_US@rg=czzzzz",
+    "lowPowerMode" : false,
+    "macOS" : "26.7.0 (25G229)",
+    "memory" : "32 GB",
+    "model" : "MacBookPro18,1",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): not downloaded",
+      "Depth Anything V2 (small) (depth-anything-v2-small): ready",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): not downloaded",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): not downloaded",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
