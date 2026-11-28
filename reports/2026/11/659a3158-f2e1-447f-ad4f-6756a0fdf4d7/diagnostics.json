@@ -1,0 +1,3050 @@
+{
+  "activity" : [
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Redlamp started",
+      "time" : "2026-11-28T04:20:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 169 photos",
+      "time" : "2026-11-28T04:20:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo A: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.7 s",
+      "time" : "2026-11-28T04:20:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 29%",
+      "time" : "2026-11-28T04:20:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:20:15Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "action",
+      "text" : "Reverse Sort Order",
+      "time" : "2026-11-28T04:20:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 182 photos",
+      "time" : "2026-11-28T04:21:23Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "action",
+      "text" : "Toggle Zoom (Fit ↔ 100%)",
+      "time" : "2026-11-28T04:22:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-11-28T04:22:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:22:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo B: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.6 s",
+      "time" : "2026-11-28T04:22:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-11-28T04:23:08Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-11-28T04:23:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-11-28T04:23:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.6 s",
+      "time" : "2026-11-28T04:23:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-11-28T04:23:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.7 s",
+      "time" : "2026-11-28T04:23:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-11-28T04:23:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-11-28T04:23:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-11-28T04:23:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-11-28T04:23:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:29Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-11-28T04:23:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo C: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-11-28T04:23:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-11-28T04:23:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo D: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-11-28T04:23:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:23:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:23:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:24:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:24:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "system",
+      "text" : "Memory pressure: warning",
+      "time" : "2026-11-28T04:26:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:28:52Z"
+    },
+    {
+      "count" : 3,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-11-28T04:28:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-11-28T04:28:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:28:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo E: CR3, Canon EOS an album, 6000 × 4000, unedited, in 0.0 s",
+      "time" : "2026-11-28T04:28:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:29:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:29:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 4950 → 2000",
+      "time" : "2026-11-28T04:29:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Import”",
+      "time" : "2026-11-28T04:29:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:29:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Color → Redlamp Neutral",
+      "time" : "2026-11-28T04:29:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Base Look: Redlamp Neutral → Redlamp Color",
+      "time" : "2026-11-28T04:29:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Dehaze: 0 → +14",
+      "time" : "2026-11-28T04:29:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Base Look: Redlamp Neutral → Redlamp Color”",
+      "time" : "2026-11-28T04:29:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:29:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Texture: 0 → +18",
+      "time" : "2026-11-28T04:29:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Texture: +18 → 0",
+      "time" : "2026-11-28T04:29:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Exposure: 0.00 → +0.22",
+      "time" : "2026-11-28T04:29:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Exposure: +0.22 → 0.00",
+      "time" : "2026-11-28T04:29:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Auto",
+      "time" : "2026-11-28T04:30:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Auto → As Shot",
+      "time" : "2026-11-28T04:30:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Daylight",
+      "time" : "2026-11-28T04:30:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Daylight → As Shot",
+      "time" : "2026-11-28T04:30:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:30:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:30:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:30:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:30:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Cloudy",
+      "time" : "2026-11-28T04:31:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Cloudy → Daylight",
+      "time" : "2026-11-28T04:31:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Daylight → As Shot",
+      "time" : "2026-11-28T04:31:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: As Shot → Daylight",
+      "time" : "2026-11-28T04:31:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "White Balance: Daylight → As Shot",
+      "time" : "2026-11-28T04:31:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Temp: 4950 → 5200",
+      "time" : "2026-11-28T04:31:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +26 → +25",
+      "time" : "2026-11-28T04:31:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-11-28T04:32:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-11-28T04:32:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-11-28T04:32:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Subject",
+      "time" : "2026-11-28T04:32:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-11-28T04:32:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-11-28T04:32:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 183 photos",
+      "time" : "2026-11-28T04:32:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 29%",
+      "time" : "2026-11-28T04:32:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Exposure: 0.00 → +0.43",
+      "time" : "2026-11-28T04:33:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Contrast: 0 → +11",
+      "time" : "2026-11-28T04:33:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Highlights: 0 → -19",
+      "time" : "2026-11-28T04:33:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Shadows: 0 → -14",
+      "time" : "2026-11-28T04:33:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Shadows: -14 → 0",
+      "time" : "2026-11-28T04:33:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Blacks: 0 → +36",
+      "time" : "2026-11-28T04:33:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Blacks: +36 → 0",
+      "time" : "2026-11-28T04:33:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 71%",
+      "time" : "2026-11-28T04:33:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Texture: 0 → +12",
+      "time" : "2026-11-28T04:33:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Clarity: 0 → +11",
+      "time" : "2026-11-28T04:33:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Dehaze: 0 → +10",
+      "time" : "2026-11-28T04:34:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:40:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:40:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Toggle Zoom (Fit ↔ 100%)",
+      "time" : "2026-11-28T04:40:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 29%",
+      "time" : "2026-11-28T04:40:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:40:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:40:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:40:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:40:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:40:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:40:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:40:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:40:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:40:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete Subject",
+      "time" : "2026-11-28T04:41:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T04:41:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:22Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:41:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:41:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 32%",
+      "time" : "2026-11-28T04:41:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Contrast: 0 → +19",
+      "time" : "2026-11-28T04:42:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Red Eye Correction",
+      "time" : "2026-11-28T04:42:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-11-28T04:42:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Background mask",
+      "time" : "2026-11-28T04:42:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Background",
+      "time" : "2026-11-28T04:42:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-11-28T04:42:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Background mask",
+      "time" : "2026-11-28T04:42:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 184 photos",
+      "time" : "2026-11-28T04:42:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 29%",
+      "time" : "2026-11-28T04:42:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Exposure: 0.00 → -0.64",
+      "time" : "2026-11-28T04:42:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Saturation: 0 → +11",
+      "time" : "2026-11-28T04:42:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: 0.0 → -86.4",
+      "time" : "2026-11-28T04:43:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Saturation: 0 → +11”",
+      "time" : "2026-11-28T04:43:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:43:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Hue: 0.0 → -86.4”",
+      "time" : "2026-11-28T04:43:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:43:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: -86.4 → -47.6",
+      "time" : "2026-11-28T04:43:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:43:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:43:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:43:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:43:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: -47.6 → -103.5",
+      "time" : "2026-11-28T04:43:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: -103.5 → -130.4",
+      "time" : "2026-11-28T04:44:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: -130.4 → -164.0",
+      "time" : "2026-11-28T04:44:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:44:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:44:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: -164.0 → -105.7",
+      "time" : "2026-11-28T04:44:21Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Hue: -105.7 → -87.0",
+      "time" : "2026-11-28T04:44:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:44:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:44:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:44:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:44:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Tint: 0 → -10",
+      "time" : "2026-11-28T04:44:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Hue: -105.7 → -87.0”",
+      "time" : "2026-11-28T04:44:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:44:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Tint: 0 → -10”",
+      "time" : "2026-11-28T04:44:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:44:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Hue: -105.7 → -87.0”",
+      "time" : "2026-11-28T04:45:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:45:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Tint: 0 → -10”",
+      "time" : "2026-11-28T04:45:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:45:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Hue: -105.7 → -87.0”",
+      "time" : "2026-11-28T04:45:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:45:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Temp: 0 → -18",
+      "time" : "2026-11-28T04:45:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:45:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:45:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:45:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:45:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Temp: -18 → +6",
+      "time" : "2026-11-28T04:45:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: 0 → -18”",
+      "time" : "2026-11-28T04:45:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:45:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: -18 → +6”",
+      "time" : "2026-11-28T04:45:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:45:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: 0 → -18”",
+      "time" : "2026-11-28T04:46:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:46:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: -18 → +6”",
+      "time" : "2026-11-28T04:46:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:46:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Temp: +6 → 0",
+      "time" : "2026-11-28T04:46:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: -18 → +6”",
+      "time" : "2026-11-28T04:46:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:46:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: +6 → 0”",
+      "time" : "2026-11-28T04:46:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:46:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: -18 → +6”",
+      "time" : "2026-11-28T04:46:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:46:14Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Temp: +6 → 0”",
+      "time" : "2026-11-28T04:46:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:46:16Z"
+    },
+    {
+      "count" : 5,
+      "kind" : "edit",
+      "text" : "Background Curve",
+      "time" : "2026-11-28T04:46:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Background Curves",
+      "time" : "2026-11-28T04:46:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Curve”",
+      "time" : "2026-11-28T04:46:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:46:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Background Curves",
+      "time" : "2026-11-28T04:46:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Curve”",
+      "time" : "2026-11-28T04:47:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:47:01Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Background Curve",
+      "time" : "2026-11-28T04:47:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset Background Curves",
+      "time" : "2026-11-28T04:47:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Background Curve”",
+      "time" : "2026-11-28T04:47:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:47:11Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Computing a Subject mask",
+      "time" : "2026-11-28T04:47:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "New Subject",
+      "time" : "2026-11-28T04:47:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-11-28T04:47:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Finished computing the Subject mask",
+      "time" : "2026-11-28T04:47:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Temp: 0 → +11",
+      "time" : "2026-11-28T04:47:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Temp: +11 → 0",
+      "time" : "2026-11-28T04:47:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Subject Temp: 0 → +11”",
+      "time" : "2026-11-28T04:47:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:47:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 86%",
+      "time" : "2026-11-28T04:48:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “New Subject”",
+      "time" : "2026-11-28T04:48:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T04:48:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Subject Temp: 0 → +11”",
+      "time" : "2026-11-28T04:48:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T04:48:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 34%",
+      "time" : "2026-11-28T04:48:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 74%",
+      "time" : "2026-11-28T04:48:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Exposure: 0.00 → -0.11",
+      "time" : "2026-11-28T04:48:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Exposure: -0.11 → 0.00",
+      "time" : "2026-11-28T04:48:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 71%",
+      "time" : "2026-11-28T04:48:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Texture: 0 → +6",
+      "time" : "2026-11-28T04:48:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Subject Texture: +6 → 0",
+      "time" : "2026-11-28T04:48:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-11-28T04:48:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-11-28T04:48:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Dehaze: 0 → -1",
+      "time" : "2026-11-28T04:49:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Background Dehaze: -1 → 0",
+      "time" : "2026-11-28T04:49:10Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-11-28T04:49:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:49:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:49:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-28T04:49:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:50:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:50:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T04:50:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-28T04:50:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 16 × 9",
+      "time" : "2026-11-28T04:50:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 27%",
+      "time" : "2026-11-28T04:50:31Z"
+    },
+    {
+      "count" : 8,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-28T04:50:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: Original",
+      "time" : "2026-11-28T04:51:19Z"
+    },
+    {
+      "count" : 3,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-28T04:51:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 21 × 9",
+      "time" : "2026-11-28T04:51:43Z"
+    },
+    {
+      "count" : 5,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-28T04:51:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Crop Aspect: 2 × 1",
+      "time" : "2026-11-28T04:52:23Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-28T04:52:27Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T04:52:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-11-28T04:52:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:52:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:52:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:52:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:52:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T04:52:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T04:52:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:53:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:53:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:53:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:53:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:53:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:53:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:53:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T04:53:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exporting Photo E…",
+      "time" : "2026-11-28T04:55:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exported Photo E-redlamp.jpg",
+      "time" : "2026-11-28T04:55:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exporting Photo E…",
+      "time" : "2026-11-28T04:56:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exported Photo E-redlamp.jpg",
+      "time" : "2026-11-28T04:56:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Effects panel",
+      "time" : "2026-11-28T04:56:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Closed the Effects panel",
+      "time" : "2026-11-28T04:56:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Border panel",
+      "time" : "2026-11-28T04:56:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: 35 mm Film",
+      "time" : "2026-11-28T04:56:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 28%",
+      "time" : "2026-11-28T04:56:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: Plain",
+      "time" : "2026-11-28T04:56:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Border: None",
+      "time" : "2026-11-28T04:56:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 30%",
+      "time" : "2026-11-28T04:56:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T04:58:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-11-28T04:58:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Copy Settings…",
+      "time" : "2026-11-28T04:59:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Next Photo",
+      "time" : "2026-11-28T04:59:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Previous Photo",
+      "time" : "2026-11-28T04:59:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-11-28T04:59:23Z"
+    },
+    {
+      "count" : 2,
+      "kind" : "action",
+      "text" : "Toggle Zoom (Fit ↔ 100%)",
+      "time" : "2026-11-28T04:59:54Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Cancel / Leave Tool",
+      "time" : "2026-11-28T04:59:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Pasted settings onto Photo F",
+      "time" : "2026-11-28T05:00:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 186 photos",
+      "time" : "2026-11-28T05:00:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T05:00:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "photo",
+      "text" : "Opened Photo F: CR3, Canon EOS an album, 4000 × 6000, with an edit, in 0.5 s",
+      "time" : "2026-11-28T05:00:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-11-28T05:00:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Masking",
+      "time" : "2026-11-28T05:00:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Subject”: Subject",
+      "time" : "2026-11-28T05:00:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-11-28T05:00:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:00:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:00:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:00:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Heal",
+      "time" : "2026-11-28T05:00:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-11-28T05:00:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-11-28T05:00:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-11-28T05:00:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-11-28T05:00:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-11-28T05:01:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 187 photos",
+      "time" : "2026-11-28T05:01:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:01:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 45%",
+      "time" : "2026-11-28T05:01:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:01:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:01:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:01:36Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:01:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:01:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-11-28T05:01:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-11-28T05:01:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-11-28T05:01:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-11-28T05:01:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:01:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 186 photos",
+      "time" : "2026-11-28T05:01:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:01:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-11-28T05:02:12Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Brush",
+      "time" : "2026-11-28T05:02:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:02:26Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-11-28T05:02:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:02:28Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-11-28T05:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-11-28T05:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-11-28T05:02:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Person",
+      "time" : "2026-11-28T05:02:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-11-28T05:02:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-11-28T05:02:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 187 photos",
+      "time" : "2026-11-28T05:02:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:03:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-11-28T05:03:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:03:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 186 photos",
+      "time" : "2026-11-28T05:03:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-11-28T05:03:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-11-28T05:03:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-11-28T05:03:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-11-28T05:03:16Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 187 photos",
+      "time" : "2026-11-28T05:03:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Opened”",
+      "time" : "2026-11-28T05:03:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:03:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 186 photos",
+      "time" : "2026-11-28T05:03:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-11-28T05:03:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 187 photos",
+      "time" : "2026-11-28T05:03:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Spot",
+      "time" : "2026-11-28T05:03:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Brush",
+      "time" : "2026-11-28T05:03:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Remove Object”",
+      "time" : "2026-11-28T05:03:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:03:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 41%",
+      "time" : "2026-11-28T05:03:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "message",
+      "text" : "Remove Dust said: No dust found.",
+      "time" : "2026-11-28T05:04:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Brush",
+      "time" : "2026-11-28T05:04:31Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-11-28T05:04:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Remove Object”",
+      "time" : "2026-11-28T05:04:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:04:39Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-11-28T05:04:44Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 188 photos",
+      "time" : "2026-11-28T05:04:45Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:04:47Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 48%",
+      "time" : "2026-11-28T05:04:50Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 34%",
+      "time" : "2026-11-28T05:04:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Healing mode: Remove",
+      "time" : "2026-11-28T05:05:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Healing",
+      "time" : "2026-11-28T05:05:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Click picks: Object",
+      "time" : "2026-11-28T05:05:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Reset",
+      "time" : "2026-11-28T05:05:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:05:23Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:05:24Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Remove Object”",
+      "time" : "2026-11-28T05:05:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:05:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "mask",
+      "text" : "Selected mask “Background”: Background",
+      "time" : "2026-11-28T05:05:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Delete All Spots",
+      "time" : "2026-11-28T05:05:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Remove Object",
+      "time" : "2026-11-28T05:05:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "The folder holds 189 photos",
+      "time" : "2026-11-28T05:05:34Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:05:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 24%",
+      "time" : "2026-11-28T05:05:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +25 → +13",
+      "time" : "2026-11-28T05:05:52Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Remove Object”",
+      "time" : "2026-11-28T05:05:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:05:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +25 → +16",
+      "time" : "2026-11-28T05:05:57Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 132%",
+      "time" : "2026-11-28T05:06:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Library",
+      "time" : "2026-11-28T05:06:04Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Develop",
+      "time" : "2026-11-28T05:06:06Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:06:08Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:06:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:06:18Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:06:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "panel",
+      "text" : "Opened the Detail panel",
+      "time" : "2026-11-28T05:06:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Color Noise Reduction: 25 → 38",
+      "time" : "2026-11-28T05:06:48Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Tint: +25 → +16”",
+      "time" : "2026-11-28T05:06:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:06:49Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Color Noise Reduction: 25 → 36",
+      "time" : "2026-11-28T05:06:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:06:56Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:06:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 97%",
+      "time" : "2026-11-28T05:07:00Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Toggle Zoom (Fit ↔ 100%)",
+      "time" : "2026-11-28T05:07:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-11-28T05:07:01Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 22%",
+      "time" : "2026-11-28T05:07:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:08:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:08:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 125%",
+      "time" : "2026-11-28T05:08:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 267%",
+      "time" : "2026-11-28T05:08:20Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 75%",
+      "time" : "2026-11-28T05:08:32Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-11-28T05:11:37Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Tint: +16 → +8",
+      "time" : "2026-11-28T05:11:51Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:11:53Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:11:58Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After: Full Frame",
+      "time" : "2026-11-28T05:12:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Before / After off",
+      "time" : "2026-11-28T05:12:05Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 21%",
+      "time" : "2026-11-28T05:12:09Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exporting Photo F…",
+      "time" : "2026-11-28T05:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "export",
+      "text" : "Export: Exported Photo F-redlamp.jpg",
+      "time" : "2026-11-28T05:12:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-28T05:13:00Z"
+    },
+    {
+      "count" : 10,
+      "kind" : "edit",
+      "text" : "Crop",
+      "time" : "2026-11-28T05:13:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:13:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 28%",
+      "time" : "2026-11-28T05:13:55Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:13:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:13:59Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:03Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:07Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 26%",
+      "time" : "2026-11-28T05:14:13Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:15Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:17Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:19Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Crop & Straighten",
+      "time" : "2026-11-28T05:14:25Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "tool",
+      "text" : "Tool: Edit",
+      "time" : "2026-11-28T05:14:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 28%",
+      "time" : "2026-11-28T05:14:30Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:33Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:35Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:38Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 29%",
+      "time" : "2026-11-28T05:14:40Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Undo",
+      "time" : "2026-11-28T05:14:41Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 28%",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:42Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "edit",
+      "text" : "Went to history step “Crop”",
+      "time" : "2026-11-28T05:14:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "action",
+      "text" : "Redo",
+      "time" : "2026-11-28T05:14:43Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 27%",
+      "time" : "2026-11-28T05:14:46Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 25%",
+      "time" : "2026-11-28T05:15:02Z"
+    },
+    {
+      "count" : 1,
+      "kind" : "view",
+      "text" : "Zoom: 27%",
+      "time" : "2026-11-28T05:15:05Z"
+    }
+  ],
+  "area" : "crop.crop",
+  "captured" : "2026-11-28T05:16:55Z",
+  "edit" : {
+    "baseLook" : "Redlamp Color (100)",
+    "crop" : "91% × 91% of the photo",
+    "masks" : [
+      "“Background”: Background; Exposure -0.64, Hue -87.0, Saturation +11; amount 100; apple.vision.foreground+closed-form r1 on Version 27.0.1 (Build 26A434)",
+      "“Subject”: Subject; Temp +11; amount 100; apple.vision.foreground+closed-form r1 on Version 27.0.1 (Build 26A434)"
+    ],
+    "pointCurve" : false,
+    "processVersion" : 21,
+    "settings" : [
+      {
+        "panel" : "Basic",
+        "values" : [
+          "Temp 5200",
+          "Tint +8",
+          "Contrast +19"
+        ]
+      },
+      {
+        "panel" : "Detail",
+        "values" : [
+          "Color Noise Reduction 36"
+        ]
+      }
+    ],
+    "snapshots" : 0,
+    "spots" : 1,
+    "treatment" : "Color",
+    "whiteBalance" : "Custom"
+  },
+  "format" : "app.redlamp.feedback-diagnostics",
+  "formatVersion" : 1,
+  "history" : [
+    "Opened",
+    "Remove Object",
+    "Remove Object",
+    "Delete All Spots",
+    "Remove Object",
+    "Tint: +25 → +16",
+    "Color Noise Reduction: 25 → 36",
+    "Tint: +16 → +8",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop",
+    "Crop"
+  ],
+  "historyIndex" : 17,
+  "kind" : "bug",
+  "log" : [
+
+  ],
+  "messages" : [
+
+  ],
+  "photo" : {
+    "alias" : "Photo F",
+    "asShotWhiteBalance" : "4946 K, tint 27",
+    "camera" : "Canon EOS an album",
+    "exposure" : "ISO 1600, 400 mm, ƒ/8.0, 1/1000 s",
+    "fileName" : "Photo F",
+    "format" : "CR3 (raw, Bayer RGGB)",
+    "lens" : "RF100-400mm F5.6-8 IS USM",
+    "size" : "4000 × 6000 (24.0 MP)",
+    "volume" : "iCloud Drive"
+  },
+  "report" : "659A3158-F2E1-447F-AD4F-6756A0FDF4D7",
+  "sidecar" : {
+    "format" : "app.redlamp.edit",
+    "modified" : "2026-11-28T05:16:55Z",
+    "recipe" : {
+      "baseLook" : {
+        "amount" : 100,
+        "id" : "redlamp/base/color",
+        "name" : "Redlamp Color",
+        "version" : 1
+      },
+      "crop" : {
+        "bottom" : 0.97075314500192433,
+        "left" : 0.016513872740363245,
+        "right" : 0.92197588317624579,
+        "top" : 0.065291134566041756
+      },
+      "exposureAnchor" : {
+        "camera" : "Canon EOS an album",
+        "source" : "estimated",
+        "stops" : 1.55
+      },
+      "masks" : [
+        {
+          "adjustments" : {
+            "local.exposure" : -0.64000000000000001,
+            "local.hue" : -87,
+            "local.saturation" : 11
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "81575337-16A2-47AB-9774-5F44D67F78B7",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "289396bf276f047580565a57859bc6a2",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "c3c4574b8906dfab4dbf5f0183d17665af8371242949905948174666d0aec5d2",
+                      "width" : 2731
+                    },
+                    "center" : {
+                      "x" : 0.51161870903582152,
+                      "y" : 0.49397075982409822
+                    },
+                    "createdAt" : "2026-11-28T05:00:15Z",
+                    "kind" : "background",
+                    "osBuild" : "Version 27.0.1 (Build 26A434)",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "apple.vision.foreground+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "curves" : {
+            "rgb" : [
+              {
+                "x" : 0,
+                "y" : 0
+              },
+              {
+                "x" : 0.25809733072916669,
+                "y" : 0.22728794642857142
+              },
+              {
+                "x" : 0.74618869357638884,
+                "y" : 0.77029389880952381
+              },
+              {
+                "x" : 1,
+                "y" : 1
+              }
+            ]
+          },
+          "id" : "807E03B3-66CC-4822-B636-30BF11A2F5C8",
+          "isVisible" : true,
+          "name" : "Background"
+        },
+        {
+          "adjustments" : {
+            "local.temperature" : 11
+          },
+          "amount" : 100,
+          "components" : [
+            {
+              "id" : "EEEFCD21-CF8C-4053-B1FB-A1877E1DA3DE",
+              "inverted" : false,
+              "operation" : "add",
+              "shape" : {
+                "ai" : {
+                  "_0" : {
+                    "analysisHash" : "289396bf276f047580565a57859bc6a2",
+                    "bitmap" : {
+                      "height" : 4096,
+                      "sha256" : "f50b74874662ea6a4581482d8fd544d230a693144520d6369a8d67d57bffcc2b",
+                      "width" : 2731
+                    },
+                    "center" : {
+                      "x" : 0.42612785986800522,
+                      "y" : 0.53833411042401391
+                    },
+                    "createdAt" : "2026-11-28T05:00:15Z",
+                    "kind" : "subject",
+                    "osBuild" : "Version 27.0.1 (Build 26A434)",
+                    "prompts" : [
+
+                    ],
+                    "provider" : "apple.vision.foreground+closed-form",
+                    "revision" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "id" : "409E200F-EC8D-4ACB-8F27-12967E4ADE4E",
+          "isVisible" : true,
+          "name" : "Subject"
+        }
+      ],
+      "processVersion" : 21,
+      "spots" : [
+        {
+          "center" : {
+            "x" : 0.32127748024132269,
+            "y" : 0.91808433233356912
+          },
+          "feather" : 38.941271551724135,
+          "id" : "24292B14-42AB-4953-8B64-A8EFE90A8617",
+          "mode" : "remove",
+          "opacity" : 100,
+          "radius" : 0.0050000000000000001,
+          "region" : {
+            "analysisHash" : "289396bf276f047580565a57859bc6a2",
+            "bitmap" : {
+              "height" : 4096,
+              "sha256" : "d80f85bd6059d7d4dd7c381aec413f041e581b74ae635b907739c9a95c1ad7f7",
+              "width" : 2731
+            },
+            "center" : {
+              "x" : 0.32127748024132269,
+              "y" : 0.91808433233356912
+            },
+            "createdAt" : "2026-11-28T05:05:34Z",
+            "kind" : "objects",
+            "prompts" : [
+              {
+                "x" : 0.32127748024132269,
+                "y" : 0.91808433233356912
+              }
+            ],
+            "provider" : "redlamp.sam2.1-tiny+closed-form",
+            "revision" : 1
+          },
+          "source" : {
+            "x" : 0.32127748024132269,
+            "y" : 0.91808433233356912
+          }
+        }
+      ],
+      "treatment" : "color",
+      "values" : {
+        "basic.contrast" : 19,
+        "detail.noise.color" : 36,
+        "wb.temperature" : 5200,
+        "wb.tint" : 8
+      },
+      "version" : 3,
+      "whiteBalance" : "custom"
+    },
+    "snapshots" : [
+
+    ]
+  },
+  "state" : {
+    "focusedSlider" : "Tint",
+    "folderPhotos" : 189,
+    "hidden" : [
+
+    ],
+    "panels" : [
+      "Basic",
+      "Tone Curve",
+      "Color Mixer",
+      "Detail",
+      "Border"
+    ],
+    "selectedMask" : "“Background”: Background",
+    "selectedPhotos" : 1,
+    "tool" : "Edit",
+    "zoom" : "27%"
+  },
+  "system" : {
+    "appVersion" : "0.3.5-alpha",
+    "build" : "3148",
+    "chip" : "Apple M4",
+    "commit" : "c1fed204c34e",
+    "configuration" : "Release",
+    "cores" : "4 performance and 6 efficiency cores",
+    "displays" : [
+      "1470 × 956 pt at 2x, Color LCD, HDR up to 2x"
+    ],
+    "gpu" : "Apple M4, 12 GB working set",
+    "locale" : "en_GB@rg=nzzzzz",
+    "lowPowerMode" : false,
+    "macOS" : "27.0.1 (26A434)",
+    "memory" : "16 GB",
+    "model" : "Mac16,12",
+    "models" : [
+      "Depth Anything 3 (mono, large) (depth-anything-3-mono-large): ready",
+      "Depth Anything V2 (small) (depth-anything-v2-small): not downloaded",
+      "FLUX.2 [klein] 4B (flux2-klein-4b-fill): downloading, 0%",
+      "OWLv2 (base) (owlv2-base): not downloaded",
+      "Segment Anything 2.1 (tiny) (sam2.1-tiny): ready",
+      "SAM 3 (sam3): not downloaded",
+      "ViTMatte (base) (vitmatte-base): not downloaded"
+    ],
+    "thermalState" : "nominal"
+  }
+}
